@@ -1,0 +1,22 @@
+ Tow: M-10-001   RV Sarmiento de Gamboa
+ Date: 04/05/2021
+ Temperature Probe #  5203    Conductivity Probe #  3333   Pressure Probe #  155
+ Flow Meter Calibration  4 (m/count)  
+                          MOCNESS STATISTICAL SUMMARY
+              
+net#   pmin   pmax   pavg   tmin   tmax   tavg   thmin  thmax  thavg  smin   smax   savg
+ 1     015.3  016.4  047.3  14.2   14.2   42.6   14.2   14.2   42.6   50.00  50.00  150.00
+              
+net#   simin  simax  siavg  cmin   cmax   cavg   fmin   fmax   favg   oxmin  oxmax  oxavg
+ 1     37.78  37.78  113.35 00.00  00.00  00.00  00.00  00.00  00.00  00.0   00.0   00.0
+              
+net#      irrmin        irrmax       irravg
+ 1     0.000000000 0.000000000 0.000000000
+              
+net#   amin   amax   aavg   spmin  spmax  spavg  armin  armax  aravg     #obs      vol
+ 1      53.0  63.0   174.0  02.4   02.7   07.8   -05.4 -04.2   -14.6     00003     00101
+              
+net#   Yearday/Time  hh:mm:ss  pmin      pmax     pavg     #obs     vol
+                   (NetOpenTime)
+ 1       124.622049  14:55:45  015.3    016.4    047.3    00003    00101
+ 2       124.585023  14:2:26 

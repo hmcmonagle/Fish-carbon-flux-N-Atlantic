@@ -1,0 +1,4 @@
+ ,Area,Mean,Min,Max,Angle,Length,,
+1,0.004,154.312,23.155,252.664,-7.263,1.073,,"ruler measurement in cm not visible, so measured in inches (ImageJ gave length in inches because scale was set in inches)"
+,,,,,, -->,,1.073 inches = 2.7254 cm
+,,,,,,2.7254,,

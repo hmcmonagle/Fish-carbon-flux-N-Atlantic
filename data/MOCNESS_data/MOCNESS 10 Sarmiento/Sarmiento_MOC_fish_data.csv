@@ -1,0 +1,1188 @@
+﻿cruise_no,Ship,Tow_number,Net_number,fish_no,packet_no,lowest_taxa_final,taxa_code_final,taxa_code_final_method,taxa_code_original,taxa_updated_date,visual_ID_confidence,photo_ID,total_length,fork_length,Std_length_mm,total_weight,gut_weight_full,gut_weight_empty,gut_dispensation,sex,sex_confidence,gonad_weight,head_collected,body_location,fish_comments,processed_date,processed_initials
+SG2105,Sarmiento,1,1,1,14,Decapoda,DECA,visual,DECA,,,IMG_6718,,,18,3.2697,,,,,,,Y,not retained,"Used for resipirometry. Foil pack internal label was ind. #2, there were two ind. 2s. 8/4/21: Confirmed by HM that foil envelope #14 is individual 1, foil envelope #15 is individual 2. Maybe Acanthephyra sp.",20210730,JC
+SG2105,Sarmiento,1,0,2,15,Systellapsis debilis,SYDE,genetic,DECA,20230725,,IMG_6719,,,14,1.7272,,,,,,,Y,not retained,Used for resipirometry. ,20210730,JC
+SG2105,Sarmiento,2,4,3,33,Benthosema glaciale,BEGL,genetic,MYCT,20230725,,IMG_6732,,,39,0.8429,,,,,,,Y,not retained,Used for respirometry. Caudal fin missing,20210719,JC
+SG2105,Sarmiento,2,4,4,34,Benthosema glaciale,BEGL,genetic,BEGL,20230725,L,IMG_6733,,,34,0.4717,,,,,,,Y,not retained,Used for respirometry. Caudal fin damaged. ID Notes: can't see POL or Prc but appears to be BEGL,20210719,JC
+SG2105,Sarmiento,4,3,5,57,Amphipoda,AMPH,visual,AMPH,,,IMG_6833,,,15,0.14,,,,,,,Y,not retained,Used for resipirometry. ,20210727,JC
+SG2105,Sarmiento,4,3,6,58,Amphipoda,AMPH,visual,AMPH,,,IMG_6830,,,13,0.0546,,,,,,,Y,not retained,Used for resipirometry. ,20210727,JC
+SG2105,Sarmiento,4,3,7,59,Amphipoda,AMPH,visual,AMPH,,,IMG_6837,,,11,0.0478,,,,,,,Y,not retained,Used for resipirometry. ,20210727,JC
+SG2105,Sarmiento,5,1,8,71,Decapoda,DECA,visual,DECA,,,IMG_6878,,,20,5.967,,,,,,,Y,not retained,Used for resipirometry. ,20210730,JC
+SG2105,Sarmiento,5,1,9,72,Decapoda,DECA,visual,DECA,,,IMG_6880,,,18,4.2655,,,,,,,Y,not retained,Used for resipirometry. ,20210730,JC
+SG2105,Sarmiento,5,1,10,73,Decapoda,DECA,visual,DECA,,,IMG_6881,,,15,2.3478,,,,,,,Y,not retained,Used for resipirometry. No picture,20210730,JC
+SG2105,Sarmiento,6,4,11,83,Myctophum punctatum,MYPU,genetic,MYPU,20230725,M,IMG_6886,95,,80,8.2952,,,,,,,Y,not retained,"Used for resipirometry. ID Notes: think 2 low Prc, SAO straigh line; AOP=10",20210720,JC
+SG2105,Sarmiento,7,1,12,90,Amphipoda,AMPH,visual,AMPH,,,IMG_6916,,,14,0.0685,,,,,,,Y,not retained,Used for resipirometry. ,20210727,JC
+SG2105,Sarmiento,7,1,13,91,Amphipoda,AMPH,visual,AMPH,,,IMG_6917,,,16,0.1063,,,,,,,Y,not retained,Used for resipirometry. ,20210727,JC
+SG2105,Sarmiento,7,1,14,92,Amphipoda,AMPH,visual,AMPH,,,IMG_6920,,,13,0.0725,,,,,,,Y,not retained,Used for resipirometry. ,20210728,JC
+SG2105,Sarmiento,7,2,15,93,Decapoda,DECA,visual,DECA,,,IMG_6926,,,15,2.572,,,,,,,Y,not retained,Used for resipirometry. ,20210731,JC
+SG2105,Sarmiento,7,2,16,94,Decapoda,DECA,visual,DECA,,,IMG_6928,,,12,1.7268,,,,,,,Y,not retained,Used for resipirometry. ,20210731,JC
+SG2105,Sarmiento,7,2,17,95,Systellapsis debilis,SYDE,genetic,DECA,20230725,,IMG_6930,,,13,1.5456,,,,,,,Y,not retained,Used for resipirometry. ,20210731,JC
+SG2105,Sarmiento,8,4,18,105,Myctophum punctatum,MYPU,genetic,MYPU,20230725,M,IMG_6938,,,69,5.11,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, no TL taken.ID Notes: think 2 low Prc, SAO straigh line; AOP=10",20210720,JC
+SG2105,Sarmiento,8,4,19,110,Symbolophorus veranyi,SYVE,genetic,SYSP,20230725,M,IMG_6942,63,,50,1.9002,,,,,,,Y,not retained,Used for resipirometry. ID Notes: pretty sure SAO form right angle,20210720,JC
+SG2105,Sarmiento,8,3,20,111,Themisto sp.,THSP,genetic,AMPH,20230725,,IMG_6946,,,13,0.0638,,,,,,,Y,not retained,Used for resipirometry. Genetic ID listed as Themisto sp./T. compressa,20210728,JC
+SG2105,Sarmiento,8,3,21,112,Amphipoda,AMPH,visual,AMPH,,,IMG_6947,,,17,0.1464,,,,,,,Y,not retained,Used for resipirometry. ,20210728,JC
+SG2105,Sarmiento,8,3,22,113,Amphipoda,AMPH,visual,AMPH,,,IMG_6948,,,17,0.0988,,,,,,,Y,not retained,Used for resipirometry. ,20210728,JC
+SG2105,Sarmiento,9,4,23,121,Benthosema glaciale,BEGL,genetic,MYCT,20230725,,IMG_6963,32,,28,0.2737,,,,,,,Y,not retained,Used for resipirometry. ,20210722,JC
+SG2105,Sarmiento,9,4,24,123,Benthosema glaciale,BEGL,genetic,MYCT,20230725,,IMG_6966,,,43,1.1004,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged. ID Notes: seems to be same species as fish#3,20210722,JC
+SG2105,Sarmiento,9,4,25,124,Benthosema glaciale,BEGL,genetic,BEGL,20230725,M,IMG_6968,42,,35,0.5708,,,,,,,Y,not retained,Used for resipirometry. ,20210722,JC
+SG2105,Sarmiento,9,0,26,125,Amphipoda,AMPH,visual,AMPH,,,IMG_7004,,,16,0.1218,,,,,,,Y,not retained,Used for resipirometry. ,20210728,JC
+SG2105,Sarmiento,9,0,27,126,Amphipoda,AMPH,visual,AMPH,,,SMTF4729,,,18,0.206,,,,,,,Y,not retained,Used for resipirometry. ,20210729,JC
+SG2105,Sarmiento,9,0,28,127,Amphipoda,AMPH,visual,AMPH,,,IMG_7005,,,15,0.114,,,,,,,Y,not retained,Used for resipirometry. ,20210729,JC
+SG2105,Sarmiento,9,0,29,128,Themisto sp.,THSP,genetic,AMPH,20230725,,IMG_6995,,,16,0.1099,,,,,,,Y,not retained,Used for resipirometry. Genetic ID listed as Themisto sp./T. compressa,20210729,JC
+SG2105,Sarmiento,9,0,30,129,Themisto sp.,THSP,genetic,AMPH,20230725,,IMG_6999,,,18,0.1396,,,,,,,Y,not retained,Used for resipirometry. ,20210729,JC
+SG2105,Sarmiento,9,0,31,130,Amphipoda,AMPH,visual,AMPH,,,IMG_6997,,,18,0.1804,,,,,,,Y,not retained,Used for resipirometry. ,20210729,JC
+SG2105,Sarmiento,2,2,32,24,Protomyctophum arcticum,PRAR,genetic,PRAR,20230725,M,SG2105_ORG32_MOC2_NET2,,,32,0.5015,,,,,,,Y,not retained,Used for resipirometry. Missing caudal fin but vertebrae do not appear to be truncated (full standard length).,20210708,JC
+SG2105,Sarmiento,2,3,33,26,Benthosema glaciale,BEGL,genetic,PRAR,20230725,L,SG2105_ORG33_MOC2_NET3,24,,22,0.096,,,,,,,Y,not retained,Used for resipirometry. ,20210708,JC
+SG2105,Sarmiento,2,4,34,35,Benthosema glaciale,BEGL,genetic,BEGL,20230725,L,SG2105_ORG34_MOC2_NET4,42,,39,0.7034,,,,,,,Y,not retained,Used for resipirometry. ,20210711,JC
+SG2105,Sarmiento,2,4,35,35,Benthosema glaciale,BEGL,genetic,BEGL,20230725,L,SG2105_ORG35_MOC2_NET4,41,,37,0.6342,,,,,,,Y,not retained,Used for resipirometry. ,20210711,JC
+SG2105,Sarmiento,8,3,36,102,Argyropelecus olfersii,AROL,genetic,AROL,20230725,M,SG2105_ORG36_MOC8_NET3,31,,27,0.5202,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin broke off but found it in packer, added for measurements. ID Notes: anterior postabdominal spine curved forward",20210712,JC
+SG2105,Sarmiento,8,3,37,102,Argyropelecus hemigymnus,ARHE,visual,ARHE,,,SG2105_ORG37_MOC8_NET3,27,,24,0.2996,,,,,,,Y,not retained,Used for resipirometry. Caudal fin rays broken. ID Notes: can't see postab spine in image but overall appearance like ARHE,20210712,JC
+SG2105,Sarmiento,6,4,38,79,Cyclothone braueri,CYBR,genetic,CYSP,20230725,,SG2105_ORG38_MOC6_NET4,36,,30,0.16,,,,,,,Y,not retained,Used for resipirometry. ,20210712,JC
+SG2105,Sarmiento,8,1,39,98,Robustosergia robusta,RORO,visual,RORO,,M,SG2105_ORG39_MOC8_NET1,,,29,6.5736,,,,,,,Y,not retained,Used for resipirometry.,20210712,JC
+SG2105,Sarmiento,8,3,40,109,Amphipoda,AMPH,visual,AMPH,,,SG2105_ORG40_MOC8_NET3,,,24,0.5093,,,,,,,Y,not retained,Used for resipirometry. ,20210712,JC
+SG2105,Sarmiento,8,4,41,106,Myctophum punctatum,MYPU,genetic,DISU,20230725,M,SG2105_ORG41_MOC8_NET4,103,,90,12.32,,,,,,,Y,not retained,"Used for resipirometry. Very large Myctophid, used the warmth from my hands to melt ice on the surface. Caudal fin broke off, but still present and included in TL. Large amphipods in stomach, stomach burst. ",20210715,JC
+SG2105,Sarmiento,6,4,42,80,Benthosema glaciale,BEGL,genetic,BEGL,20230725,L,SG2105_ORG42_MOC6_NET4,36,,30,0.531,,,,,,,Y,not retained,Used for resipirometry. ,20210715,JC
+SG2105,Sarmiento,6,4,43,79,Cyclothone braueri,CYBR,genetic,CYSP,20230725,,SG2105_ORG43_MOC6_NET4,41,,34,0.2116,,,,,,,Y,not retained,Used for resipirometry. ,20210715,JC
+SG2105,Sarmiento,8,3,44,109,Amphipoda,AMPH,visual,AMPH,,,SG2105_ORG44_MOC8_NET3,,,14,0.0657,,,,,,,Y,not retained,Used for resipirometry. ,20210715,JC
+SG2105,Sarmiento,8,1,45,98,Acanthephyra sp.,ANSP,visual,ANSP,,M,SG2105_ORG45_MOC8_NET1,,,17,3.703,,,,,,,Y,not retained,Used for resipirometry. ID Notes: assumption based on rostral spine,20210715,JC
+SG2105,Sarmiento,7,2,46,86,Benthosema glaciale,BEGL,genetic,BEGL,20230725,L,SG2105_ORG46_MOC7_NET2,30,,25,0.2322,,,,,,,Y,not retained,Used for resipirometry. ,20210716,JC
+SG2105,Sarmiento,7,2,47,86,Benthosema glaciale,BEGL,genetic,BEGL,20230725,L,SG2105_ORG47_MOC7_NET2,,,27,0.2274,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin rays damaged, no TL recorded",20210716,JC
+SG2105,Sarmiento,5,1,48,63,Benthosema glaciale,BEGL,genetic,MYCT,20230725,,SG2105_ORG48_MOC5_NET1,,,23,0.1322,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin missing, no TL recorded",20210716,JC
+SG2105,Sarmiento,8,1,49,97,Poromitra megalops,POME,genetic,MELA,20230725,,SG2105_ORG49_MOC8_NET1,31,,26,0.3142,,,,,,,Y,not retained,Used for resipirometry. ,20210716,JC
+SG2105,Sarmiento,9,1,50,114,Lampanyctus macdonaldi,LAMA,genetic,MYCT,20230725,,SG2105_ORG50_MOC9_NET1,35,,29,0.1355,,,,,,,Y,not retained,Used for resipirometry. ID Notes: this looks more like Cyclothone to LL but can't assess well enough from image,20210716,JC
+SG2105,Sarmiento,9,1,51,114,Lampanyctus macdonaldi,LAMA,genetic,MYCT,20230725,,SG2105_ORG51_MOC9_NET1,,,28,0.1978,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin missing. Black pointy snout. ID Notes: Looks to be cyclothone, not myctophid",20210719,JC
+SG2105,Sarmiento,9,1,52,114,Nannobrachium atrum,NAAT,genetic,LASP,20230725,M,SG2105_ORG52_MOC9_NET1,113,,106,10.4363,,,,,,,Y,not retained,"Used for resipirometry. Fish broke in half in the freezer, but could piece together for measurement. Genetic ID as lampanyctus ater (invalid: Nannobrachium atrum)",20210719,JC
+SG2105,Sarmiento,5,1,53,63,Benthosema glaciale,BEGL,genetic,MYCT,20230725,,SG2105_ORG53_MOC5_NET1,,,24,0.1704,,,,,,,Y,not retained,Used for resipirometry. Caudal fin missing . ID Notes: can't see well in image but appears to be BEGL,20210719,JC
+SG2105,Sarmiento,8,1,54,97,Lampanyctus macdonaldi,LAMA,genetic,LASP,20230725,,SG2105_ORG54_MOC8_NET1,38,,32,0.1875,,,,,,,Y,not retained,Used for resipirometry. ID Notes: maybe nannobrachium,20210720,JC
+SG2105,Sarmiento,4,1,55,43,Lampanyctus sp.,LASP,genetic,LASP,20230725,M,SG2105_ORG55_MOC4_NET1,169,,145,29.3514,,,,,,,Y,not retained,"Used for resipirometry. Took out early to that, very large fish. Ripe ovaries. ID NOTES: maybe Nannobrachium",20210720,JC
+SG2105,Sarmiento,8,3,56,102,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG56_MOC8_NET3,,,27,0.4611,,,,,,,Y,not retained,"Used for resipirometry. Damaged caudal fin rays, ovaries? ID NOTES: post ab spine broken but pretty confident",20210731,JC
+SG2105,Sarmiento,8,3,57,102,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG57_MOC8_NET3,34,,28,0.5161,,,,,,,Y,not retained,Used for resipirometry. Ovaries? ID NOTES: maybe A. hemigymnus,20210731,JC
+SG2105,Sarmiento,7,2,58,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG58_MOC7_NET2,,,25,0.4281,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged. ID NOTES: maybe A. hemigymnus,20210802,JC
+SG2105,Sarmiento,7,2,59,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,H,SG2105_ORG59_MOC7_NET2,29,,23,0.267,,,,,,,Y,not retained,Used for resipirometry. ID NOTES: obvious postab spine,20210802,JC
+SG2105,Sarmiento,7,2,60,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,H,SG2105_ORG60_MOC7_NET2,,,29,0.4908,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged. ID NOTES: obvious postab spine,20210802,JC
+SG2105,Sarmiento,7,2,61,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG61_MOC7_NET2,,,25,0.3046,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged. ID NOTES: broken spine, but pretty confident",20210802,JC
+SG2105,Sarmiento,7,2,62,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,H,SG2105_ORG62_MOC7_NET2,40,,33,0.8271,,,,,,,Y,not retained,Used for resipirometry. Ovaries? ID NOTES: maybe A. hemigymnus,20210802,JC
+SG2105,Sarmiento,7,2,63,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG63_MOC7_NET2,,,26,0.3358,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, ovaries? ID NOTES: broken spine but pretty confident",20210803,JC
+SG2105,Sarmiento,7,2,64,87,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,H,SG2105_ORG64_MOC7_NET2,34,,29,0.5618,,,,,,,Y,not retained,Used for resipirometry. Ovaries? ID NOTES: maybe A. hemigymnus,20210803,JC
+SG2105,Sarmiento,7,2,65,87,Argyropelecus olfersii,AROL,genetic,ARSP,20230725,,SG2105_ORG65_MOC7_NET2,21,,17,0.2016,,,,,,,Y,not retained,"Used for resipirometry. ID NOTES: 2 postab spines appear to be straight down, but posterior is broken; can't asess preopercular spines to distinguish between aculeatus and lychnus",20210803,JC
+SG2105,Sarmiento,6,2,66,77,Argyropelecus hemigymnus,ARHE,genetic,ARSP,20230725,,SG2105_ORG66_MOC6_NET2,34,,28,0.3986,,,,,,,Y,not retained,Used for resipirometry. Ovaries? ID NOTES: maybe A. hemigymnus but can't assess postab spines,20210803,JC
+SG2105,Sarmiento,6,2,67,77,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG67_MOC6_NET2,,,33,0.6018,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged. Large ovaries? not much in gut.  ID NOTES: maybe A. hemigymnus,20210803,JC
+SG2105,Sarmiento,6,2,68,77,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,M,SG2105_ORG68_MOC6_NET2,31,,27,0.3394,,,,,,,Y,not retained,Used for resipirometry. ID NOTES: maybe A. hemigymnus,20210804,JC
+SG2105,Sarmiento,8,3,69,102,Argyropelecus hemigymnus,ARHE,genetic,ARHE,20230725,H,SG2105_ORG69_MOC8_NET3,,,34,0.7329,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged. Large ovaries? not much in gut. ID NOTES: maybe A. hemigymnus,20210804,JC
+SG2105,Sarmiento,5,3,70,66,Argyropelecus olfersii,AROL,genetic,AROL,20230725,L,SG2105_ORG70_MOC5_NET3,30,,24,0.3576,,,,,,,Y,not retained,"Used for resipirometry. Fish was quite squished/folded from flash freezing. Was able to flatten it out. ID NOTES: Maybe A. aculeatus. Anterior postab spine slightly curved forward, so might be either",20210804,JC
+SG2105,Sarmiento,9,3,71,117,Argyropelecus olfersii,AROL,genetic,AROL,20230725,L,SG2105_ORG71_MOC9_NET3,,,42,2.1565,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, ovaries?",20210804,JC
+SG2105,Sarmiento,9,3,72,117,Argyropelecus olfersii,AROL,genetic,ARAC,20230725,L,SG2105_ORG72_MOC9_NET3,30,,26,0.48,,,,,,,Y,not retained,Used for resipirometry. Fish ripped open from flash freezing I assume. ID Notes: likely aculeatus but not sure if postab spines broken,20210804,JC
+SG2105,Sarmiento,9,3,73,117,Argyropelecus olfersii,AROL,genetic,ARSP,20230725,,SG2105_ORG73_MOC9_NET3,,,22,0.3995,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin missing, body cavity ripped open from flash freezing, very full stomach",20210805,JC
+SG2105,Sarmiento,5,1,74,62,Cyclothone braueri,CYBR,genetic,CYSP,20230725,,SG2105_ORG74_MOC5_NET1,,,30,0.1396,,,,,,,Y,not retained,"Used for resipirometry. Broken in half, caudal fin missing",20210805,JC
+SG2105,Sarmiento,5,1,75,62,Cyclothone braueri,CYBR,genetic,CYSP,20230725,,SG2105_ORG75_MOC5_NET1,,,29,0.1459,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin missing, had something that looked like large gonads, but could not tell",20210805,JC
+SG2105,Sarmiento,5,1,76,62,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG76_MOC5_NET1,40,,35,0.1816,,,,,,,Y,not retained,Used for resipirometry. ,20210805,JC
+SG2105,Sarmiento,5,1,77,62,Cyclothone braueri,CYBR,genetic,CYSP,20230725,,SG2105_ORG77_MOC5_NET1,,,19,0.0526,,,,,,,Y,not retained,Used for resipirometry. Caudal fin missing,20210805,JC
+SG2105,Sarmiento,5,1,78,62,Gonostomatidae,GONO,visual,GONO,,,,,,45,0.9504,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged. Fish was frozen folded in half, and ripped when thawed. No picture",20210806,JC
+SG2105,Sarmiento,5,1,79,62,Cyclothone braueri,CYBR,genetic,CYSP,20230725,,SG2105_ORG79_MOC5_NET1,34,,29,0.1458,,,,,,,Y,not retained,Used for resipirometry. ID Notes: maybe C. microdon,20210806,JC
+SG2105,Sarmiento,5,1,80,62,Cyclothone braueri,CYSP,genetic,CYSP,20230725,,SG2105_ORG80_MOC5_NET1,,,36,0.1762,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged,20210806,JC
+SG2105,Sarmiento,5,1,81,62,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG81_MOC5_NET1,,,32,0.1279,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged,20210806,JC
+SG2105,Sarmiento,5,1,82,62,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG82_MOC5_NET1,,,32,0.1538,,,,,,,Y,not retained,Used for resipirometry. Caudal fin damaged,20210806,JC
+SG2105,Sarmiento,4,4,83,52,Cyclothone braueri,CYSP,genetic,CYSP,20230725,,SG2105_ORG83_MOC4_NET4,35,,30,0.152,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin broken off, but present and able to piece together for measurement. ID NOTES: maybe C. microdon",20210808,JC
+SG2105,Sarmiento,4,4,84,52,Cyclothone pallida,CYPA,genetic,CYSP,20230725,,SG2105_ORG84_MOC4_NET4,52,,45,0.4034,,,,,,,Y,not retained,Used for resipirometry. Black one. ID NOTES: maybe C. microdon,20210808,JC
+SG2105,Sarmiento,9,1,85,115,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG85_MOC9_NET1,,,34,0.2003,,,,,,,Y,not retained,Used for resipirometry. Used for resipirometry. Caudal fin damaged,20210808,JC
+SG2105,Sarmiento,9,1,86,115,Cyclothone microdon,CYMI,genetic,CYSP,20230725,,SG2105_ORG86_MOC9_NET1,40,,35,0.2095,,,,,,,Y,not retained,Used for resipirometry. ,20210808,JC
+SG2105,Sarmiento,9,1,87,115,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG87_MOC9_NET1,,,59,0.9818,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, black one",20210808,JC
+SG2105,Sarmiento,8,1,88,99,Sigmops elongatus,SIEL,genetic,SIEL,20230725,,SG2105_ORG88_MOC8_NET1,,,180,25.405,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, huge bristlemouth.",20210809,JC
+SG2105,Sarmiento,7,1,89,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG89_MOC7_NET1,,,62,1.2205,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, black bristlemouth. ID Notes: maybe C. microdon",20210809,JC
+SG2105,Sarmiento,5,1,90,70,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG90_MOC5_NET1,,,52,0.6095,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, black bristlemouth. ID Notes: maybe C. microdon",20210809,JC
+SG2105,Sarmiento,9,1,91,115,Cyclothone braueri,CYSP,genetic,CYSP,20230725,,SG2105_ORG91_MOC9_NET1,,,32,0.182,,,,,,,Y,not retained,"Used for resipirometry. Caudal fin damaged, Cyclothone",20210809,JC
+SG2105,Sarmiento,8,3,92,109,Amphipoda,AMPH,visual,AMPH,,,SG2105_ORG92_MOC8_NET3,,,14,0.0977,,,,,,,Y,not retained,Used for resipirometry. ,20210809,JC
+SG2105,Sarmiento,8,3,93,109,Amphipoda,AMPH,visual,AMPH,,,SG2105_ORG93_MOC8_NET3,,,13,0.0612,,,,,,,Y,not retained,Used for resipirometry. ,20210810,JC
+SG2105,Sarmiento,8,3,94,109,Amphipoda,AMPH,visual,AMPH,,,SG2105_ORG94_MOC8_NET3,,,14,0.065,,,,,,,Y,not retained,Used for resipirometry. ,20210810,JC
+SG2105,Sarmiento,8,1,95,98,Decapoda,DECA,visual,DECA,,,SG2105_ORG95_MOC8_NET1,,,17,3.382,,,,,,,Y,not retained,Used for resipirometry. Some legs missing. ID NOTES: Maybe Acanthephyra sp.,20210810,JC
+SG2105,Sarmiento,8,1,96,98,Acanthephyra sp.,ANSP,visual,ANSP,,L,SG2105_ORG96_MOC8_NET1,,,19,5.3936,,,,,,,Y,not retained,Used for resipirometry. ,20210810,JC
+SG2105,Sarmiento,8,3,97,108,Robustosergia robusta,RORO,visual,RORO,,L,SG2105_ORG97_MOC8_NET3,,,26,5.8773,,,,,,,Y,not retained,Used for resipirometry. ,20210810,JC
+SG2105,Sarmiento,8,3,98,108,Decapoda,DECA,visual,DECA,,,SG2105_ORG98_MOC8_NET3,,,11,1.4979,,,,,,,Y,not retained,Used for resipirometry. ,20210810,JC
+SG2105,Sarmiento,8,3,99,108,Decapoda,DECA,visual,DECA,,,SG2105_ORG99_MOC8_NET3,,,14,1.8206,,,,,,,Y,not retained,Used for resipirometry. ,20210811,JC
+SG2105,Sarmiento,8,3,100,108,Decapoda,DECA,visual,DECA,,,SG2105_ORG100_MOC8_NET3,,,18,2.396,,,,,,,Y,not retained,Used for resipirometry. ,20210811,JC
+SG2105,Sarmiento,8,3,101,108,Decapoda,DECA,visual,DECA,,,SG2105_ORG101_MOC8_NET3,,,12,1.3581,,,,,,,Y,not retained,Used for resipirometry. ,20210811,JC
+SG2105,Sarmiento,8,3,102,108,Acanthephyra sp.,ANSP,visual,ANSP,,M,SG2105_ORG102_MOC8_NET3,,,15,2.0469,,,,,,,Y,not retained,Used for resipirometry. ,20210811,JC
+SG2105,Sarmiento,8,3,103,108,Acanthephyra sp.,ANSP,visual,ANSP,,M,SG2105_ORG103_MOC8_NET3,,,15,3.406,,,,,,,Y,not retained,Used for resipirometry. ,20210811,JC
+SG2105,Sarmiento,4,2,104,61,Decapoda,DECA,visual,DECA,,,SG2105_ORG104_MOC4_NET2,,,9,0.8584,,,,,,,Y,not retained,Used for resipirometry. ,20210811,JC
+SG2105,Sarmiento,1,1,105,1,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG105_MOC1_NET1,26,,23,0.1452,,,,,,,,neg80,All fish in packet 1 broken (in freezing) and thawed to separate. Original fish_no=1,20210820,LSL
+SG2105,Sarmiento,1,1,106,1,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG106_MOC1_NET1,,,25,0.1597,,,,,,,,neg80,Thawed to separate. Original fish_no=2,20210820,LSL
+SG2105,Sarmiento,1,1,107,1,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG107-110_MOC1_NET1,,,25,0.1757,,,,,,,,neg80,All fish in packet 1 broken (in freezing) and thawed to separate; pretty confident body parts matched correctly. Standard length and weight are estimates. Fish 107-110 in foil together (labeled 3-6). Original fish_no=3,20210820,LSL
+SG2105,Sarmiento,1,1,108,1,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG107-110_MOC1_NET1,,,26,0.1866,,,,,,,,neg80,All fish in packet 1 broken (in freezing) and thawed to separate; pretty confident body parts matched correctly. Standard length and weight are estimates. Fish 107-110 in foil together (labeled 3-6). Original fish_no=4,20210820,LSL
+SG2105,Sarmiento,1,1,109,1,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG107-110_MOC1_NET1,,,25,0.1722,,,,,,,,neg80,All fish in packet 1 broken (in freezing) and thawed to separate; pretty confident body parts matched correctly. Standard length and weight are estimates. Fish 107-110 in foil together (labeled 3-6). Original fish_no=5,20210820,LSL
+SG2105,Sarmiento,1,1,110,1,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG107-110_MOC1_NET1,,,25,0.1756,,,,,,,,neg80,All fish in packet 1 broken (in freezing) and thawed to separate; pretty confident body parts matched correctly. Standard length and weight are estimates. Fish 107-110 in foil together (labeled 3-6). Original fish_no=6,20210820,LSL
+SG2105,Sarmiento,1,1,111,1,Myctophum punctatum,MYPU,visual,MYPU,,H,SG2105_ORG111_MOC1_NET1,26,24,22,0.0856,,,,,,,,neg80,Original fish_no=7,20210820,LSL
+SG2105,Sarmiento,1,0,112,8,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG112-113_MOC1_NET0,25,24,21,0.09,,,,,,,,neg80,Body roughed up and tail broken. Original fish_no=8,20210820,LSL
+SG2105,Sarmiento,1,0,113,8,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG112-113_MOC1_NET0,,,23,0.1389,,,,,,,,neg80,Original fish_no=9,20210820,LSL
+SG2105,Sarmiento,1,3,114,6,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG114_MOC1_NET3,30,,25,0.1768,,,,,,,,neg80,Original fish_no=10,20210820,LSL
+SG2105,Sarmiento,1,0,115,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG115-118_MOC1_NET0,44,41,39,0.2542,,,,,,,,neg80,"115-118 same species (refer to as Sp. A), maybe microdon; frozen in foil together (labeled 11-14). Original fish_no=11",20210820,LSL
+SG2105,Sarmiento,1,0,116,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG115-118_MOC1_NET0,,,32,0.1634,,,,,,,,neg80,"115-118 same species (refer to as Sp. A), maybe microdon; frozen in foil together (labeled 11-14). Original fish_no=12",20210820,LSL
+SG2105,Sarmiento,1,0,117,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG115-118_MOC1_NET0,,,31,0.1228,,,,,,,,neg80,"115-118 same species (refer to as Sp. A), maybe microdon; frozen in foil together (labeled 11-14). Original fish_no=13",20210820,LSL
+SG2105,Sarmiento,1,0,118,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG115-118_MOC1_NET0,42,,35,0.2015,,,,,,,,neg80,"115-118 same species (refer to as Sp. A), maybe microdon; frozen in foil together (labeled 11-14). Original fish_no=14",20210820,LSL
+SG2105,Sarmiento,1,0,119,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG119-122_MOC1_NET0,,,33,0.1431,,,,,,,,neg80,119-122 same species (refer to as Sp. B); frozen in foil together (labeled 15-18). Original fish_no=15,20210820,LSL
+SG2105,Sarmiento,1,0,120,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG119-122_MOC1_NET0,,,21,0.0597,,,,,,,,neg80,119-122 same species (refer to as Sp. B); frozen in foil together (labeled 15-18). Original fish_no=16,20210820,LSL
+SG2105,Sarmiento,1,0,121,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG119-122_MOC1_NET0,,,30,0.1371,,,,,,,,neg80,119-122 same species (refer to as Sp. B); frozen in foil together (labeled 15-18). Original fish_no=17,20210820,LSL
+SG2105,Sarmiento,1,0,122,9,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG119-122_MOC1_NET0,42,38,37,0.1539,,,,,,,,neg80,119-122 same species (refer to as Sp. B); frozen in foil together (labeled 15-18). Original fish_no=18,20210820,LSL
+SG2105,Sarmiento,1,3,123,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG123_MOC1_NET3,,,26,0.3361,,,,,,,,neg80,Original fish_no=19,20210820,LSL
+SG2105,Sarmiento,1,3,124,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG124-126_MOC1_NET3,28,,24,0.3102,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=20,20210820,LSL
+SG2105,Sarmiento,1,3,125,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG124-126_MOC1_NET3,,,18,0.2443,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=21,20210820,LSL
+SG2105,Sarmiento,1,3,126,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG124-126_MOC1_NET3,26,,21,0.1856,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=22,20210820,LSL
+SG2105,Sarmiento,1,3,127,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG127-130_MOC1_NET3,23,,19,0.1402,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=23,20210820,LSL
+SG2105,Sarmiento,1,3,128,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG127-130_MOC1_NET3,,,18,0.1366,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=24,20210820,LSL
+SG2105,Sarmiento,1,3,129,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG127-130_MOC1_NET3,,,16,0.0999,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=25,20210820,LSL
+SG2105,Sarmiento,1,3,130,5,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG127-130_MOC1_NET3,,,14,0.0822,,,,,,,,neg80,Fish 124-130 in foil together (labeled 20-26). Original fish_no=26,20210820,LSL
+SG2105,Sarmiento,1,1,131,3,Xenodermichthys copei,XECO,visual,XECO,,M,SG2105_ORG131_MOC1_NET1,,43,41,0.5858,,,,,,,,neg80,Thawed during ID. Original fish_no=27,20210820,LSL
+SG2105,Sarmiento,1,0,132,7,Xenodermichthys copei,XECO,visual,XECO,,M,SG2105_ORG132_MOC1_NET0,45,39,38,0.3781,,,,,,,,neg80,Head squished (not in as good of condition as 131). Original fish_no=28,20210820,LSL
+SG2105,Sarmiento,1,1,133,2,Cyclothone sp.,CYSP,visual,CYSP,,M,SG2105_ORG133-137_MOC1_NET1,,,31,0.1818,,,,,,,,neg80,133-137 same species (sp. b); All fish in packet 2 in bad shape. Original fish_no=29,20210820,LSL
+SG2105,Sarmiento,1,1,134,2,Cyclothone sp.,CYSP,visual,CYSP,,M,SG2105_ORG133-137_MOC1_NET1,,,31,0.1495,,,,,,,,neg80,133-137 same species (sp. b); frozen in foil fogether (labeled 30-32); All fish in packet 2 in bad shape. Original fish_no=30,20210820,LSL
+SG2105,Sarmiento,1,1,135,2,Cyclothone sp.,CYSP,visual,CYSP,,M,SG2105_ORG133-137_MOC1_NET1,,,34,0.1688,,,,,,,,neg80,133-137 same species (sp. b); frozen in foil fogether (labeled 30-32); All fish in packet 2 in bad shape. Original fish_no=31,20210820,LSL
+SG2105,Sarmiento,1,1,136,2,Cyclothone sp.,CYSP,visual,CYSP,,M,SG2105_ORG133-137_MOC1_NET1,,,34,0.1835,,,,,,,,neg80,133-137 same species (sp. b); frozen in foil fogether (labeled 30-32); All fish in packet 2 in bad shape. Original fish_no=32,20210820,LSL
+SG2105,Sarmiento,1,1,137,2,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG133-137_MOC1_NET1,,,35,0.1445,,,,,,,,neg80,133-137 same species (sp. b); frozen in foil fogether (labeled 30-32); All fish in packet 2 in bad shape. Original fish_no=33,20210820,LSL
+SG2105,Sarmiento,1,1,138,2,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG138-140_MOC1_NET1,,,40,0.2881,,,,,,,,neg80,"Fish 138-140 same species (sp. A, microcon?). Body intact. Original fish_no=34",20210820,LSL
+SG2105,Sarmiento,1,1,139,2,Cyclothone sp.,CYSP,visual,CYSP,,M,SG2105_ORG138-140_MOC1_NET1,,,33,0.1846,,,,,,,,neg80,"Fish 138-140 same species (sp. A, microcon?). Body intact. Original fish_no=35",20210820,LSL
+SG2105,Sarmiento,1,1,140,2,Cyclothone sp.,CYSP,visual,CYSP,,M,SG2105_ORG138-140_MOC1_NET1,,,53,0.8086,,,,,,,,neg80,"Fish 138-140 same species (sp. A, microcon?). Body intact. Original fish_no=36",20210820,LSL
+SG2105,Sarmiento,1,1,141,2,Nannobrachium sp.,NASP,visual,NASP,,M,SG2105_ORG141_MOC1_NET1,,30,28,0.1375,,,,,,,,neg80,"ID Notes: narrow caudal peduncle compared to most NASP I'm used to seeing. Pectoral fin broken though, so could be Lampanyctus. Original fish_no=37",20210820,LSL
+SG2105,Sarmiento,1,1,142,4,Decapoda,DECA,visual,DECA,,,SG2105_ORG142_MOC1_NET1,,,16,0.2082,,,,,,,,neg80,ID Notes: potential Sergestid. Bright orange in color. Original fish_no=38,20210820,LSL
+SG2105,Sarmiento,1,1,143,11,Acanthephyra purpurea,ACPU,visual,ACPU,,H,SG2105_ORG143_MOC1_NET1,,,16,2.8928,,,,,,,,neg80,ID Notes: 4 telson spines; color red. Original fish_no=39,20210820,LSL
+SG2105,Sarmiento,1,1,144,11,Cranchiidae,CRAN,visual,CRAN,,L,SG2105_ORG144_MOC1_NET1,,,49,6.2807,,,,,,,,neg80,ID Notes: unknown glass squid; shiny gut; large eyes; small fins. Original fish_no=40,20210820,LSL
+SG2105,Sarmiento,1,1,145,16,Acanthephyra purpurea,ACPU,visual,ACPU,,M,SG2105_ORG145_MOC1_NET1,,,13,1.3933,,,,,,,,neg80,Original fish_no=41,20210820,LSL
+SG2105,Sarmiento,1,1,146,16,Systellaspis debilis,SYDE,visual,SYDE,,L,SG2105_ORG146_MOC1_NET1,,,13,1.2421,,,,,,,,neg80,"ID Notes: confident to genus, not to species. Original fish_no=42",20210820,LSL
+SG2105,Sarmiento,1,1,147,16,Decapoda,DECA,visual,DECA,,,SG2105_ORG147_MOC1_NET1,,,17,1.7825,,,,,,,,neg80,"ID Notes: unknown shrimp; moderate rostrum with short spines, no spines on somites. Original fish_no=43",20210820,LSL
+SG2105,Sarmiento,1,3,148,17,Phronima sp.,PNSP,visual,PNSP,,,SG2105_ORG148_MOC1_NET3,,,,1.4797,,,,,,,,neg80,Phronima with salp. Salp was disintegrating so did not measure to try to retain salp. Original fish_no=44,20210827,LSL
+SG2105,Sarmiento,1,3,149,17,Pterotracheidae,PTER,visual,PTER,,,SG2105_ORG149_MOC1_NET3,,,,15.1708,,,,,,,,neg80,Did not measure to prevent thaw; tail broke off returning it to freezer. ID Notes: no shell (heteropod); according to CSIRO publication Family=Pterotrachoidae; appears to have a broad shield like pterotrachea scutata. Original fish_no=45,20210827,LSL
+SG2105,Sarmiento,1,1,150,10,Atolla wyvillei,ATOL,visual,ATOL,,,SG2105_ORG150-151_MOC1_NET1,,,53.2,35.0188,,,,,,,,neg80,standard length is bell diameter (to outside as lay frozen); inner bell diam=39.2. Weight estimated; total weight of 150 and 151 = 70.0376 g. Original fish_no=46,20210827,LSL
+SG2105,Sarmiento,1,1,151,10,Atolla wyvillei,ATOL,visual,ATOL,,,SG2105_ORG150-151_MOC1_NET1,,,56.23,35.0188,,,,,,,,neg80,standard length is bell diameter (to outside as lay frozen); inner bell diam=30.4mm. Weight estimated; total weight of 150 and 151 = 70.0376 g. Original fish_no=47,20210827,LSL
+SG2105,Sarmiento,1,3,152,18,Pterotracheidae,PTER,visual,PTER,,,SG2105_ORG152_MOC1_NET3,51.2,,,4.711,,,,,,,,neg80,"ID Notes: listed in freezer list as pteropod, but very large; could be Cymbulia (CSIRO pg. 29). Tried not to thaw too long but damaged re-freezing it. Original fish_no=48",20210827,LSL
+SG2105,Sarmiento,1,3,153,13,Cranchiidae,CRAN,visual,CRAN,,H,SG2105_ORG153_MOC1_NET3,,,31.6,1.5216,,,,,,,,neg80,Original fish_no=49,20210827,LSL
+SG2105,Sarmiento,1,3,154,13,Clio sp.,CLSP,visual,CLSP,,H,SG2105_ORG154_MOC1_NET3,,,39.23,1.3766,,,,,,,,neg80,ID Notes: pteropod; triangular shell with brown body inside; Clio sp according to CSIRO. Original fish_no=50,20210827,LSL
+SG2105,Sarmiento,1,1,155,12,Ostracoda,OSTR,visual,OSTR,,H,SG2105_ORG155_MOC1_NET1,,,,0.458,,,,,,,,neg80,"ID Notes: Fish 155-160 are the same species of Argyropelecus; not hemigymnus based on 2 postabdominal spines of equal length; DF V,8; closest key in suggon was olfersii but very different body shape. Fish 155-160 frozen in foil together (labled 52-56). Original fish_no=51",20210827,LSL
+SG2105,Sarmiento,2,3,156,25,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG156-160_MOC2_NET3,,,24.68,0.4401,,,,,,,,neg80,"ID Notes: Fish 155-160 are the same species of Argyropelecus; not hemigymnus based on 2 postabdominal spines of equal length; DF V,8; closest key in suggon was olfersii but very different body shape. Fish 155-160 frozen in foil together (labled 52-56). Original fish_no=52",20210827,LSL
+SG2105,Sarmiento,2,3,157,25,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG156-160_MOC2_NET3,,,16.45,0.1367,,,,,,,,neg80,"ID Notes: Fish 155-160 are the same species of Argyropelecus; not hemigymnus based on 2 postabdominal spines of equal length; DF V,8; closest key in suggon was olfersii but very different body shape. Fish 155-160 frozen in foil together (labled 52-56). Original fish_no=53",20210827,LSL
+SG2105,Sarmiento,2,3,158,25,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG156-160_MOC2_NET3,,,15.78,0.1329,,,,,,,,neg80,"ID Notes: Fish 155-160 are the same species of Argyropelecus; not hemigymnus based on 2 postabdominal spines of equal length; DF V,8; closest key in suggon was olfersii but very different body shape. Fish 155-160 frozen in foil together (labled 52-56). Original fish_no=54",20210827,LSL
+SG2105,Sarmiento,2,3,159,25,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG156-160_MOC2_NET3,,,14.31,0.0841,,,,,,,,neg80,"ID Notes: Fish 155-160 are the same species of Argyropelecus; not hemigymnus based on 2 postabdominal spines of equal length; DF V,8; closest key in suggon was olfersii but very different body shape. Fish 155-160 frozen in foil together (labled 52-56). Original fish_no=55",20210827,LSL
+SG2105,Sarmiento,2,3,160,25,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG156-160_MOC2_NET3,,,15.07,0.0927,,,,,,,,neg80,"ID Notes: Fish 155-160 are the same species of Argyropelecus; not hemigymnus based on 2 postabdominal spines of equal length; DF V,8; closest key in suggon was olfersii but very different body shape. Fish 155-160 frozen in foil together (labled 52-56). Original fish_no=56",20210827,LSL
+SG2105,Sarmiento,2,3,161,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG161-165_MOC2_NET3,,,27.74,0.4253,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=57",20210827,LSL
+SG2105,Sarmiento,2,3,162,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG161-165_MOC2_NET3,,,20.93,0.2056,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=58",20210827,LSL
+SG2105,Sarmiento,2,3,163,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG161-165_MOC2_NET3,,,27.84,0.4568,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=59",20210827,LSL
+SG2105,Sarmiento,2,3,164,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG161-165_MOC2_NET3,,,22.88,0.2577,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=60",20210827,LSL
+SG2105,Sarmiento,2,3,165,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG161-165_MOC2_NET3,,,18.16,0.1391,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=61",20210827,LSL
+SG2105,Sarmiento,2,3,166,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG166-170_MOC2_NET3,,,20.44,0.1594,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=62",20210827,LSL
+SG2105,Sarmiento,2,3,167,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG166-170_MOC2_NET3,,,20.52,0.2164,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 161-166 frozen in foil together (labled 57-62). Original fish_no=63",20210827,LSL
+SG2105,Sarmiento,2,3,168,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG166-170_MOC2_NET3,,,17.61,0.1179,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 167-172 frozen in foil together (labled 63-68). Original fish_no=64",20210827,LSL
+SG2105,Sarmiento,2,3,169,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG166-170_MOC2_NET3,,,23.93,0.3145,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 167-172 frozen in foil together (labled 63-68). Original fish_no=65",20210827,LSL
+SG2105,Sarmiento,2,3,170,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG166-170_MOC2_NET3,,,16.11,0.0971,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 167-172 frozen in foil together (labled 63-68). Original fish_no=66",20210827,LSL
+SG2105,Sarmiento,2,3,171,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG171-172_MOC2_NET3,,,22.33,0.2275,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 167-172 frozen in foil together (labled 63-68). body broken. Original fish_no=67",20210827,LSL
+SG2105,Sarmiento,2,3,172,25,Argyropelecus hemigymnus,ARHE,visual,ARHE,,M,SG2105_ORG171-172_MOC2_NET3,,,23.23,0.268,,,,,,,,neg80,"ID Notes: Fish 161-172 are the same species of Argyropelecus, tentatively hemigymnus although it looks different than other ARHE (bars more diffuse-like crayon, not marker- and body darker), but affter seeing 173-185 will call these ARHE.  Fish 167-172 frozen in foil together (labled 63-68). body broken. Original fish_no=68",20210827,LSL
+SG2105,Sarmiento,2,2,173,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG173-178_MOC2_NET2,,,29.59,0.4908,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 173-178 in foil together (labeled 69-74). Original fish_no=69",20210901,LSL
+SG2105,Sarmiento,2,2,174,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG173-178_MOC2_NET2,,,23,0.243,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 173-178 in foil together (labeled 69-74). Original fish_no=70",20210901,LSL
+SG2105,Sarmiento,2,2,175,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG173-178_MOC2_NET2,,,20.18,0.1783,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 173-178 in foil together (labeled 69-74). DF spine present. Original fish_no=71",20210901,LSL
+SG2105,Sarmiento,2,2,176,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG173-178_MOC2_NET2,,,20.04,0.179,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 173-178 in foil together (labeled 69-74). DF spine present. Original fish_no=72",20210901,LSL
+SG2105,Sarmiento,2,2,177,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG173-178_MOC2_NET2,,,27.48,0.4585,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 173-178 in foil together (labeled 69-74). Original fish_no=73",20210901,LSL
+SG2105,Sarmiento,2,2,178,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG173-178_MOC2_NET2,,,17.08,0.1077,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 173-178 in foil together (labeled 69-74). Original fish_no=74",20210901,LSL
+SG2105,Sarmiento,2,2,179,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG179-184_MOC2_NET2,,,23.97,0.3163,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 179-184 in foil together (labeled 75-80). Original fish_no=75",20210901,LSL
+SG2105,Sarmiento,2,2,180,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG179-184_MOC2_NET2,,,15.78,0.0968,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 179-184 in foil together (labeled 75-80). Original fish_no=76",20210901,LSL
+SG2105,Sarmiento,2,2,181,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG179-184_MOC2_NET2,,,23.26,0.2905,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 179-184 in foil together (labeled 75-80). Original fish_no=77",20210901,LSL
+SG2105,Sarmiento,2,2,182,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG179-184_MOC2_NET2,,,23.69,0.2733,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 179-184 in foil together (labeled 75-80). Body broken in initial freezing just posterior to body cavity. Original fish_no=78",20210901,LSL
+SG2105,Sarmiento,2,2,183,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG179-184_MOC2_NET2,,,18.83,0.1546,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 179-184 in foil together (labeled 75-80). Caudal peduncle broken. Original fish_no=79",20210901,LSL
+SG2105,Sarmiento,2,2,184,23,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG179-184_MOC2_NET2,,,20.75,0.1979,,,,,,,,neg80,"ID Notes: Fish 173-184 are the same species; single hook ondorsal spine visible but broken in many fish; DF V,7. Fish 179-184 in foil together (labeled 75-80). Body broken horizontally at midline. Original fish_no=80",20210901,LSL
+SG2105,Sarmiento,2,0,185,28,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG185_MOC2_NET0,,,21.23,0.2106,,,,,,,,neg80,Original fish_no=81,20210901,LSL
+SG2105,Sarmiento,2,1,186,19,Scopelogadus sp.,SCSP,visual,SCSP,,H,SG2105_ORG186_MOC2_NET1,,,165,46.1404,,,,,,,,neg80,Did not thaw to ID to species. Total_weight over-estimate due to tag and other material frozen on fish. Original fish_no=82,20210901,LSL
+SG2105,Sarmiento,2,1,187,21,Nannobrachium sp.,NASP,visual,NASP,,M,SG2105_ORG187_MOC2_NET1,,,30.55,0.1439,,,,,,,,neg80,"ID Notes: 3 PRC, no visible pectoral fin. Body squished and broken @ posterior 1/3. Original fish_no=83",20210901,LSL
+SG2105,Sarmiento,2,1,188,21,Nannobrachium sp.,NASP,visual,NASP,,M,SG2105_ORG188_MOC2_NET1,,,32.05,0.1868,,,,,,,,neg80,"ID Notes: 3 PRC, no visible pectoral fin. Original fish_no=84",20210901,LSL
+SG2105,Sarmiento,2,1,189,21,Benthosema glaciale,BEGL,visual,BEGL,,L,SG2105_ORG189_MOC2_NET1,,,23.36,0.1428,,,,,,,,neg80,"ID Notes: fish in really poor condition, not all photophores present; taxon is a guess. Original fish_no=85",20210901,LSL
+SG2105,Sarmiento,2,1,190,21,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG190_MOC2_NET1,,,20.92,0.1066,,,,,,,,neg80,Original fish_no=86,20210901,LSL
+SG2105,Sarmiento,2,1,191,36,Pasiphaea sp.,PASI,visual,PASI,,M,SG2105_ORG191_MOC2_NET1,,,33.18,9.8525,,,,,,,,neg80,ID Notes: used gbif.org to look at potential species; could be P. multidentata but that based on superficial ID and not keying the shrimp out,20210917,LSL
+SG2105,Sarmiento,2,4,192,37,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG192_MOC2_NET4,,,53.81,0.4745,,,,,,,,neg80,ID Notes: AO 6+7; darker scales but keyes to BEGL. Head and guts squished,20210917,LSL
+SG2105,Sarmiento,2,0,193,31,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG193-197_MOC2_NET0,,,38.24,0.5422,,,,,,,,neg80,ID Notes: PVO1-2 at slight angle (approx 1 diam) but all else keys to BEGL. Fish 193-197 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,0,194,31,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG193-197_MOC2_NET0,,,33.5,0.3987,,,,,,,,neg80,Body broken at 2/3 length. Gut squished. Fish 193-197 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,0,195,31,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG193-197_MOC2_NET0,,,25.75,0.2129,,,,,,,,neg80,ID Notes: hard to assess photophores. Fish 193-197 refrozen in foil together.,20210917,LSL
+SG2105,Sarmiento,2,0,196,31,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG193-197_MOC2_NET0,,,23.5,0.1685,,,,,,,,neg80,Body broken in half. ID Notes: hard to assess photophores. Fish 193-197 refrozen in foil together.,20210917,LSL
+SG2105,Sarmiento,2,0,197,31,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG193-197_MOC2_NET0,,,21.96,0.1254,,,,,,,,neg80,ID Notes: hard to assess photophores. Fish 193-197 refrozen in foil together.,20210917,LSL
+SG2105,Sarmiento,2,0,198,30,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG198-199_MOC2_NET0,,75.66,69.49,2.5064,,,,,,,,neg80,,20210917,LSL
+SG2105,Sarmiento,2,0,199,30,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG198-199_MOC2_NET0,,66.74,62.01,2.0518,,,,,,,,neg80,Broken at 2/3 length.,20210917,LSL
+SG2105,Sarmiento,2,1,200,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG200-203_MOC2_NET1,,,34.93,0.1838,,,,,,,,neg80,ID Notes: translucent bodied Cyclothone (sp. B noted earlier?). Fish 200-203 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,1,201,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG200-203_MOC2_NET1,38.39,,32.89,0.192,,,,,,,,neg80,Body broken. ID Notes: translucent bodied Cyclothone (sp. B noted earlier?). Fish 200-203 refrozen in foil together.,20210917,LSL
+SG2105,Sarmiento,2,1,202,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG200-203_MOC2_NET1,,,31.02,0.1832,,,,,,,,neg80,Body broken. ID Notes: translucent bodied Cyclothone (sp. B noted earlier?). Fish 200-203 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,1,203,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG200-203_MOC2_NET1,,,32.29,0.2059,,,,,,,,neg80,Body broken. ID Notes: translucent bodied Cyclothone (sp. B noted earlier?). Fish 200-203 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,1,204,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG204-207_MOC2_NET1,,,35.41,0.1925,,,,,,,,neg80,"204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 204-207 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,205,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG204-207_MOC2_NET1,,,37.71,0.2403,,,,,,,,neg80,"204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 204-207 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,206,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG204-207_MOC2_NET1,46.75,,40.09,0.3098,,,,,,,,neg80,"204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 204-207 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,207,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG204-207_MOC2_NET1,,,29.67,0.1224,,,,,,,,neg80,"204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 204-207 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,208,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG208-211_MOC2_NET1,,,35.87,0.2165,,,,,,,,neg80,"Body broken. 204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 208-211 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,209,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG208-211_MOC2_NET1,,,33.75,0.1689,,,,,,,,neg80,"204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 208-211 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,210,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG208-211_MOC2_NET1,42.8,,36.47,0.2249,,,,,,,,neg80,"204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 208-211 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,1,211,20,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG208-211_MOC2_NET1,,,47.26,0.4994,,,,,,,,neg80,"Body broken. 204-211 potentially same sp. ID Notes: darker bodied Cyclothone, though maybe not as dark as microdon. 208-211 refrozen in foil together",20210917,LSL
+SG2105,Sarmiento,2,4,212,27,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG212_MOC2_NET4,45.29,40.83,37.71,0.6804,,,,,,,,neg80,,20210917,LSL
+SG2105,Sarmiento,2,4,213,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG213_MOC2_NET4,,,43.34,0.89,,,,,,,,neg80,,20210917,LSL
+SG2105,Sarmiento,2,4,214,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG214_MOC2_NET4,,,37.9,0.5735,,,,,,,,neg80,,20210917,LSL
+SG2105,Sarmiento,2,4,215,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG215_MOC2_NET4,,,36.61,0.5585,,,,,,,,neg80,,20210917,LSL
+SG2105,Sarmiento,2,4,216,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG216-217_MOC2_NET4,,,34.48,0.4988,,,,,,,,neg80,216-217 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,217,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG216-217_MOC2_NET4,,34.58,31.94,0.4995,,,,,,,,neg80,216-217 refrozen in foil together. Head squished,20210917,LSL
+SG2105,Sarmiento,2,4,218,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG218-220_MOC2_NET4,,,23.23,0.1628,,,,,,,,neg80,218-220 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,219,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG218-220_MOC2_NET4,,,30.37,0.3508,,,,,,,,neg80,218-220 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,220,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG218-220_MOC2_NET4,,,24.66,0.2021,,,,,,,,neg80,218-220 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,221,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG221-224_MOC2_NET4,,,24.99,0.2045,,,,,,,,neg80,221-224 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,222,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG221-224_MOC2_NET4,,,26.66,0.2052,,,,,,,,neg80,221-224 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,223,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG221-224_MOC2_NET4,,,33.33,0.4407,,,,,,,,neg80,221-224 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,224,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG221-224_MOC2_NET4,,,24.52,0.1755,,,,,,,,neg80,221-224 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,225,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG225-227_MOC2_NET4,,24.19,22.82,0.1545,,,,,,,,neg80,225-227 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,226,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG225-227_MOC2_NET4,,,24.48,0.1748,,,,,,,,neg80,225-227 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,227,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG225-227_MOC2_NET4,,,23.82,0.1755,,,,,,,,neg80,225-227 refrozen in foil together. Head squished,20210917,LSL
+SG2105,Sarmiento,2,4,228,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG228-230_MOC2_NET4,,,30.99,0.4062,,,,,,,,neg80,228-230 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,229,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG228-230_MOC2_NET4,,,21.07,0.1295,,,,,,,,neg80,228-230 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,230,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG228-230_MOC2_NET4,,,25.84,0.1913,,,,,,,,neg80,228-230 refrozen in foil together. Gut squished,20210917,LSL
+SG2105,Sarmiento,2,4,231,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG231-233_MOC2_NET4,,,30.96,0.3717,,,,,,,,neg80,231-233 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,232,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG231-233_MOC2_NET4,,,24.6,0.1899,,,,,,,,neg80,231-233 refrozen in foil together. Body broken; in poor condition,20210917,LSL
+SG2105,Sarmiento,2,4,233,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG231-233_MOC2_NET4,,,22.9,0.1452,,,,,,,,neg80,231-233 refrozen in foil together. Gut squished; tail broken,20210917,LSL
+SG2105,Sarmiento,2,4,234,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG234-237_MOC2_NET4,,26.66,24.04,0.1728,,,,,,,,neg80,234-237 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,235,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG234-237_MOC2_NET4,,,24.11,0.1711,,,,,,,,neg80,234-237 refrozen in foil together. Head squished,20210917,LSL
+SG2105,Sarmiento,2,4,236,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG234-237_MOC2_NET4,,,24.7,0.1948,,,,,,,,neg80,234-237 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,237,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG234-237_MOC2_NET4,,,25.77,0.204,,,,,,,,neg80,234-237 refrozen in foil together. Gut damaged,20210917,LSL
+SG2105,Sarmiento,2,4,238,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG238-240_MOC2_NET4,,,23.78,0.1678,,,,,,,,neg80,238-240 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,239,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG238-240_MOC2_NET4,,,24.03,0.1724,,,,,,,,neg80,238-240 refrozen in foil together,20210917,LSL
+SG2105,Sarmiento,2,4,240,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG238-240_MOC2_NET4,,,23.95,0.1798,,,,,,,,neg80,238-240 refrozen in foil together. Tail broken,20210917,LSL
+SG2105,Sarmiento,2,4,241,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG241-243_MOC2_NET4,,,25.27,0.2135,,,,,,,,neg80,241-243 refrozen in foil together.,20210917,LSL
+SG2105,Sarmiento,2,4,242,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG241-243_MOC2_NET4,,,22.4,0.1614,,,,,,,,neg80,241-243 refrozen in foil together. Body in poor condition,20210917,LSL
+SG2105,Sarmiento,2,4,243,27,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG241-243_MOC2_NET4,,,24.69,0.1805,,,,,,,,neg80,241-243 refrozen in foil together. Body in poor condition; body in pieces,20210917,LSL
+SG2105,Sarmiento,2,1,244,22,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG244_MOC2_NET1,46.43,43.47,41.94,0.5291,,,,,,,,neg80,ID Notes: like fish 131-132. Thawed to ID,20210930,LSL
+SG2105,Sarmiento,2,1,245,22,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG245-247_MOC2_NET1,63.18,60.3,58.15,1.4328,,,,,,,,neg80,245-247 refrozen in foil together; partially thawed,20210930,LSL
+SG2105,Sarmiento,2,1,246,22,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG245-247_MOC2_NET1,,48.34,46.43,0.8161,,,,,,,,neg80,245-247 refrozen in foil together; partially thawed,20210930,LSL
+SG2105,Sarmiento,2,1,247,22,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG245-247_MOC2_NET1,50.15,45.73,44.41,0.677,,,,,,,,neg80,245-247 refrozen in foil together; partially thawed,20210930,LSL
+SG2105,Sarmiento,4,1,248,46,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG248-249_MOC4_NET1,,,61.33,1.932,,,,,,,,neg80,Weight may be over estamte due to zooplankton frozen on body. Not thawed,20210930,LSL
+SG2105,Sarmiento,4,1,249,46,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG248-249_MOC4_NET1,,,52.84,1.212,,,,,,,,neg80,Not thawed,20210930,LSL
+SG2105,Sarmiento,4,2,250,48,Platytroctidae,PLAT,visual,PLAT,,H,SG2105_ORG250_MOC4_NET2,,,38.08,0.4105,,,,,,,,neg80,"Thawed trying to ID. ID Notes: Tubeshoulder, but was not able to find a good key to get to species; Body light colored with black mysentery; no obvious tusks; maxillary ends jjust anterior to posterior margin of eye; body shape like Sagamichthys",20210930,LSL
+SG2105,Sarmiento,4,4,251,51,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG251-252_MOC4_NET4,,,27.09,0.4404,,,,,,,,neg80,Minimal thaw,20210930,LSL
+SG2105,Sarmiento,4,4,252,51,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG251-252_MOC4_NET4,31.55,,25.46,0.3666,,,,,,,,neg80,Minimal thaw,20210930,LSL
+SG2105,Sarmiento,4,0,253,54,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG253-254_MOC4_NET0,69.52,65.91,62.25,1.8234,,,,,,,,neg80,253-256 refrozen in foil together,20210930,LSL
+SG2105,Sarmiento,4,0,254,54,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG253-254_MOC4_NET0,,,58.4,1.752,,,,,,,,neg80,253-256 refrozen in foil together,20210930,LSL
+SG2105,Sarmiento,4,0,255,54,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG255-256_MOC4_NET0,,61.88,54.43,1.9065,,,,,,,,neg80,253-256 refrozen in foil together,20210930,LSL
+SG2105,Sarmiento,4,0,256,54,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG255-256_MOC4_NET0,,67.75,64.19,1.9683,,,,,,,,neg80,253-256 refrozen in foil together,20210930,LSL
+SG2105,Sarmiento,2,0,257,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG257-261_MOC2_NET0,,,37.58,0.2048,,,,,,,,neg80,Fish 257-261 refrozen together. ID Notes: Transluscent sp (maybe 2 species). Thawed to separate. Body broken,20210930,LSL
+SG2105,Sarmiento,2,0,258,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG257-261_MOC2_NET0,,,32.19,0.1882,,,,,,,,neg80,Fish 257-261 refrozen together. ID Notes: Transluscent sp (maybe 2 species). Thawed to separate. ,20210930,LSL
+SG2105,Sarmiento,2,0,259,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG257-261_MOC2_NET0,,,33.36,0.2536,,,,,,,,neg80,Fish 257-261 refrozen together. ID Notes: Transluscent sp (maybe 2 species). Thawed to separate. Body broken,20210930,LSL
+SG2105,Sarmiento,2,0,260,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG257-261_MOC2_NET0,,,38.03,0.21,,,,,,,,neg80,Fish 257-261 refrozen together. ID Notes: Transluscent sp (maybe 2 species). Thawed to separate. ,20210930,LSL
+SG2105,Sarmiento,2,0,261,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG257-261_MOC2_NET0,,,31.82,0.1901,,,,,,,,neg80,Fish 257-261 refrozen together. ID Notes: Transluscent sp (maybe 2 species). Thawed to separate. ,20210930,LSL
+SG2105,Sarmiento,2,0,262,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG262-263_MOC2_NET0,41.44,,35.56,0.2123,,,,,,,,neg80,ID Notes: darker species (maybe not microdon),20210930,LSL
+SG2105,Sarmiento,2,0,263,32,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG262-263_MOC2_NET0,,,33.49,0.1871,,,,,,,,neg80,ID Notes: darker species (maybe not microdon),20210930,LSL
+SG2105,Sarmiento,2,0,264,29,Scopelogadus sp.,SCSP,visual,SCSP,,H,SG2105_ORG264_MOC2_NET0,,,55.45,3.6651,,,,,,,,neg80,Did not thaw to try to get to species,20210930,LSL
+SG2105,Sarmiento,4,0,265,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG265_MOC4_NET0,,,42.14,0.4626,,,,,,,,neg80,Weight high; maybe overestimate due to frozen material on fish,20211001,LSL
+SG2105,Sarmiento,6,4,266,79,Merluccius merluccius,MEME,visual,MEME,,H,SG2105_ORG266_MOC6_NET4,,,77.87,3.6088,,,,,,,,neg80,Did not thaw to straighten,20211001,LSL
+SG2105,Sarmiento,6,3,267,78,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG267_MOC6_NET3,29.13,,24.13,0.3457,,,,,,,,neg80,,20211001,LSL
+SG2105,Sarmiento,6,3,268,78,Nansenia sp.,NNSP,visual,NNSP,,L,SG2105_ORG268_MOC6_NET3,,,40.53,0.3428,,,,,,,,neg80,Mostly thawed to ID. ID Notes long thin adipose; DF inserted at mid-body; AF below adipose; Pelvic fin below DF base; pectoral fin base on side (not low or near ventral surface); body silvery,20211001,LSL
+SG2105,Sarmiento,6,1,269,76,Xenodermichthys copei,XECO,visual,XECO,,H,SG2105_ORG269_MOC6_NET1,,,51,1.0914,,,,,,,,neg80,Not thawed,20211001,LSL
+SG2105,Sarmiento,6,1,270,76,Bathylagus euryops,BAEU,visual,BAEU,,M,SG2105_ORG270_MOC6_NET1,,,29.37,0.176,,,,,,,,neg80,ID Notes: Anal fin=210; less confident to species,20211001,LSL
+SG2105,Sarmiento,6,1,271,76,Gonostoma sp.,GOSP,visual,GOSP,,L,SG2105_ORG271_MOC6_NET1,,,27.52,0.0989,,,,,,,,neg80,"Thawed. ID Notes: based on caudal peduncle, photophore pattern and maxillary, don't believe myctophid; Gonostomatid but not cyclothone; anal fin damged but ≥14 rays; dorsal fin inserts anterior to analfin; some photophores, but fish in bad shape; moderate sized eye; maybe Gonostoma",20211001,LSL
+SG2105,Sarmiento,6,1,272,76,Gonostoma sp.,GOSP,visual,GOSP,,L,SG2105_ORG272_MOC6_NET1,,,33.63,0.2079,,,,,,,,neg80,"Body broken.  ID Notes: based on caudal peduncle, photophore pattern and maxillary, don't believe myctophid; appears to be different species than 271 but not myct.",20211001,LSL
+SG2105,Sarmiento,6,1,273,76,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG273_MOC6_NET1,48.03,44.05,40.86,0.3635,,,,,,,,neg80,ID Notes: not microdon (based on 1 gill raker at corner of 1st arch),20211001,LSL
+SG2105,Sarmiento,6,1,274,74,Scopelogadus beanii,SCBE,visual,SCBE,,H,SG2105_ORG274_MOC6_NET1,,,114.06,37.8125,,,,,,,,neg80,"Not thawed. ID Notes: DF II,10",20211001,LSL
+SG2105,Sarmiento,3,0,275,42,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG275-278_MOC3_NET0,26.53,,22.27,0.1956,,,,,,,,neg80,"ID Notes: 1 serrated post-abdominal spine. Fish 275-278, thawed to separate.",20211104,LSL
+SG2105,Sarmiento,3,0,276,42,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG275-278_MOC3_NET0,21.82,,17.07,0.1763,,,,,,,,neg80,"ID Notes: 2 small post-abdominal spines. Fish 275-278, thawed to separate. Tried taking tissue for C. Tepolt but mangling fish",20211104,LSL
+SG2105,Sarmiento,3,0,277,42,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG275-278_MOC3_NET0,22.47,,17.43,0.1895,,,,,,,,neg80,"ID Notes: 2 small post-abdominal spines. Fish 275-278, thawed to separate",20211104,LSL
+SG2105,Sarmiento,3,0,278,42,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG275-278_MOC3_NET0,14.23,,11.14,0.0326,,,,,,,,neg80,"ID Notes: 2 small post-abdominal spines. Fish 275-278, thawed to separate",20211104,LSL
+SG2105,Sarmiento,3,2,279,41,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG279_MOC3_NET2,,,18.75,0.1532,,,,,,,,neg80,,20211104,LSL
+SG2105,Sarmiento,3,1,280,40,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG280_MOC3_NET1,35.99,32.99,28.99,0.8252,,,,,,,,neg80,"ID Notes: 6 IP, 6 BR and 12 PV photophores; DF VI,9; pelvic fin 4; anal fin 7",20211104,LSL
+SG2105,Sarmiento,3,1,281,40,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG281_MOC3_NET1,,,17.01,0.138,,,,,,,,neg80,,20211104,LSL
+SG2105,Sarmiento,3,1,282,40,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG282-285_MOC3_NET1,24.68,,19.95,0.2086,,,,,,,,neg80,,20211104,LSL
+SG2105,Sarmiento,3,1,283,40,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG282-285_MOC3_NET1,18.77,,14.77,0.0808,,,,,,,,neg80,,20211104,LSL
+SG2105,Sarmiento,3,1,284,40,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG282-285_MOC3_NET1,26.27,,22.17,0.2792,,,,,,,,neg80,PopGen: small,20211104,LSL
+SG2105,Sarmiento,3,1,285,40,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG282-285_MOC3_NET1,,,21.83,0.2251,,,,,,,,neg80,,20211104,LSL
+SG2105,Sarmiento,3,1,286,38,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG286-288_MOC3_NET1,,,31.66,0.1406,,,,,,,,neg80,PopGen: okay sample,20211104,LSL
+SG2105,Sarmiento,3,1,287,38,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG286-288_MOC3_NET1,,,41.57,0.2352,,,,,,,,neg80,PopGen: small bits of tissue,20211104,LSL
+SG2105,Sarmiento,3,1,288,38,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG286-288_MOC3_NET1,,,35.57,0.2313,,,,,,,,neg80,PopGen: caudal region broken and but that in vial,20211104,LSL
+SG2105,Sarmiento,3,1,289,39,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG289-290_MOC3_NET1,,,22.17,0.1405,,,,,,,,neg80,PopGen: small,20211104,LSL
+SG2105,Sarmiento,3,1,290,39,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG289-290_MOC3_NET1,,,24.04,0.1513,,,,,,,,neg80,PopGen: small,20211104,LSL
+SG2105,Sarmiento,4,0,291,53,Argyropelecus sp.,ARSP,visual,ARSP,,H,SG2105_ORG291_MOC4_NET0,,,83,15.3868,,,,,,,,neg80,"ID Notes: dorsal fin damaged but estimate of 9 and at least 9 total dorsal elements; 2 small, smooth post abdominal spines; 12 PV and 6 IP photophores; ",20211104,LSL
+SG2105,Sarmiento,4,0,292,53,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG292-294_MOC4_NET0,,,26,0.3466,,,,,,,,neg80,"Fish 292-297 refrozen in foil together. PopGen: small, messy",20211104,LSL
+SG2105,Sarmiento,4,0,293,53,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG292-294_MOC4_NET0,,,19.23,0.1934,,,,,,,,neg80,Fish 292-297 refrozen in foil together.,20211104,LSL
+SG2105,Sarmiento,4,0,294,53,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG292-294_MOC4_NET0,,,24.22,0.3083,,,,,,,,neg80,"Fish 292-297 refrozen in foil together. PopGen: small, messy",20211104,LSL
+SG2105,Sarmiento,4,0,295,53,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG295-297_MOC4_NET0,23.19,,18.83,0.1558,,,,,,,,neg80,Fish 292-297 refrozen in foil together.,20211104,LSL
+SG2105,Sarmiento,4,0,296,53,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG295-297_MOC4_NET0,,,21.9,0.2256,,,,,,,,neg80,Fish 292-297 refrozen in foil together. PopGen: pieces,20211104,LSL
+SG2105,Sarmiento,4,0,297,53,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG295-297_MOC4_NET0,,,19.47,0.175,,,,,,,,neg80,Fish 292-297 refrozen in foil together.,20211104,LSL
+SG2105,Sarmiento,4,2,298,49,Myctophidae,MYCT,visual,MYCT,,,SG2105_ORG298_MOC4_NET2,,,24.22,0.1913,,,,,,,,neg80,"ID Notes: body in bad shape; skin and photophores and missing head squished, can't get to genus",20211104,LSL
+SG2105,Sarmiento,4,2,299,60,Cyclothone microdon,CYMI,visual,CYMI,,M,SG2105_ORG299-300_MOC4_NET2,,,45.12,0.4276,,,,,,,,neg80,ID Notes: maybe microdon,20211104,LSL
+SG2105,Sarmiento,4,2,300,60,Cyclothone braueri,CYBR,visual,CYBR,,M,SG2105_ORG299-300_MOC4_NET2,,,53.3,0.8999,,,,,,,,neg80,ID Notes: guess on brauerei based on OA photophores,20211104,LSL
+SG2105,Sarmiento,4,0,301,55,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG301-304_MOC4_NET0,,,26.56,0.2434,,,,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,302,55,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG301-304_MOC4_NET0,,,24.76,,,,,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,303,55,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG301-304_MOC4_NET0,,,24.98,0.1947,,,,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,304,55,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG301-304_MOC4_NET0,,,26.1,0.2395,,,,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,305,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG305-308_MOC4_NET0,,,24.41,0.2709,,,,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,306,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG305-308_MOC4_NET0,,,26.34,0.2596,,,,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,307,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG305-308_MOC4_NET0,,,23.65,0.2016,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,308,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG305-308_MOC4_NET0,,,34.81,0.5607,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,309,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG309-310_MOC4_NET0,,,34.3,0.5452,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,310,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG309-310_MOC4_NET0,,,35.58,0.6199,0.0295,0.0115,mb,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,311,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG311-313_MOC4_NET0,,,32.73,0.5501,0.0148,0.002,mb,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,312,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG311-313_MOC4_NET0,,,25.98,0.263,0.00173,0.0048,mb,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,313,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG311-313_MOC4_NET0,,,38.29,0.7975,0.017,0.0074,mb,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,314,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG314-316_MOC4_NET0,,,36.22,0.6317,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,315,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG314-316_MOC4_NET0,,,36.63,0.6446,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,316,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG314-316_MOC4_NET0,,,40.73,0.9021,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,317,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG317-319_MOC4_NET0,,,35.84,0.6408,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,318,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG317-319_MOC4_NET0,,,34.07,0.5744,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,319,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG317-319_MOC4_NET0,,,35.63,0.6179,,,visual,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,320,55,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG320_MOC4_NET0,,,35.12,0.5502,0.0167,0.002,mb,,,,,neg80,"Fish 301-320, most mushy with skin missing but appear to be same species based on PV, OV, etc of decent individs.",20211105,LSL
+SG2105,Sarmiento,4,0,321,55,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG321-322_MOC4_NET0,,,34.01,0.2268,,,,,,,,neg80,"ID Notes: 23+ gill rakers on first arch, so not a nannobrachium sp",20211105,LSL
+SG2105,Sarmiento,4,0,322,55,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG321-322_MOC4_NET0,,,29.6,0.1629,,,,,,,,neg80,"ID Notes: 23+ gill rakers on first arch, so not a nannobrachium sp",20211105,LSL
+SG2105,Sarmiento,4,1,323,45,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG323-324_MOC4_NET1,,,32.44,0.179,,,,,,,,neg80,"ID Notes: 23+ gill rakers on first arch, so not a nannobrachium sp",20211105,LSL
+SG2105,Sarmiento,4,1,324,45,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG323-324_MOC4_NET1,,,31.29,0.2363,,,,,,,,neg80,"ID Notes: 23+ gill rakers on first arch, so not a nannobrachium sp. Fish in bad shape",20211105,LSL
+SG2105,Sarmiento,4,3,325,50,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG325_MOC4_NET3,,,24.21,0.1774,,,visual,,,,,neg80,,20211105,LSL
+SG2105,Sarmiento,4,3,326,50,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG326_MOC4_NET3,39.71,,31.06,0.8264,,,visual,,,,,neg80,"Ovaries coming out vent (saved just because they were there). Gut in mouth but not inverted, contents should be okay",20211105,LSL
+SG2105,Sarmiento,4,2,327,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG327_MOC4_NET2,,,24.2,0.3003,0.0082,,mb,1,M,,,neg80,Gut in mouth but think it was not inverted and I got it all,20211119,LSL
+SG2105,Sarmiento,4,2,328,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG328_MOC4_NET2,29,24.76,23.72,0.3373,0.014,,mb,2,H,,,neg80,,20211119,LSL
+SG2105,Sarmiento,4,2,329,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG329_MOC4_NET2,34.84,31.73,29.67,0.718,0.0569,,mb,2,H,,,neg80,,20211119,LSL
+SG2105,Sarmiento,4,2,330,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG330_MOC4_NET2,,,29.38,0.6738,0.0299,,mb,2,H,,,neg80,"Gut in mouth, not inverted but may have lost some",20211119,LSL
+SG2105,Sarmiento,4,2,331,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG331_MOC4_NET2,,,27.35,0.4871,,,mb,2,H,,,neg80,"Gut in mouth, not inverted but may have lost some",20211119,LSL
+SG2105,Sarmiento,4,2,332,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG332_MOC4_NET2,,,24.96,0.3908,,,mb,2,H,,,neg80,,20211119,LSL
+SG2105,Sarmiento,4,2,333,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG333_MOC4_NET2,,,21.22,0.1989,0.0137,,mb,2,H,,,neg80,,20211119,LSL
+SG2105,Sarmiento,4,2,334,47,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG334_MOC4_NET2,,,14.64,0.0787,0.0026,,mb,2,M,,,neg80,,20211119,LSL
+SG2105,Sarmiento,4,2,335,47,Argyropelecus lychnus,ARLY,visual,ARLY,,H,SG2105_ORG335_MOC4_NET2,,,14.45,0.08,0.0034,,mb,9,,,,neg80,ID Notes: changed to ARLY on 12/20/2021,20211119,LSL
+SG2105,Sarmiento,4,1,336,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG336-339_MOC4_NET1,,,31,0.1652,,,,,,,,neg80,ID Notes: maybe microdon but damaged. Fish 336-341 refrozen in foil together; bodies too damaged to collect guts,20211130,LSL
+SG2105,Sarmiento,4,1,337,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG336-339_MOC4_NET1,,,37,0.2099,,,,,,,,neg80,ID Notes: maybe microdon but damaged. Fish 336-341 refrozen in foil together; bodies too damaged to collect guts,20211130,LSL
+SG2105,Sarmiento,4,1,338,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG336-339_MOC4_NET1,,,32,0.155,,,,,,,,neg80,Fish 336-341 refrozen in foil together; bodies too damaged to collect guts,20211130,LSL
+SG2105,Sarmiento,4,1,339,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG336-339_MOC4_NET1,,,31,0.1526,,,,,,,,neg80,Fish 336-341 refrozen in foil together; bodies too damaged to collect guts,20211130,LSL
+SG2105,Sarmiento,4,1,340,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG340-341_MOC4_NET1,,,34,0.1598,,,,,,,,neg80,Fish 336-341 refrozen in foil together; bodies too damaged to collect guts,20211130,LSL
+SG2105,Sarmiento,4,1,341,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG340-341_MOC4_NET1,,,32,0.1437,,,,,,,,neg80,Fish 336-341 refrozen in foil together; bodies too damaged to collect guts,20211130,LSL
+SG2105,Sarmiento,4,1,342,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG342_MOC4_NET1,36.51,,30.89,0.1495,0.0037,,mb,2,H,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,343,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG343_MOC4_NET1,,,32,0.1615,,,mb,2,H,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,344,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG344_MOC4_NET1,,,33,0.2129,0.0051,,mb,2,H,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,345,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG345-346_MOC4_NET1,,,32.3,0.1576,0.0043,,mb,,,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,346,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG345-346_MOC4_NET1,,,31.18,0.1598,,,visual,9,,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,347,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG347_MOC4_NET1,,,36,0.2496,,,mb,9,,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,348,44,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG348_MOC4_NET1,,,35,0.2193,0.0039,,mb,1,L,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,349,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG349_MOC4_NET1,,,29,0.1078,0.0045,,visual,,,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,350,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG350_MOC4_NET1,,,34,0.232,,,,,,,,neg80,Body broken,20211130,LSL
+SG2105,Sarmiento,4,1,351,44,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG351_MOC4_NET1,,,69,1.5694,0.0449,0.0397,mb,2,H,,,neg80,,20211130,LSL
+SG2105,Sarmiento,4,1,352,44,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG352_MOC4_NET1,36,,31,0.1739,,,visual,,,,,neg80,"ID Notes: fish 352-354 same species, LAMA based on gill rakers (7+1+15)",20211130,LSL
+SG2105,Sarmiento,4,1,353,44,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG353_MOC4_NET1,42.53,,35.29,0.2937,,,mb,,,,,neg80,"ID Notes: fish 352-354 same species, LAMA based on gill rakers (7+1+15)",20211130,LSL
+SG2105,Sarmiento,4,1,354,44,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG354_MOC4_NET1,,,26.26,0.1028,,,mb,,,,,neg80,"ID Notes: fish 352-354 same species, LAMA based on gill rakers (7+1+15)",20211130,LSL
+SG2105,Sarmiento,4,0,355,56,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG355_MOC4_NET0,,,45,0.3926,,,mb,,,,,neg80,"ID Notes: fish 355-357, 360-362 same species",20211203,LSL
+SG2105,Sarmiento,4,0,356,56,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG356_MOC4_NET0,39,,33,0.192,0.0038,,mb,,,,,neg80,"ID Notes: fish 355-357, 360-362 same species",20211203,LSL
+SG2105,Sarmiento,4,0,357,56,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG357_MOC4_NET0,40,,34,0.1826,0.0047,,mb,,,,,neg80,"ID Notes: fish 355-357, 360-362 same species",20211203,LSL
+SG2105,Sarmiento,4,0,358,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG358_MOC4_NET0,,,32,0.1997,0.0044,,mb,,,,,neg80,"ID Notes: fish 358-9, 363-4 same species",20211203,LSL
+SG2105,Sarmiento,4,0,359,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG359_MOC4_NET0,37,,31,0.1448,0.0064,,mb,,,,,neg80,"ID Notes: fish 358-9, 363-4 same species",20211203,LSL
+SG2105,Sarmiento,4,0,360,56,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG360_MOC4_NET0,,,46,0.5449,0.0157,,visual,,,,,neg80,"ID Notes: fish 355-357, 360-362 same species",20211203,LSL
+SG2105,Sarmiento,4,0,361,56,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG3561_MOC4_NET0,44,,38,0.2276,0.0102,,visual,,,,,neg80,"ID Notes: fish 355-357, 360-362 same species",20211203,LSL
+SG2105,Sarmiento,4,0,362,56,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG362_MOC4_NET0,,,32,0.1674,0.006,,visual,,,,,neg80,"ID Notes: fish 355-357, 360-362 same species",20211203,LSL
+SG2105,Sarmiento,4,0,363,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG363_MOC4_NET0,38,,32,0.2153,0.0056,,visual,,,,,neg80,"ID Notes: fish 358-9, 363-4 same species",20211203,LSL
+SG2105,Sarmiento,4,0,364,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG364_MOC4_NET0,,,41,0.3028,0.0089,,visual,,,,,neg80,"ID Notes: fish 358-9, 363-4 same species",20211203,LSL
+SG2105,Sarmiento,4,0,365,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG365-368_MOC4_NET0,,,36,0.2448,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether. Body broken at mid-gut,20211203,LSL
+SG2105,Sarmiento,4,0,366,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG365-368_MOC4_NET0,,,31,0.1832,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether,20211203,LSL
+SG2105,Sarmiento,4,0,367,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG365-368_MOC4_NET0,,,31,0.159,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether,20211203,LSL
+SG2105,Sarmiento,4,0,368,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG365-368_MOC4_NET0,,,31,0.1608,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether,20211203,LSL
+SG2105,Sarmiento,4,0,369,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG369-373_MOC4_NET0,,,32,0.1691,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether,20211203,LSL
+SG2105,Sarmiento,4,0,370,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG369-373_MOC4_NET0,,,30,0.1458,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether. Gut damaged,20211203,LSL
+SG2105,Sarmiento,4,0,371,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG369-373_MOC4_NET0,,,33,0.2013,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether. Gut damaged,20211203,LSL
+SG2105,Sarmiento,4,0,372,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG369-373_MOC4_NET0,,,28,0.147,,,,,,,,neg80,Fish 365-372 refrozen in foil togtether. Tail broken,20211203,LSL
+SG2105,Sarmiento,4,0,373,56,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG369-373_MOC4_NET0,,,35,0.1843,,,,,,,,neg80,ID Notes: may be a different species than previous. Fish 365-372 refrozen in foil togtether,20211203,LSL
+SG2105,Sarmiento,4,4,374,52,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG374_MOC4_NET4,,,,,,,,,,,,neg80,Partial fish,20211203,LSL
+SG2105,Sarmiento,5,2,375,64,Argyropelecus lychnus,ARLY,visual,ARLY,,H,SG2105_ORG375_MOC5_NET2,,,15.78,0.0959,0.0115,,mb,,,,,neg80,"ID Notes: First verified ARLY based on body depth to length ratio, canines, post abdominal spines, upper and lower preopercular spines (change all previous ARSP in this cruise to ARLY)",20211203,LSL
+SG2105,Sarmiento,5,2,376,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG376_MOC5_NET2,25.09,22.25,20.09,0.2102,,,mb,2,H,,,neg80,Gonad: obvious hydrated oocytes with multiple stages of developing oocytes,20211203,LSL
+SG2105,Sarmiento,5,2,377,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG377_MOC5_NET2,,,17,0.1147,0.0083,,mb,,,,,neg80,Fish BC: hard to get clean BC sample from fish 377-386,20211203,LSL
+SG2105,Sarmiento,5,2,378,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG378-379_MOC5_NET2,,,23,0.3179,0.0359,,mb,1,H,,,neg80,Fish BC: hard to get clean BC sample from fish 377-386,20211203,LSL
+SG2105,Sarmiento,5,2,379,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG378-379_MOC5_NET2,,,20,0.13,0.0292,,mb,1,H,,,neg80,Fish BC: hard to get clean BC sample from fish 377-386. Gut: in mouth but not inverted,20211203,LSL
+SG2105,Sarmiento,5,2,380,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG380-381_MOC5_NET2,,,22,0.2254,0.0159,,mb,2,H,,,neg80,Fish BC: hard to get clean BC sample from fish 377-386,20211203,LSL
+SG2105,Sarmiento,5,2,381,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG380-381_MOC5_NET2,,,19,0.1271,,,mb,2,H,,,neg80,"Fish BC: hard to get clean BC sample from fish 377-386. Gut: in mouth, may be damaged",20211203,LSL
+SG2105,Sarmiento,5,2,382,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG382-383_MOC5_NET2,26,,23,0.1943,0.0163,,mb,2,H,,,neg80,"Fish BC: hard to get clean BC sample from fish 377-386. Gut: in mouth, appears ok",20211203,LSL
+SG2105,Sarmiento,5,2,383,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG382-383_MOC5_NET2,,,19.25,0.1471,0.0042,,mb,1,H,,,neg80,Fish BC: hard to get clean BC sample from fish 377-386,20211203,LSL
+SG2105,Sarmiento,5,2,384,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG384-385_MOC5_NET2,,,16.55,0.0855,,,mb,1,M,,,neg80,Fish BC: hard to get clean BC sample from fish 377-386,20211203,LSL
+SG2105,Sarmiento,5,2,385,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG384-385_MOC5_NET2,,,22.1,0.2046,,,mb,2,H,,,neg80,"Fish BC: hard to get clean BC sample from fish 377-386. Gut: in mouth, appears ok",20211203,LSL
+SG2105,Sarmiento,5,2,386,64,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG386_MOC5_NET2,,,16.18,0.0956,,,mb,1,M,,,neg80,too small for BC,20211203,LSL
+SG2105,Sarmiento,5,1,387,63,Lampanyctus sp.,LASP,visual,LASP,,L,SG2105_ORG387-389_MOC5_NET1,,,,,,,,,,,,neg80,"Fish 387-389: all fish in multiple pieces & heavily damaged, could not match or identify appropriately. ID is best guess",20211209,LSL
+SG2105,Sarmiento,5,1,388,63,Lampanyctus sp.,LASP,visual,LASP,,L,SG2105_ORG387-389_MOC5_NET1,,,,,,,,,,,,neg80,"Fish 387-389: all fish in multiple pieces & heavily damaged, could not match or identify appropriately. ID is best guess",20211209,LSL
+SG2105,Sarmiento,5,1,389,63,Benthosema sp.,BESP,visual,BESP,,L,SG2105_ORG387-389_MOC5_NET1,,,,,,,,,,,,neg80,"Fish 387-389: all fish in multiple pieces & heavily damaged, could not match or identify appropriately. ID is best guess",20211209,LSL
+SG2105,Sarmiento,5,2,390,65,Protomyctophum arcticum,PRAR,visual,PRAR,,H,SG2105_ORG390_MOC5_NET1,,,32.07,0.4838,,,,,,,,neg80,Did not collect samples since this is a one off fish species so far,20211209,LSL
+SG2105,Sarmiento,5,1,391,70,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG391_MOC5_NET1,,,33,0.1913,,,mb,1,M,,,neg80,Fish 391-393: think these were previously thawed to pull fish for ETS; fish in poor condition,20211209,LSL
+SG2105,Sarmiento,5,1,392,70,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG392-393_MOC5_NET1,,,32,0.171,0.007,,visual,,,,,neg80,Fish 394-397: previously thawed; most fish in pieces,20211209,LSL
+SG2105,Sarmiento,5,1,393,70,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG392-393_MOC5_NET1,,,38.52,0.254,0.0083,,visual,,,,,neg80,Fish 394-397: previously thawed; most fish in pieces,20211209,LSL
+SG2105,Sarmiento,5,1,394,62,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG394-395_MOC5_NET1,,,55.8,0.8007,,,,,,,,neg80,Fish 394-397: previously thawed; most fish in pieces,20211209,LSL
+SG2105,Sarmiento,5,1,395,62,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG394-395_MOC5_NET1,,,27.76,0.0864,,,,,,,,neg80,Fish 394-397: previously thawed; most fish in pieces,20211209,LSL
+SG2105,Sarmiento,5,1,396,62,Cyclothone sp.,CYSP,visual,CYSP,,H,SG2105_ORG396-397_MOC5_NET1,,,,,,,,,,,,neg80,Fish 394-397: previously thawed; most fish in pieces,20211209,LSL
+SG2105,Sarmiento,5,1,397,62,Lampanyctus sp.,LASP,visual,LASP,,L,SG2105_ORG396-397_MOC5_NET1,,,33.33,0.1862,,,,,,,,neg80,Fish 394-397: previously thawed; most fish in pieces,20211209,LSL
+SG2105,Sarmiento,5,0,398,67,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG398-399_MOC5_NET0,,,18,,,,,,,,,neg80,,20211209,LSL
+SG2105,Sarmiento,5,0,399,67,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG398-399_MOC5_NET0,,,32.73,0.7166,,,,,,,,neg80,,20211209,LSL
+SG2105,Sarmiento,5,0,400,68,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG400-403_MOC5_NET0,,,32.64,0.1951,,,,,,,,neg80,Fish 400-407 refrozen in foil together,20211209,LSL
+SG2105,Sarmiento,5,0,401,68,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG400-403_MOC5_NET0,,,31.43,0.1748,,,,,,,,neg80,Fish 400-407 refrozen in foil together,20211209,LSL
+SG2105,Sarmiento,5,0,402,68,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG400-403_MOC5_NET0,,,33.69,0.1623,,,,,,,,neg80,Fish 400-407 refrozen in foil together,20211209,LSL
+SG2105,Sarmiento,5,0,403,68,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG400-403_MOC5_NET0,,,21.72,0.0725,,,,,,,,neg80,Fish 400-407 refrozen in foil together,20211209,LSL
+SG2105,Sarmiento,5,0,404,68,Cyclothone sp.,CYSP,visual,CYSP,,,,,,31.31,0.1592,,,,,,,,neg80,"Fish 400-407 refrozen in foil together. Oops, no image",20211209,LSL
+SG2105,Sarmiento,5,0,405,68,Cyclothone sp.,CYSP,visual,CYSP,,,,,,29.96,0.1519,,,,,,,,neg80,"Fish 400-407 refrozen in foil together. Oops, no image",20211209,LSL
+SG2105,Sarmiento,5,0,406,68,Cyclothone sp.,CYSP,visual,CYSP,,,,,,31,,,,,,,,,neg80,"Fish 400-407 refrozen in foil together. Low estimate weight=0.1558. Oops, no image",20211209,LSL
+SG2105,Sarmiento,5,0,407,68,Cyclothone sp.,CYSP,visual,CYSP,,,,,,30.2,0.1371,,,,,,,,neg80,"Fish 400-407 refrozen in foil together. Oops, no image",20211209,LSL
+SG2105,Sarmiento,5,0,408,68,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG408-410_MOC5_NET0,,,56.78,0.8946,,,,,,,,neg80,,20211209,LSL
+SG2105,Sarmiento,5,0,409,68,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG408-410_MOC5_NET0,,,52.12,0.649,,,,,,,,neg80,,20211209,LSL
+SG2105,Sarmiento,5,0,410,68,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG408-410_MOC5_NET0,,,31.86,0.1552,,,,,,,,neg80,,20211209,LSL
+SG2105,Sarmiento,5,0,411,69,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG411-413_MOC5_NET0,,,26.38,0.1926,,,,,,,,neg80,Body a bit damaged ID ok,20211209,LSL
+SG2105,Sarmiento,5,0,412,69,Lampanyctus macdonaldi,LAMA,visual,LAMA,,H,SG2105_ORG411-413_MOC5_NET0,,,35.17,0.293,,,,,,,,neg80,ID Notes: to species based on gill rakers,20211209,LSL
+SG2105,Sarmiento,5,0,413,69,Lampanyctus macdonaldi,LAMA,visual,LAMA,,H,SG2105_ORG411-413_MOC5_NET0,,,31.15,0.167,,,,,,,,neg80,ID Notes: to species based on gill rakers,20211209,LSL
+SG2105,Sarmiento,6,4,414,80,Myctophum punctatum,MYPU,visual,MYPU,,H,SG2105_ORG414_MOC6_NET4,83,74,68,4.9378,0.4198,,visual,2,H,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,415,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG415-416_MOC6_NET4,,,25,0.2104,0.0014,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,416,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG415-416_MOC6_NET4,,,25.28,0.2056,0.0156,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,417,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG417-418_MOC6_NET4,34.53,,29.24,0.3411,0.0208,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,418,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG417-418_MOC6_NET4,,,24,0.1917,0.0168,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,419,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG419-420_MOC6_NET4,,,23.43,0.1808,0.0058,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,420,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG419-420_MOC6_NET4,,,24.7,0.2134,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,421,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG421-422_MOC6_NET4,,,27.17,0.2843,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,422,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG421-422_MOC6_NET4,,,26.6,0.284,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,423,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG423-424_MOC6_NET4,,,33.72,0.6518,0.0243,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,424,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG423-424_MOC6_NET4,,,25.71,0.2364,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,425,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG425-426_MOC6_NET4,,,27,0.2282,0.0147,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,426,80,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG425-426_MOC6_NET4,,,26.51,0.2357,0.0158,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,427,80,Benthosema glaciale,BEGL,visual,BEGL,,H,,,,24.82,0.2,0.0193,,mb,,,,,neg80,"Oops, no image",20211210,LSL
+SG2105,Sarmiento,6,4,428,80,Benthosema glaciale,BEGL,visual,BEGL,,H,,,,21.34,0.1258,0.0038,,mb,,,,,neg80,"Oops, no image",20211210,LSL
+SG2105,Sarmiento,6,4,429,80,Benthosema glaciale,BEGL,visual,BEGL,,H,,,,24,0.187,0.0083,,mb,,,,,neg80,"Oops, no image",20211210,LSL
+SG2105,Sarmiento,6,4,430,80,Myctophum punctatum,MYPU,visual,MYPU,,H,SG2105_ORG430-431_MOC6_NET4,,,23.35,0.1803,0.021,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,431,80,Myctophum punctatum,MYPU,visual,MYPU,,H,SG2105_ORG430-431_MOC6_NET4,,,21.49,0.1262,0.0169,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,4,432,80,Myctophum punctatum,MYPU,visual,MYPU,,H,SG2105_ORG432-433_MOC6_NET4,,,23.97,,0.0132,,visual,,,,,neg80,Gut may be labeled as 433,20211210,LSL
+SG2105,Sarmiento,6,4,433,80,Myctophum punctatum,MYPU,visual,MYPU,,M,SG2105_ORG432-433_MOC6_NET4,,,,,,,,,,,,neg80,ID: only half a body but seems to fit,20211210,LSL
+SG2105,Sarmiento,6,2,434,77,Valenciennellus tripunctulatus,VATR,visual,VATR,,H,SG2105_ORG434_MOC6_NET2,,,30.47,0.3369,,,,,,,,neg80,Did not collect gut since one off species,20211210,LSL
+SG2105,Sarmiento,6,1,435,75,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG435-436_MOC6_NET1,35.54,,30.51,0.1554,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,436,75,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG435-436_MOC6_NET1,,,29.75,0.118,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,437,75,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG437-438_MOC6_NET1,36.24,,30.89,0.1396,,,visual,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,438,75,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG437-438_MOC6_NET1,,,29.64,0.1316,,,visual,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,439,75,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG439-440_MOC6_NET1,,,37.27,,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,440,75,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG439-440_MOC6_NET1,,,29.23,,,,mb,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,441,75,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG441-442_MOC6_NET1,,,30.65,0.1424,,,visual,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,442,75,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG441-442_MOC6_NET1,,,28.37,0.1024,,,visual,,,,,neg80,,20211210,LSL
+SG2105,Sarmiento,6,1,443,75,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG443_MOC6_NET1,37.19,,32.27,0.1659,,,,,,,,neg80,"Squished belly, no samples. ID Notes: light cyclothone",20211210,LSL
+SG2105,Sarmiento,6,1,444,75,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG444_MOC6_NET1,,,34.73,0.1879,,,,,,,,neg80,ID Notes: dark cyclothone,20211210,LSL
+SG2105,Sarmiento,6,0,445,82,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG445-447_MOC6_NET0,40.56,,35.3,0.5531,,,,,,,,neg80,Pckt 82 fish in rough condition,20211221,LSL
+SG2105,Sarmiento,6,0,446,82,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG445-447_MOC6_NET0,,,25.92,0.1874,,,,,,,,neg80,Pckt 82 fish in rough condition,20211221,LSL
+SG2105,Sarmiento,6,0,447,82,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG445-447_MOC6_NET0,,,26.9,0.241,,,,,,,,neg80,Pckt 82 fish in rough condition,20211221,LSL
+SG2105,Sarmiento,6,0,448,82,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG448-449_MOC6_NET0,,,25.25,0.1902,,,,,,,,neg80,Pckt 82 fish in rough condition,20211221,LSL
+SG2105,Sarmiento,6,0,449,82,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG448-449_MOC6_NET0,,,,,,,,,,,,neg80,Pckt 82 fish in rough condition. Half a body=26 mm,20211221,LSL
+SG2105,Sarmiento,6,0,450,82,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG450-452_MOC6_NET0,36.31,,31.09,0.1533,,,,,,,,neg80,Pckt 82 fish in rough condition,20211221,LSL
+SG2105,Sarmiento,6,0,451,82,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG450-452_MOC6_NET0,,,31.89,0.169,,,,,,,,neg80,Pckt 82 fish in rough condition,20211221,LSL
+SG2105,Sarmiento,6,0,452,82,Lampanyctus macdonaldi,LAMA,visual,LAMA,,M,SG2105_ORG450-452_MOC6_NET0,,,28.92,,,,,,,,,neg80,Pckt 82 fish in rough condition. Partial weight =0.1440g,20211221,LSL
+SG2105,Sarmiento,6,0,453,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG453-455_MOC6_NET0,,,41.46,0.3608,,,,,,,,neg80,ID Notes: Org 453-458 appear to be same species,20211221,LSL
+SG2105,Sarmiento,6,0,454,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG453-455_MOC6_NET0,,,40.58,0.3162,,,,,,,,neg80,ID Notes: Org 453-458 appear to be same species,20211221,LSL
+SG2105,Sarmiento,6,0,455,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG453-455_MOC6_NET0,,,34.41,0.228,,,,,,,,neg80,ID Notes: Org 453-458 appear to be same species,20211221,LSL
+SG2105,Sarmiento,6,0,456,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG456-457_MOC6_NET0,41.25,,35.41,0.2496,,,,,,,,neg80,ID Notes: Org 453-458 appear to be same species,20211221,LSL
+SG2105,Sarmiento,6,0,457,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG456-457_MOC6_NET0,,,31.87,0.1694,,,,,,,,neg80,ID Notes: Org 453-458 appear to be same species,20211221,LSL
+SG2105,Sarmiento,6,0,458,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG458-459_MOC6_NET0,,,34.27,0.213,,,,,,,,neg80,ID Notes: Org 453-458 appear to be same species,20211221,LSL
+SG2105,Sarmiento,6,0,459,81,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG458-459_MOC6_NET0,,,30.48,0.1433,,,,,,,,neg80,ID Notes: maybe microdon but flesh is more tan than white,20211221,LSL
+SG2105,Sarmiento,6,0,460,81,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG460-461_MOC6_NET0,,,33.49,0.2038,,,,,,,,neg80,ID Notes: light; 460-461 same species,20211221,LSL
+SG2105,Sarmiento,6,0,461,81,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG460-461_MOC6_NET0,,,45.68,0.4315,,,,,,,,neg80,ID Notes: light; 460-461 same species,20211221,LSL
+SG2105,Sarmiento,6,0,462,81,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG462-463_MOC6_NET0,,,43.52,,,,,,,,,neg80,ID Notes: brown sp,20211221,LSL
+SG2105,Sarmiento,6,0,463,81,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG462-463_MOC6_NET0,,,37.57,0.3187,,,,,,,,neg80,ID Notes: maybe microdon but in bad shape,20211221,LSL
+SG2105,Sarmiento,7,1,464,84,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG464_MOC7_NET1,,,51.39,0.597,0.026,,mb,,,,,neg80,,20211221,LSL
+SG2105,Sarmiento,7,1,465,84,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG465_MOC7_NET1,42.34,,34.38,0.2707,,,mb,,,,,neg80,,20211221,LSL
+SG2105,Sarmiento,7,1,466,84,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG466_MOC7_NET1,,,39.23,0.302,,,mb,,,,,neg80,,20211221,LSL
+SG2105,Sarmiento,7,1,467,84,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG467_MOC7_NET1,,,31.06,0.1601,,,mb,,,,,neg80,,20211221,LSL
+SG2105,Sarmiento,7,1,468,84,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG468_MOC7_NET1,,,32.38,0.1538,,,none,,,,,neg80,Damaged gut,20211221,LSL
+SG2105,Sarmiento,7,1,469,84,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG469_MOC7_NET1,,,34.4,0.2282,,,none,,,,,neg80,Damaged gut,20211221,LSL
+SG2105,Sarmiento,7,1,470,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG470_MOC7_NET1,,,31.78,0.1792,,,mb,,,,,neg80,ID Notes: 470-478 may be same sp.,20211221,LSL
+SG2105,Sarmiento,7,1,471,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG471_MOC7_NET1,,,33.46,0.1823,,,mb,,,,,neg80,ID Notes: 470-478 may be same sp.,20211221,LSL
+SG2105,Sarmiento,7,1,472,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG472_MOC7_NET1,,,31.45,0.1939,,,mb,,,,,neg80,ID Notes: 470-478 may be same sp.,20211221,LSL
+SG2105,Sarmiento,7,1,473,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG473_MOC7_NET1,,,32.03,0.1936,,,mb,2,H,,,neg80,ID Notes: 470-478 may be same sp.,20211221,LSL
+SG2105,Sarmiento,7,1,474,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG474_MOC7_NET1,,,33.01,0.2221,,,mb,,,,,neg80,ID Notes: 470-478 may be same sp.,20211221,LSL
+SG2105,Sarmiento,7,1,475,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG475_MOC7_NET1,,,31.18,0.1773,,,mb,,,,,neg80,ID Notes: 470-478 may be same sp.,20211221,LSL
+SG2105,Sarmiento,7,1,476,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG476-478_MOC7_NET1,37.4,,31.95,0.1846,,,none,,,,,neg80,ID Notes: 470-478 may be same sp. Gut damaged,20211221,LSL
+SG2105,Sarmiento,7,1,477,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG476-478_MOC7_NET1,,,32.71,0.1786,,,none,,,,,neg80,ID Notes: 470-478 may be same sp. Gut damaged,20211221,LSL
+SG2105,Sarmiento,7,1,478,84,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG476-478_MOC7_NET1,,,31.88,,,,none,,,,,neg80,ID Notes: 470-478 may be same sp. Gut damaged,20211221,LSL
+SG2105,Sarmiento,7,0,479,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG479_MOC7_NET0,,,33.37,0.1962,,,mb,,,,,neg80,,20220113,LSL
+SG2105,Sarmiento,7,0,480,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG480_MOC7_NET0,38.89,,31.74,0.2086,,,mb,2,H,,,neg80,,20220113,LSL
+SG2105,Sarmiento,7,0,481,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG481_MOC7_NET0,,,32.88,0.1947,0.0056,,visual,2,H,,,neg80,,20220113,LSL
+SG2105,Sarmiento,7,0,482,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG482_MOC7_NET0,37.55,,31.72,0.1937,0.0053,,visual,,,,,neg80,,20220113,LSL
+SG2105,Sarmiento,7,0,483,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG483-485_MOC7_NET0,,,31,0.1847,,,none,,,,,neg80,483-488 refrozen in foil together. Gut damaged,20220113,LSL
+SG2105,Sarmiento,7,0,484,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG483-485_MOC7_NET0,,,30.72,0.173,,,none,,,,,neg80,483-488 refrozen in foil together. Gut damaged,20220113,LSL
+SG2105,Sarmiento,7,0,485,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG483-485_MOC7_NET0,,,32.33,0.1976,,,none,,,,,neg80,483-488 refrozen in foil together. Gut damaged. Head squished,20220113,LSL
+SG2105,Sarmiento,7,0,486,89,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG486-488_MOC7_NET0,,,28.46,0.1176,,,none,,,,,neg80,483-488 refrozen in foil together. Gut damaged,20220113,LSL
+SG2105,Sarmiento,7,0,487,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG486-488_MOC7_NET0,,,38.65,0.2627,,,none,,,,,neg80,483-488 refrozen in foil together. Gut damaged,20220113,LSL
+SG2105,Sarmiento,7,0,488,89,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG486-488_MOC7_NET0,,,37.47,0.2736,,,none,,,,,neg80,483-488 refrozen in foil together. Gut damaged. Head squished,20220113,LSL
+SG2105,Sarmiento,7,0,489,88,Arctozenus risso,ARRI,visual,ARRI,,M,SG2105_ORG489_MOC7_NET0,,,61,,,,none,,,,,neg80,ID Notes: teeth do not appear serrate but no fins to evaluate/confirm ID. Head smashed; body incomplete,20220113,LSL
+SG2105,Sarmiento,7,1,490,85,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG490_MOC7_NET1,,,34,0.4822,,,mb,,,,,neg80,Unsure if previously thawed,20220113,LSL
+SG2105,Sarmiento,8,2,491,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG491_MOC8_NET2,,29.74,27.23,0.4614,,,mb,2,H,,,neg80,Gut tore open but think I got it all,20220113,LSL
+SG2105,Sarmiento,8,2,492,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG492_MOC8_NET2,,,26.53,0.4165,,,mb,2,H,,,neg80,Gut in mouth but ok,20220113,LSL
+SG2105,Sarmiento,8,2,493,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG493_MOC8_NET2,,,29.46,0.5956,,,mb,2,H,,,neg80,"Gut in mouth, may be compromised, other organs (gall bladder and intestine)l in vial",20220113,LSL
+SG2105,Sarmiento,8,2,494,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG494_MOC8_NET2,,,29.37,0.4842,,,mb,2,H,,,neg80,"Gut in mouth, tore open, but think okay",20220113,LSL
+SG2105,Sarmiento,8,2,495,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG495_MOC8_NET2,,,29.17,0.5571,,,mb,2,H,,,neg80,"Gut in mouth, tore open, but think okay",20220113,LSL
+SG2105,Sarmiento,8,2,496,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG496_MOC8_NET2,34.6,,28.85,0.5472,,,mb,2,H,,,neg80,Gut in mouth but seems ok,20220113,LSL
+SG2105,Sarmiento,8,2,497,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG497_MOC8_NET2,29.78,27.1,24.7,0.3659,,,mb,2,H,,,neg80,"Gut in mouth, ok but some liver in vial",20220113,LSL
+SG2105,Sarmiento,8,2,498,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG498_MOC8_NET2,,,29.13,0.6268,,,visual,2,H,,,neg80,"Gut in mouth , ok, some other organs in vial",20220113,LSL
+SG2105,Sarmiento,8,2,499,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG499_MOC8_NET2,,,32.54,0.7659,,,visual,2,H,,,neg80,Gut in mouth but sample good,20220113,LSL
+SG2105,Sarmiento,8,2,500,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG500_MOC8_NET2,,,27.93,0.5291,,,visual,2,H,,,neg80,"Gut in mouth, might have torn but think ok",20220113,LSL
+SG2105,Sarmiento,8,2,501,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG501_MOC8_NET2,,,26.89,0.63,,,visual,1,H,,,neg80,"Gut in mouth, tore open, may not be good",20220114,LSL
+SG2105,Sarmiento,8,2,502,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG502_MOC8_NET2,,,26.36,0.5046,,,visual,2,H,,,neg80,"Gut in mouth, ok",20220114,LSL
+SG2105,Sarmiento,8,2,503,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG503_MOC8_NET2,,,27.73,0.497,,,visual,2,H,,,neg80,"Gut in mouth, ok",20220114,LSL
+SG2105,Sarmiento,8,2,504,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG504_MOC8_NET2,,,20.39,0.2976,,,visual,2,H,,,neg80,"Gut in mouth, ok",20220114,LSL
+SG2105,Sarmiento,8,2,505,100,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG505_MOC8_NET2,,,29.64,0.8309,,,visual,2,H,,,neg80,Gut ok despite open body cavity,20220114,LSL
+SG2105,Sarmiento,8,2,506,100,Valenciennellus tripunctulatus,VATR,visual,VATR,,M,SG2105_ORG506_MOC8_NET2,30.97,,25.5,0.1499,,,none,,,,,neg80,Fish in bad condition,20220114,LSL
+SG2105,Sarmiento,8,1,507,97,Scopelogadus beanii,SCBE,visual,SCBE,,H,SG2105_ORG507_MOC8_NET1,,44.93,40.33,1.3939,0.0486,0.0162,mb,,,,,neg80,"ID Notes: DF II, 11",20220114,LSL
+SG2105,Sarmiento,8,3,508,102,Diaphus subtilis,DISU,visual,DISU,,M,SG2105_ORG508_MOC8_NET3,,,38.11,1.2052,,,none,,,,,neg80,,20220114,LSL
+SG2105,Sarmiento,8,3,509,102,Lampanyctus macdonaldi,LAMA,visual,LAMA,,L,SG2105_ORG509-510_MOC8_NET3,,,41.14,0.5898,,,none,,,,,neg80,"Fishes in pieces in bad shape, no proper way to ID, just guessed based on previous fishes",20220114,LSL
+SG2105,Sarmiento,8,3,510,102,Lampanyctus macdonaldi,LAMA,visual,LAMA,,L,SG2105_ORG509-510_MOC8_NET3,,,35.35,0.2822,,,none,,,,,neg80,"Fishes in pieces in bad shape, no proper way to ID, just guessed based on previous fishes",20220114,LSL
+SG2105,Sarmiento,8,0,511,104,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_0RG511_MOC8_NET0,42.55,36.36,32.62,0.8703,,,none,,,,,neg80,,20220114,LSL
+SG2105,Sarmiento,8,0,512,104,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_0RG512-514_MOC8_NET0,,27.46,24.96,0.4447,,,none,,,,,neg80,,20220114,LSL
+SG2105,Sarmiento,8,0,513,104,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_0RG512-514_MOC8_NET0,23.69,21.22,19.25,0.1708,,,none,,,,,neg80,,20220114,LSL
+SG2105,Sarmiento,8,0,514,104,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_0RG512-514_MOC8_NET0,,,21.72,0.3042,,,none,,,,,neg80,,20220114,LSL
+SG2105,Sarmiento,8,0,515,104,Argyropelecus olfersii,AROL,visual,AROL,20231213,M,SG2105_0RG515-516_MOC8_NET0,37.46,32.83,30.16,1.0412,,,none,,,,,neg80, ID updated due to data entry error,20220114,LSL
+SG2105,Sarmiento,8,0,516,104,Argyropelecus olfersii,AROL,visual,AROL,20231213,M,SG2105_0RG515-516_MOC8_NET0,,,,,,,none,,,,,neg80,Fish broken: minimum length 16.34; minimum weight 0.2683.  ID updated due to data entry error,20220114,LSL
+SG2105,Sarmiento,8,0,517,104,Cyclothone microdon,CYMI,visual,CYMI,20231213,L,SG2105_0RG517-519_MOC8_NET0,45.66,,37.03,0.2558,,,none,,,,,neg80,Bodies in pieces. ID updated due to data entry error,20220114,LSL
+SG2105,Sarmiento,8,0,518,104,Cyclothone microdon,CYMI,visual,CYMI,20231213,L,SG2105_0RG517-519_MOC8_NET0,,,34.12,0.2281,,,none,,,,,neg80,Bodies in pieces.  ID updated due to data entry error,20220114,LSL
+SG2105,Sarmiento,8,0,519,104,Cyclothone sp.,CYSP,visual,CYSP,20231213,,SG2105_0RG517-519_MOC8_NET0,,,32.47,0.1937,,,none,,,,,neg80,Bodies in pieces.  ID updated due to data entry error,20220114,LSL
+SG2105,Sarmiento,8,0,520,104,Evermannella sp.,EVSP,visual,EVSP,20231213,M,SG2105_0RG520_MOC8_NET0,78,76,72,2.6112,,,none,,,,,neg80,"ID Notes: eyes tubular, large teeth with barbs. ID updated due to data entry error. ID updated due to data entry error",20220114,LSL
+SG2105,Sarmiento,8,1,521,96,Cyclothone microdon,CYMI,visual,CYMI,20231213,L,SG2105_ORG521_MOC8_NET1,,33.42,31.79,0.2643,,,mb,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,522,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG522_MOC8_NET1,41.46,36.63,35.3,0.2445,,,mb,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,523,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG523_MOC8_NET1,,34.98,33.92,0.206,,,mb,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,524,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG524_MOC8_NET1,,,34.46,0.1936,,,mb,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,525,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG525_MOC8_NET1,,,32.11,0.1716,,,mb,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,526,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG526_MOC8_NET1,40.18,35.52,33.57,0.233,0.0058,,visual,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,527,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG527_MOC8_NET1,,,32.99,0.1976,0.0077,,visual,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,528,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG528_MOC8_NET1,,,33.5,0.2021,0.0073,,visual,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,529,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG529_MOC8_NET1,,,38.04,0.2971,0.0091,,visual,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,530,96,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG530_MOC8_NET1,,,30.03,0.1542,0.005,,visual,,,,,neg80,,20220120,LSL
+SG2105,Sarmiento,8,1,531,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG531_MOC8_NET1,,,39.81,0.3846,,,mb,,,,,neg80,ID Notes: Fish 531-536 may be microdon or another dark sp,20220120,LSL
+SG2105,Sarmiento,8,1,532,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG532_MOC8_NET1,,,28.67,0.1551,,,mb,,,,,neg80,ID Notes: Fish 531-536 may be microdon or another dark sp,20220120,LSL
+SG2105,Sarmiento,8,1,533,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG533_MOC8_NET1,,,31.57,0.2321,,,mb,,,,,neg80,ID Notes: Fish 531-536 may be microdon or another dark sp,20220120,LSL
+SG2105,Sarmiento,8,1,534,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG534_MOC8_NET1,,,38.88,0.3619,0.0117,,visual,,,,,neg80,ID Notes: Fish 531-536 may be microdon or another dark sp,20220120,LSL
+SG2105,Sarmiento,8,1,535,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG535_MOC8_NET1,,,34.88,0.2785,0.0061,,visual,,,,,neg80,ID Notes: Fish 531-536 may be microdon or another dark sp,20220120,LSL
+SG2105,Sarmiento,8,1,536,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG536_MOC8_NET1,37.56,34.36,32.92,0.2016,,,mb,,,,,neg80,ID Notes: Fish 531-536 may be microdon or another dark sp,20220120,LSL
+SG2105,Sarmiento,8,1,537,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG537_MOC8_NET1,,,30.08,0.1998,,,mb,,,,,neg80,ID Notes: Fish 537-540 light species,20220120,LSL
+SG2105,Sarmiento,8,1,538,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG538_MOC8_NET1,35,,30,0.1995,0.0034,,visual,,,,,neg80,ID Notes: Fish 537-540 light species,20220120,LSL
+SG2105,Sarmiento,8,1,539,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG539_MOC8_NET1,32.84,,28.33,0.1356,,,visual,,,,,neg80,ID Notes: Fish 537-540 light species,20220120,LSL
+SG2105,Sarmiento,8,1,540,96,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG540_MOC8_NET1,,,27.95,0.1117,,,visual,,,,,neg80,ID Notes: Fish 537-540 light species. Body in bad shape. Gut may be damaged,20220120,LSL
+SG2105,Sarmiento,8,4,541,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG541_MOC8_NET4,43,40,37,0.7619,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,542,101,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG542_MOC8_NET4,30.13,28.49,27.64,0.2714,,,mb,,,,,neg80,Fish in poor condition,20220121,LSL
+SG2105,Sarmiento,8,4,543,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG543_MOC8_NET4,33.74,30.99,28.84,0.3076,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,544,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG544_MOC8_NET4,,,27.34,0.2847,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,545,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG545_MOC8_NET4,,29.45,27.29,0.318,,,mb,,,,,neg80,ID Notes: a lot of skin gone but pretty confident,20220121,LSL
+SG2105,Sarmiento,8,4,546,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG546_MOC8_NET4,34.82,32.88,30.31,0.44,0.0131,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,547,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG547_MOC8_NET4,,,28.88,0.3495,0.0206,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,548,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG548_MOC8_NET4,,,33.64,0.6239,0.0402,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,549,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG549_MOC8_NET4,,,27.38,0.2941,,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,550,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG550_MOC8_NET4,35,32.58,30.37,0.4569,0.0304,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,551,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG551_MOC8_NET4,,31.3,30.23,0.334,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,552,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG552_MOC8_NET4,34.68,31.53,29.1,0.3574,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,553,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG553_MOC8_NET4,,30.78,29.14,0.3453,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,554,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG554_MOC8_NET4,,37.77,35.55,0.6078,,,mb,2,H,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,555,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG555_MOC8_NET4,,37.9,35.92,0.695,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,556,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG556_MOC8_NET4,,30,28.88,0.3077,0.0203,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,557,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG557_MOC8_NET4,,37.86,36.49,0.8217,0.0336,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,558,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG558_MOC8_NET4,,,29.04,0.3684,0.0198,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,559,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG559_MOC8_NET4,,,40.72,1.0556,0.0273,,visual,1,H,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,560,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG560_MOC8_NET4,31.68,29.74,27.45,0.2877,0.0165,,visual,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,561,101,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG561_MOC8_NET4,,,40.41,0.9478,,,mb,,,,,neg80,,20220121,LSL
+SG2105,Sarmiento,8,4,562,101,Symbolophorus veranyi,SYVE,visual,SYVE,,M,SG2105_ORG562_MOC8_NET4,57.25,49.19,46.37,1.2998,,,mb,,,,,neg80,ID Notes: SAO1 above VO2. Gut: could have squeezed contents but short on time,20220121,LSL
+SG2105,Sarmiento,8,4,563,101,Symbolophorus veranyi,SYVE,visual,SYVE,,M,SG2105_ORG563_MOC8_NET4,53.33,48.99,46.07,1.1899,,,mb,,,,,neg80,ID Notes: SAO1 above VO2.,20220121,LSL
+SG2105,Sarmiento,8,4,564,101,Symbolophorus veranyi,SYVE,visual,SYVE,,M,SG2105_ORG564_MOC8_NET4,,47.34,43.55,1.1344,,,mb,,,,,neg80,ID Notes: SAO1 above VO2.,20220121,LSL
+SG2105,Sarmiento,8,4,565,101,Notoscopelus resplendens,NORE,visual,NORE,,M,SG2105_ORG565_MOC8_NET4,,33.62,30.9,0.3802,,,visual,,,,,neg80,"ID Notes: initially grouped with SYVE but modified ID post-disection (2 POL at lateral line; GR 6+1+12). Gut: tearing, so has liver, etc in vial. ",20220121,LSL
+SG2105,Sarmiento,8,4,566,101,Symbolophorus veranyi,SYVE,visual,SYVE,,M,SG2105_ORG566_MOC8_NET4,,35.83,34.06,0.6185,,,visual,,,,,neg80,ID Notes: SAO1 above VO2.,20220121,LSL
+SG2105,Sarmiento,8,4,567,101,Symbolophorus veranyi,SYVE,visual,SYVE,,M,SG2105_ORG567_MOC8_NET4,,51.26,46.98,1.644,0.1672,,visual,,,,,neg80,ID Notes: SAO1 above VO2.,20220121,LSL
+SG2105,Sarmiento,8,4,568,101,Myctophum punctatum,MYPU,visual,MYPU,,M,SG2105_ORG568_MOC8_NET4,50.98,46.22,42.45,,0.0928,,visual,,,,,neg80,ID Notes: AOP 8+. Pics and weight after fish BC and tissue samples so est 1.0300,20220121,LSL
+SG2105,Sarmiento,8,4,569,101,Myctophum punctatum,MYPU,visual,MYPU,,M,SG2105_ORG569_MOC8_NET4,30.82,,25.5,0.2375,,,mb,,,,,neg80,ID Notes: AOP 8+,20220121,LSL
+SG2105,Sarmiento,8,0,570,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG570-572_MOC8_NET0,,,29.5,0.3183,,,none,,,,,neg80,Org 570-576 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,571,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG570-572_MOC8_NET0,,36.84,34.71,0.5812,,,none,,,,,neg80,Org 570-576 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,572,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG570-572_MOC8_NET0,,,33.91,0.4968,,,none,,,,,neg80,Org 570-576 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,573,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG573-576_MOC8_NET0,,,28.66,0.3088,,,none,,,,,neg80,Org 570-576 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,574,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG573-576_MOC8_NET0,,,,,,,none,,,,,neg80,Org 570-576 refrozen in foil together. Body in bad shape but think BEGL. Min length=25.34 mm; min wgt=0.2590,20220125,LSL
+SG2105,Sarmiento,8,0,575,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG573-576_MOC8_NET0,,,30.59,,,,none,,,,,neg80,Org 570-576 refrozen in foil together. Body in bad shape but think BEGL. min wgt=0.3156,20220125,LSL
+SG2105,Sarmiento,8,0,576,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG573-576_MOC8_NET0,,,28,,,,none,,,,,neg80,Org 570-576 refrozen in foil together. Body in bad shape but think BEGL.min wgt=0.2421,20220125,LSL
+SG2105,Sarmiento,8,0,577,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG577-580_MOC8_NET0,,,26.14,0.2564,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,578,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG577-580_MOC8_NET0,,,28.62,0.3331,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,579,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG577-580_MOC8_NET0,,,26.16,0.2735,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,580,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG577-580_MOC8_NET0,,,33,0.4815,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,581,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG581-583_MOC8_NET0,,,33.65,0.5391,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,582,103,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG581-583_MOC8_NET0,40.48,37.24,35.93,0.7805,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,583,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG581-583_MOC8_NET0,,,39.43,0.8772,,,none,,,,,neg80,ORG 577-583 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,584,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG584-587_MOC8_NET0,,,37.15,0.7883,,,none,,,,,neg80,Org 584-591 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,585,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG584-587_MOC8_NET0,,,27.19,0.2855,,,none,,,,,neg80,Org 584-591 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,586,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG584-587_MOC8_NET0,,,27.38,0.3025,,,none,,,,,neg80,Org 584-591 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,587,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG584-587_MOC8_NET0,,,27.34,0.3172,,,none,,,,,neg80,Org 584-591 refrozen in foil together,20220125,LSL
+SG2105,Sarmiento,8,0,588,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG588-590_MOC8_NET0,,,,,,,none,,,,,neg80,Org 584-591 refrozen in foil together. Min length=33.41 mm; min wgt=0.5634 g,20220125,LSL
+SG2105,Sarmiento,8,0,589,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG588-590_MOC8_NET0,,,,,,,none,,,,,neg80,Org 584-591 refrozen in foil together. Min length=23.93 mm; min wgt=0.2721 g,20220125,LSL
+SG2105,Sarmiento,8,0,590,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG588-590_MOC8_NET0,,,,,,,none,,,,,neg80,Org 584-591 refrozen in foil together. Min length=31.44 mm; min wgt=0.6825 g,20220125,LSL
+SG2105,Sarmiento,8,0,591,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG5791-593_MOC8_NET0,,,,,,,none,,,,,neg80,Org 584-591 refrozen in foil together. ID Notes: fish in poor condition but assuming BEGL. Min length=38.49 mm; min wgt=0.6512 g,20220125,LSL
+SG2105,Sarmiento,8,0,592,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG5791-593_MOC8_NET0,,,25.13,,,,none,,,,,neg80,ID Notes: really poor condition but assuming BEGL. Est wgt=0.1730,20220125,LSL
+SG2105,Sarmiento,8,0,593,103,Benthosema glaciale,BEGL,visual,BEGL,,M,SG2105_ORG5791-593_MOC8_NET0,,,25.19,0.2232,,,none,,,,,neg80,ID Notes: really poor condition but assuming BEGL. ,20220125,LSL
+SG2105,Sarmiento,8,0,594,103,Lampanyctus macdonaldi,LAMA,visual,LAMA,,H,SG2105_ORG594_MOC8_NET0,37.94,,31.75,0.3113,,,none,,,,,neg80,"ID Notes: confident to genus, did not count GR",20220125,LSL
+SG2105,Sarmiento,9,2,595,116,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG595_MOC9_NET2,,,25.67,0.4278,,,mb,1,H,,,neg80,Broken post abdominal spines but pretty confident ID. Gut: severed in body cavity but think all contents made it to vial,20220125,LSL
+SG2105,Sarmiento,9,2,596,116,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG596_MOC9_NET2,35.8,31.56,29.69,0.5618,0.0202,,visual,,,,,neg80,Gut: appeared severed before dissection,20220125,LSL
+SG2105,Sarmiento,9,2,597,116,Protomyctophum arcticum,PRAR,visual,PRAR,,H,SG2105_ORG597_MOC9_NET2,40.6,36.14,32.73,0.5618,,,mb,,,,,neg80,"Gut: cut in half (not sure what's happening today). ID Notes: FF tag said sternoptychid but def myctophid. AO single series (=15), can't assess PVO1-2 because fo skin damage, but interorbital narrow and eyes appear telescopic",20220125,LSL
+SG2105,Sarmiento,9,2,598,116,Protomyctophum arcticum,PRAR,visual,PRAR,,H,SG2105_ORG598_MOC9_NET2,,,33.9,0.6133,0.0142,,visual,,,,,neg80,"ID Notes: FF tag said sternoptychid but def myctophid. AO single series (=15), can't assess PVO1-2 because fo skin damage, but interorbital narrow and eyes appear telescopic",20220125,LSL
+SG2105,Sarmiento,9,2,599,116,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG599_MOC9_NET2,,,32.38,0.1684,,,mb,,,,,neg80,599-600 appear to be same species,20220125,LSL
+SG2105,Sarmiento,9,2,600,116,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG600_MOC9_NET2,34.08,,30.07,,,,none,,,,,neg80,"599-600 appear to be same species. Gut/body cavity/posterior body damaged and falling apart, no fish BC. Est wgt=0.1508 g",20220125,LSL
+SG2105,Sarmiento,9,1,601,114,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG601_MOC9_NET1,,,25.62,0.2127,,,none,,,,,neg80,"Org 602-606 in bad shape with damage, no samples",20220127,LSL
+SG2105,Sarmiento,9,1,602,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG602-604_MOC9_NET1,,,31.57,0.1778,,,none,,,,,neg80,"Org 602-606 in bad shape with damage, no samples",20220127,LSL
+SG2105,Sarmiento,9,1,603,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG602-604_MOC9_NET1,,,28.18,0.1128,,,none,,,,,neg80,"Org 602-606 in bad shape with damage, no samples",20220127,LSL
+SG2105,Sarmiento,9,1,604,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG602-604_MOC9_NET1,,,33.34,0.1871,,,none,,,,,neg80,"Org 602-606 in bad shape with damage, no samples",20220127,LSL
+SG2105,Sarmiento,9,1,605,115,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG605-606_MOC9_NET1,34.62,32.64,30.67,0.161,,,none,,,,,neg80,"Org 602-606 in bad shape with damage, no samples",20220127,LSL
+SG2105,Sarmiento,9,1,606,115,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG605-606_MOC9_NET1,,,,,,,none,,,,,neg80,"Org 602-606 in bad shape with damage, no samples",20220127,LSL
+SG2105,Sarmiento,9,1,607,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG607_MOC9_NET1,37.4,32.56,30.4,0.1467,,,mb,,,,,neg80,,20220127,LSL
+SG2105,Sarmiento,9,1,608,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG608_MOC9_NET1,,,42.08,0.3447,,,mb,,,,,neg80,"Fish in rough shape, body cavity squished but gut appears intact",20220127,LSL
+SG2105,Sarmiento,9,1,609,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG609_MOC9_NET1,,,34.16,0.1879,,,mb,,,,,neg80,,20220127,LSL
+SG2105,Sarmiento,9,1,610,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG610_MOC9_NET1,,,32.75,0.174,0.0178,,visual,,,,,neg80,,20220127,LSL
+SG2105,Sarmiento,9,1,611,115,Cyclothone microdon,CYMI,visual,CYMI,,L,SG2105_ORG611_MOC9_NET1,,39.4,38.11,0.2478,0.0061,,visual,,,,,neg80,,20220127,LSL
+SG2105,Sarmiento,9,1,612,115,Scopelogadus beanii,SCBE,visual,SCBE,,H,SG2105_ORG612_MOC9_NET1,,58.1,52.5,0.2994,,,mb,,,,,neg80,"ID Notes: DF II, 10. Gut damaged but put all into vial, likely other organs present too",20220127,LSL
+SG2105,Sarmiento,9,3,613,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG613_MOC9_NET3,,,25.05,0.4455,,,mb,2,H,,,neg80,ID Notes: single serrated postab spine,20220127,LSL
+SG2105,Sarmiento,9,3,614,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG614_MOC9_NET3,,,22.56,0.2878,,,mb,,,,,neg80,Tissue sample touched petri dish,20220127,LSL
+SG2105,Sarmiento,9,3,615,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG615_MOC9_NET3,,,26.46,0.4106,,,mb,2,H,,,neg80,Gut in mouth but ok. Gonads through vent,20220127,LSL
+SG2105,Sarmiento,9,3,616,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG616_MOC9_NET3,,,20.03,0.2305,0.0202,,visual,,,,,neg80,,20220127,LSL
+SG2105,Sarmiento,9,3,617,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG617_MOC9_NET3,,,24.64,,,,visual,,,,,neg80,Caudal peduncle truncated. Est wgt=0.3768 g,20220127,LSL
+SG2105,Sarmiento,9,3,618,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG618_MOC9_NET3,,,27.26,0.4446,,,visual,,,,,neg80,Gut in mouth and coming apart; put all organisms from mouth into gut vial,20220127,LSL
+SG2105,Sarmiento,9,3,619,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG619_MOC9_NET3,,,24.3,0.306,,,none,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,3,620,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG620_MOC9_NET3,,,20.64,0.2015,,,mb,1,,,,neg80,Gut in mouth,20220128,LSL
+SG2105,Sarmiento,9,3,621,117,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG621_MOC9_NET3,,,23.24,,,,visual,1,,,,neg80,"Gut mushy, hard to remove; may have lost som econtents",20220128,LSL
+SG2105,Sarmiento,9,3,622,117,Valenciennellus tripunctulatus,VATR,visual,VATR,,L,SG2105_ORG622-623_MOC9_NET3,,,,,,,none,,,,,neg80,Head only,20220128,LSL
+SG2105,Sarmiento,9,3,623,117,Myctophidae,MYCT,visual,MYCT,,,SG2105_ORG622-623_MOC9_NET3,,,,,,,none,,,,,neg80,Head only,20220128,LSL
+SG2105,Sarmiento,9,4,624,120,Benthosema glaciale,BEGL,visual,BEGL,,L,SG2105_ORG624-625_MOC9_NET4,,,28.33,0.3101,,,none,,,,,neg80,"Fish in rough shape and only ""bits"" present",20220128,LSL
+SG2105,Sarmiento,9,4,625,120,Myctophidae,MYCT,visual,MYCT,,,SG2105_ORG624-625_MOC9_NET4,,,32.23,0.375,,,none,,,,,neg80,"Fish in rough shape and only ""bits"" present",20220128,LSL
+SG2105,Sarmiento,9,4,626,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG626_MOC9_NET4,,30.15,27.63,0.3222,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,627,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG627_MOC9_NET4,,,30.42,0.3908,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,628,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG628_MOC9_NET4,39.29,36.37,33.75,0.7008,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,629,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG629_MOC9_NET4,33.35,31.52,29.36,0.3703,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,630,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG630_MOC9_NET4,43.01,38.93,37.08,0.8524,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,631,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG631_MOC9_NET4,,29.98,27.63,0.2944,0.0118,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,632,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG632_MOC9_NET4,,34.99,32.77,0.5529,0.0249,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,633,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG633_MOC9_NET4,31.28,29.79,27.62,0.3172,0.0096,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,634,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG634_MOC9_NET4,31.08,28.48,27,0.2878,,,visual,,,,,neg80,Gut tore; contents ok but all organs in vial,20220128,LSL
+SG2105,Sarmiento,9,4,635,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG635_MOC9_NET4,38.83,34.8,33.39,0.5733,0.0321,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,636,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG636_MOC9_NET4,42.2,39.11,36.24,0.6653,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,637,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG637_MOC9_NET4,,,27.86,0.2805,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,638,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG638_MOC9_NET4,,29.26,27.25,0.2774,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,639,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG639_MOC9_NET4,42.44,39.36,36.62,0.7689,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,640,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG640_MOC9_NET4,,30.55,29.36,0.3838,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,641,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG641_MOC9_NET4,,,27.73,0.292,,,mb,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,642,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG642_MOC9_NET4,30.09,27.64,25.85,0.2389,0.0105,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,643,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG643_MOC9_NET4,,29.1,27.29,0.3572,0.0145,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,644,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG644_MOC9_NET4,33.53,32.15,29.69,0.3818,0.0211,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,645,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG6245_MOC9_NET4,44.57,41,38.15,0.8134,0.0464,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,4,646,120,Benthosema glaciale,BEGL,visual,BEGL,,H,SG2105_ORG646_MOC9_NET4,,,40.15,1.2304,0.0588,,visual,,,,,neg80,,20220128,LSL
+SG2105,Sarmiento,9,0,647,118,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG647-650_MOC9_NET0,36.38,32.57,28.94,0.6589,,,none,,,,,neg80,,20220201,LSL
+SG2105,Sarmiento,9,0,648,118,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG647-650_MOC9_NET0,,,19.5,0.19,,,none,,,,,neg80,,20220201,LSL
+SG2105,Sarmiento,9,0,649,118,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG647-650_MOC9_NET0,,26.46,24.24,0.364,,,none,,,,,neg80,,20220201,LSL
+SG2105,Sarmiento,9,0,650,118,Argyropelecus hemigymnus,ARHE,visual,ARHE,,H,SG2105_ORG647-650_MOC9_NET0,,,23.24,0.3486,,,none,,,,,neg80,,20220201,LSL
+SG2105,Sarmiento,9,0,651,118,Argyropelecus aculeatus,ARAC,visual,ARAC,,H,SG2105_ORG651_MOC9_NET0,,43.18,39.02,2.8019,,,none,,,,,neg80,ID Notes: posterior abdominal spine longer/heavier than anterior,20220201,LSL
+SG2105,Sarmiento,9,0,652,118,Argyropelecus olfersii,AROL,genetic,ARLY,20231213,M,SG2105_ORG652_MOC9_NET0,38.39,34.32,31.07,1.1156,,,none,,,,,neg80,"ID Notes: could be olfersi, but believe top preopercular spine past boney edge of preopercle and bottom slightly curved forward",20220201,LSL
+SG2105,Sarmiento,9,0,653,118,Argyropelecus olfersii,AROL,visual,ARLY,,M,SG2105_ORG653_MOC9_NET0,,,28.23,0.7555,,,none,,,,,neg80,ID Notes: could be olfersi; no bottom preopercular spine (either side) to evaluate,20220201,LSL
+SG2105,Sarmiento,9,0,654,118,Argyropelecus olfersii,AROL,visual,AROL,,M,SG2105_ORG654_MOC9_NET0,,,18,0.2593,,,none,,,,,neg80,ID Notes: anterior postabdominal spine curved forward,20220201,LSL
+SG2105,Sarmiento,9,0,655,118,Benthosema glaciale,BEGL,visual,BEGL,,L,SG2105_ORG655-657_MOC9_NET0,,,28.39,0.2656,,,none,,,,,neg80,Org 655-657 in foil together. In really poor shape. Look to be BEGL shaped though. Head squished,20220201,LSL
+SG2105,Sarmiento,9,0,656,118,Benthosema glaciale,BEGL,visual,BEGL,,L,SG2105_ORG655-657_MOC9_NET0,,,25.57,,,,none,,,,,neg80,Org 655-657 in foil together. In really poor shape. Look to be BEGL shaped though.,20220201,LSL
+SG2105,Sarmiento,9,0,657,118,Benthosema glaciale,BEGL,visual,BEGL,,L,SG2105_ORG655-657_MOC9_NET0,,,,,,,none,,,,,neg80,Org 655-657 in foil together. In really poor shape. Look to be BEGL shaped though.,20220201,LSL
+SG2105,Sarmiento,9,0,658,118,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG658-661_MOC9_NET0,,,32.95,0.1751,,,none,,,,,neg80,Org 658-661 refrozen in foil together,20220201,LSL
+SG2105,Sarmiento,9,0,659,118,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG658-661_MOC9_NET0,,,,,,,none,,,,,neg80,Org 658-661 refrozen in foil together,20220201,LSL
+SG2105,Sarmiento,9,0,660,118,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG658-661_MOC9_NET0,,,38.66,0.2913,,,none,,,,,neg80,Org 658-661 refrozen in foil together,20220201,LSL
+SG2105,Sarmiento,9,0,661,118,Cyclothone sp.,CYSP,visual,CYSP,,,SG2105_ORG658-661_MOC9_NET0,,,52.17,0.8972,,,none,,,,,neg80,Org 658-661 refrozen in foil together,20220201,LSL
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,Org 411-421 refrozen in foil together; thawed. Tiny and in poor shape so did not dissect.,20231130,LSL
+,,,,,,,,,,,,,,,,,,,,,,,,,Org 411-421 refrozen in foil together; thawed. Tiny and in poor shape so did not dissect.,20231130,LSL
+,,,,,,,,,,,,,,,,,,,,,,,,,Org 411-421 refrozen in foil together; thawed. Tiny and in poor shape so did not dissect.,20231130,LSL

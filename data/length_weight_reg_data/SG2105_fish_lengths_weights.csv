@@ -1,0 +1,583 @@
+﻿Ship,Date,TimeLocal,DayNight,LatitudeStart,LongitudeStart,LatitudeEnd,LongitudeEnd,Tow_number,Net_number,fish_no,MeshSize,DepthStart,DepthEnd,DepthInterval,VolFiltM3,Scientific_name,Lowest_taxon,Family,AphiaID,Std_length_mm,total_weight_g
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,3,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,39,0.8429
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,4,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,34,0.4717
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,11,333,100,0,100,8374,Myctophum punctatum,Species,Myctophidae,,80,8.2952
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,18,333,100,0,100,15285,Myctophum punctatum,Species,Myctophidae,,69,5.11
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,19,333,100,0,100,15285,Symbolophorus veranyi,Species,Myctophidae,,50,1.9002
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,23,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,28,0.2737
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,24,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,43,1.1004
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,25,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,35,0.5708
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,32,333,500,300,200,12654,Protomyctophum arcticum,Species,Myctophidae,,32,0.5015
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,33,333,300,100,200,13316,Benthosema glaciale,Species,Myctophidae,,22,0.096
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,34,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,39,0.7034
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,35,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,37,0.6342
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,36,333,300,100,200,17420,Argyropelecus olfersii,Species,Sternoptychidae,,27,0.5202
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,37,333,300,100,200,17420,Argyropelecus hemigymnus,Species,Sternoptychidae,,24,0.2996
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,38,333,100,0,100,8374,Cyclothone braueri,Species,Gonostomatidae,,30,0.16
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,41,333,100,0,100,15285,Myctophum punctatum,Species,Myctophidae,,90,12.32
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,42,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,30,0.531
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,43,333,100,0,100,8374,Cyclothone braueri,Species,Gonostomatidae,,34,0.2116
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,46,333,500,300,200,14082,Benthosema glaciale,Species,Myctophidae,,25,0.2322
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,47,333,500,300,200,14082,Benthosema glaciale,Species,Myctophidae,,27,0.2274
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,48,333,1000,500,500,20594,Benthosema glaciale,Species,Myctophidae,,23,0.1322
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,50,333,1000,500,500,21738,Lampanyctus macdonaldi,Species,Myctophidae,,29,0.1355
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,51,333,1000,500,500,21738,Lampanyctus macdonaldi,Species,Myctophidae,,28,0.1978
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,52,333,1000,500,500,21738,Lampanyctus ater,Species,Myctophidae,,106,10.4363
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,53,333,1000,500,500,20594,Benthosema glaciale,Species,Myctophidae,,24,0.1704
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,54,333,1000,500,500,27819,Lampanyctus macdonaldi,Species,Myctophidae,,32,0.1875
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,55,333,1000,500,500,33382,Lampanyctus,Genus,Myctophidae,,145,29.3514
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,56,333,300,100,200,17420,Argyropelecus hemigymnus,Species,Sternoptychidae,,27,0.4611
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,57,333,300,100,200,17420,Argyropelecus hemigymnus,Species,Sternoptychidae,,28,0.5161
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,58,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,25,0.4281
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,59,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,23,0.267
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,60,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,29,0.4908
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,61,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,25,0.3046
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,62,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,33,0.8271
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,63,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,26,0.3358
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,64,333,500,300,200,14082,Argyropelecus hemigymnus,Species,Sternoptychidae,,29,0.5618
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,2,65,333,500,300,200,14082,Argyropelecus olfersii,Species,Sternoptychidae,,17,0.2016
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,2,66,333,500,300,200,10378,Argyropelecus hemigymnus,Species,Sternoptychidae,,28,0.3986
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,2,67,333,500,300,200,10378,Argyropelecus hemigymnus,Species,Sternoptychidae,,33,0.6018
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,2,68,333,500,300,200,10378,Argyropelecus hemigymnus,Species,Sternoptychidae,,27,0.3394
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,69,333,300,100,200,17420,Argyropelecus hemigymnus,Species,Sternoptychidae,,34,0.7329
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,3,70,333,300,100,200,10917,Argyropelecus olfersii,Species,Sternoptychidae,,24,0.3576
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,71,333,300,100,200,18535,Argyropelecus olfersii,Species,Sternoptychidae,,42,2.1565
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,72,333,300,100,200,18535,Argyropelecus olfersii,Species,Sternoptychidae,,26,0.48
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,73,333,300,100,200,18535,Argyropelecus olfersii,Species,Sternoptychidae,,22,0.3995
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,74,333,1000,500,500,20594,Cyclothone braueri,Species,Gonostomatidae,,30,0.1396
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,75,333,1000,500,500,20594,Cyclothone braueri,Species,Gonostomatidae,,29,0.1459
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,76,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,35,0.1816
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,77,333,1000,500,500,20594,Cyclothone braueri,Species,Gonostomatidae,,19,0.0526
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,78,333,1000,500,500,20594,Cyclothone braueri,Species,Gonostomatidae,,45,0.9504
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,79,333,1000,500,500,20594,Cyclothone braueri,Species,Gonostomatidae,,29,0.1458
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,80,333,1000,500,500,20594,Cyclothone braueri,Species,Gonostomatidae,,36,0.1762
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,81,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,32,0.1279
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,82,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,32,0.1538
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,4,83,333,100,0,100,7325,Cyclothone braueri,Species,Gonostomatidae,,30,0.152
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,4,84,333,100,0,100,7325,Cyclothone pallida,Species,Gonostomatidae,,45,0.4034
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,85,333,1000,500,500,21738,Cyclothone,Genus,Gonostomatidae,,34,0.2003
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,86,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,35,0.2095
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,87,333,1000,500,500,21738,Cyclothone,Genus,Gonostomatidae,,59,0.9818
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,88,333,1000,500,500,27819,Sigmops elongatus,Species,Gonostomatidae,,180,25.405
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,89,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,62,1.2205
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,90,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,52,0.6095
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,91,333,1000,500,500,21738,Cyclothone braueri,Species,Gonostomatidae,,32,0.182
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,105,333,1000,500,500,15552,Benthosema glaciale,Species,Myctophidae,,23,0.1452
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,106,333,1000,500,500,15552,Benthosema glaciale,Species,Myctophidae,,25,0.1597
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,107,333,1000,500,500,15552,Benthosema glaciale,Species,Myctophidae,,25,0.1757
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,108,333,1000,500,500,15552,Benthosema glaciale,Species,Myctophidae,,26,0.1866
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,109,333,1000,500,500,15552,Benthosema glaciale,Species,Myctophidae,,25,0.1722
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,110,333,1000,500,500,15552,Benthosema glaciale,Species,Myctophidae,,25,0.1756
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,111,333,1000,500,500,15552,Myctophum punctatum,Species,Myctophidae,,22,0.0856
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,112,333,0,1000,1000,24176,Benthosema glaciale,Species,Myctophidae,,21,0.09
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,113,333,0,1000,1000,24176,Benthosema glaciale,Species,Myctophidae,,23,0.1389
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,114,333,500,0,500,27932,Benthosema glaciale,Species,Myctophidae,,25,0.1768
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,115,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,39,0.2542
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,116,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,32,0.1634
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,117,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,31,0.1228
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,118,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,35,0.2015
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,119,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,33,0.1431
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,120,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,21,0.0597
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,121,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,30,0.1371
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,122,333,0,1000,1000,24176,Cyclothone,Genus,Gonostomatidae,,37,0.1539
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,123,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,26,0.3361
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,124,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,24,0.3102
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,125,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,18,0.2443
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,126,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,21,0.1856
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,127,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,19,0.1402
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,128,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,18,0.1366
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,129,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,16,0.0999
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,3,130,333,500,0,500,27932,Argyropelecus hemigymnus,Species,Sternoptychidae,,14,0.0822
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,131,333,1000,500,500,15552,Xenodermichthys copei,Species,Alepocephalidae,,41,0.5858
+Sarmiento,5/6/21,12:19:00,Day,48.935947,-14.81727,48.944183,-14.88836,1,0,132,333,0,1000,1000,24176,Xenodermichthys copei,Species,Alepocephalidae,,38,0.3781
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,133,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,31,0.1818
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,134,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,31,0.1495
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,135,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,34,0.1688
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,136,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,34,0.1835
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,137,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,35,0.1445
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,138,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,40,0.2881
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,139,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,33,0.1846
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,140,333,1000,500,500,15552,Cyclothone,Genus,Gonostomatidae,,53,0.8086
+Sarmiento,5/6/21,12:19:00,Day,48.935261,-14.81727,48.944183,-14.88836,1,1,141,333,1000,500,500,15552,Nannobrachium,Genus,Myctophidae,,28,0.1375
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,156,333,300,100,200,13316,Argyropelecus,Genus,Sternoptychidae,,24.7,0.4401
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,157,333,300,100,200,13316,Argyropelecus,Genus,Sternoptychidae,,16.5,0.1367
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,158,333,300,100,200,13316,Argyropelecus,Genus,Sternoptychidae,,15.8,0.1329
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,159,333,300,100,200,13316,Argyropelecus,Genus,Sternoptychidae,,14.3,0.0841
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,160,333,300,100,200,13316,Argyropelecus,Genus,Sternoptychidae,,15.1,0.0927
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,161,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.7,0.4253
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,162,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.9,0.2056
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,163,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.8,0.4568
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,164,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,22.9,0.2577
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,165,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,18.2,0.1391
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,166,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.4,0.1594
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,167,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.5,0.2164
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,168,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,17.6,0.1179
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,169,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.9,0.3145
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,170,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,16.1,0.0971
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,171,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,22.3,0.2275
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,3,172,333,300,100,200,13316,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.2,0.268
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,173,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.6,0.4908
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,174,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,23,0.243
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,175,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.2,0.1783
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,176,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,20,0.179
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,177,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.5,0.4585
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,178,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,17.1,0.1077
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,179,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,24,0.3163
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,180,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,15.8,0.0968
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,181,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.3,0.2905
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,182,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.7,0.2733
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,183,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,18.8,0.1546
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,2,184,333,500,300,200,12654,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.8,0.1979
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,185,333,0,1000,1000,21475,Argyropelecus hemigymnus,Species,Sternoptychidae,,21.2,0.2106
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,186,333,1000,500,500,23023,Scopelogadus,Genus,Melamphaidae,,165,46.1404
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,187,333,1000,500,500,23023,Nannobrachium,Genus,Myctophidae,,30.6,0.1439
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,188,333,1000,500,500,23023,Nannobrachium,Genus,Myctophidae,,32.1,0.1868
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,189,333,1000,500,500,23023,Benthosema glaciale,Species,Myctophidae,,23.4,0.1428
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,190,333,1000,500,500,23023,Benthosema glaciale,Species,Myctophidae,,20.9,0.1066
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,192,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,53.8,0.4745
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,193,333,0,1000,1000,21475,Benthosema glaciale,Species,Myctophidae,,38.2,0.5422
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,194,333,0,1000,1000,21475,Benthosema glaciale,Species,Myctophidae,,33.5,0.3987
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,195,333,0,1000,1000,21475,Benthosema glaciale,Species,Myctophidae,,25.8,0.2129
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,196,333,0,1000,1000,21475,Benthosema glaciale,Species,Myctophidae,,23.5,0.1685
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,197,333,0,1000,1000,21475,Benthosema glaciale,Species,Myctophidae,,22,0.1254
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,200,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,34.9,0.1838
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,201,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,32.9,0.192
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,202,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,31,0.1832
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,203,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,32.3,0.2059
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,204,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,35.4,0.1925
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,205,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,37.7,0.2403
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,206,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,40.1,0.3098
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,207,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,29.7,0.1224
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,208,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,35.9,0.2165
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,209,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,33.8,0.1689
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,210,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,36.5,0.2249
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,211,333,1000,500,500,23023,Cyclothone,Genus,Gonostomatidae,,47.3,0.4994
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,212,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,37.7,0.6804
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,213,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,43.3,0.89
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,214,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,37.9,0.5735
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,215,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,36.6,0.5585
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,216,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,34.5,0.4988
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,217,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,31.9,0.4995
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,218,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,23.2,0.1628
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,219,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,30.4,0.3508
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,220,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.7,0.2021
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,221,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,25,0.2045
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,222,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,26.7,0.2052
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,223,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,33.3,0.4407
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,224,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.5,0.1755
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,225,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,22.8,0.1545
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,226,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.5,0.1748
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,227,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,23.8,0.1755
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,228,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,31,0.4062
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,229,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,21.1,0.1295
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,230,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,25.8,0.1913
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,231,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,31,0.3717
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,232,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.6,0.1899
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,233,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,22.9,0.1452
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,234,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24,0.1728
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,235,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.1,0.1711
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,236,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.7,0.1948
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,237,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,25.8,0.204
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,238,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,23.8,0.1678
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,239,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24,0.1724
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,240,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24,0.1798
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,241,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,25.3,0.2135
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,242,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,22.4,0.1614
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,4,243,333,100,0,100,7943,Benthosema glaciale,Species,Myctophidae,,24.7,0.1805
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,244,333,1000,500,500,23023,Xenodermichthys copei,Species,Alepocephalidae,,41.9,0.5291
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,245,333,1000,500,500,23023,Xenodermichthys copei,Species,Alepocephalidae,,58.2,1.4328
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,246,333,1000,500,500,23023,Xenodermichthys copei,Species,Alepocephalidae,,46.4,0.8161
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,1,247,333,1000,500,500,23023,Xenodermichthys copei,Species,Alepocephalidae,,44.4,0.677
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,248,333,1000,500,500,33382,Xenodermichthys copei,Species,Alepocephalidae,,61.3,1.932
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,249,333,1000,500,500,33382,Xenodermichthys copei,Species,Alepocephalidae,,52.8,1.212
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,4,251,333,100,0,100,7325,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.1,0.4404
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,4,252,333,100,0,100,7325,Argyropelecus hemigymnus,Species,Sternoptychidae,,25.5,0.3666
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,257,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,37.6,0.2048
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,258,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,32.2,0.1882
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,259,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,33.4,0.2536
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,260,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,38,0.21
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,261,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,31.8,0.1901
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,262,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,35.6,0.2123
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,263,333,0,1000,1000,21475,Cyclothone,Genus,Gonostomatidae,,33.5,0.1871
+Sarmiento,5/6/21,21:33:00,Night,48.950748,-14.812915,48.960967,-14.928838,2,0,264,333,0,1000,1000,21475,Scopelogadus,Genus,Melamphaidae,,55.5,3.6651
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,265,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,42.1,0.4626
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,3,267,333,300,100,200,10612,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.1,0.3457
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,269,333,1000,500,500,25437,Xenodermichthys copei,Species,Alepocephalidae,,51,1.0914
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,271,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,27.5,0.0989
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,272,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,33.6,0.2079
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,273,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,40.9,0.3635
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,274,333,1000,500,500,25437,Scopelogadus beanii,Species,Melamphaidae,,114.1,37.8125
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,0,275,333,0,500,500,9500,Argyropelecus hemigymnus,Species,Sternoptychidae,,22.3,0.1956
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,0,276,333,0,500,500,9500,Argyropelecus,Genus,Sternoptychidae,,17.1,0.1763
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,0,277,333,0,500,500,9500,Argyropelecus,Genus,Sternoptychidae,,17.4,0.1895
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,0,278,333,0,500,500,9500,Argyropelecus,Genus,Sternoptychidae,,11.1,0.0326
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,2,279,333,300,100,200,17010,Argyropelecus hemigymnus,Species,Sternoptychidae,,18.8,0.1532
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,280,333,500,300,200,6152,Argyropelecus,Genus,Sternoptychidae,,29,0.8252
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,281,333,500,300,200,6152,Argyropelecus,Genus,Sternoptychidae,,17,0.138
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,282,333,500,300,200,6152,Argyropelecus hemigymnus,Species,Sternoptychidae,,20,0.2086
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,283,333,500,300,200,6152,Argyropelecus hemigymnus,Species,Sternoptychidae,,14.8,0.0808
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,284,333,500,300,200,6152,Argyropelecus hemigymnus,Species,Sternoptychidae,,22.2,0.2792
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,285,333,500,300,200,6152,Argyropelecus hemigymnus,Species,Sternoptychidae,,21.8,0.2251
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,286,333,500,300,200,6152,Cyclothone,Genus,Gonostomatidae,,31.7,0.1406
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,287,333,500,300,200,6152,Cyclothone,Genus,Gonostomatidae,,41.6,0.2352
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,288,333,500,300,200,6152,Cyclothone,Genus,Gonostomatidae,,35.6,0.2313
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,289,333,500,300,200,6152,Benthosema glaciale,Species,Myctophidae,,22.2,0.1405
+Sarmiento,5/7/21,10:49:00,Day,48.933708,-14.935774,48.905158,-14.919339,3,1,290,333,500,300,200,6152,Benthosema glaciale,Species,Myctophidae,,24,0.1513
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,291,333,0,1000,1000,23915,Argyropelecus,Genus,Sternoptychidae,,83,15.3868
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,292,333,0,1000,1000,23915,Argyropelecus hemigymnus,Species,Sternoptychidae,,26,0.3466
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,293,333,0,1000,1000,23915,Argyropelecus hemigymnus,Species,Sternoptychidae,,19.2,0.1934
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,294,333,0,1000,1000,23915,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.2,0.3083
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,295,333,0,1000,1000,23915,Argyropelecus hemigymnus,Species,Sternoptychidae,,18.8,0.1558
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,296,333,0,1000,1000,23915,Argyropelecus hemigymnus,Species,Sternoptychidae,,21.9,0.2256
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,297,333,0,1000,1000,23915,Argyropelecus hemigymnus,Species,Sternoptychidae,,19.5,0.175
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,298,333,500,300,200,11623,Myctophidae,Family,Myctophidae,,24.2,0.1913
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,299,333,500,300,200,11623,Cyclothone microdon,Species,Gonostomatidae,,45.1,0.4276
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,300,333,500,300,200,11623,Cyclothone braueri,Species,Gonostomatidae,,53.3,0.8999
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,301,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,26.6,0.2434
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,302,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,24.8,0.1899
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,303,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,25,0.1947
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,304,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,26.1,0.2395
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,305,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,24.4,0.2709
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,306,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,26.3,0.2596
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,307,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,23.7,0.2016
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,308,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,34.8,0.5607
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,309,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,34.3,0.5452
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,310,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,35.6,0.6199
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,311,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,32.7,0.5501
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,312,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,26,0.263
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,313,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,38.3,0.7975
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,314,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,36.2,0.6317
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,315,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,36.6,0.6446
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,316,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,40.7,0.9021
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,317,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,35.8,0.6408
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,318,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,34.1,0.5744
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,319,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,35.6,0.6179
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,320,333,0,1000,1000,23915,Benthosema glaciale,Species,Myctophidae,,35.1,0.5502
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,321,333,0,1000,1000,23915,Lampanyctus macdonaldi,Species,Myctophidae,,34,0.2268
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,322,333,0,1000,1000,23915,Lampanyctus macdonaldi,Species,Myctophidae,,29.6,0.1629
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,323,333,1000,500,500,33382,Lampanyctus macdonaldi,Species,Myctophidae,,32.4,0.179
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,324,333,1000,500,500,33382,Lampanyctus macdonaldi,Species,Myctophidae,,31.3,0.2363
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,3,325,333,300,100,200,11011,Benthosema glaciale,Species,Myctophidae,,24.2,0.1774
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,3,326,333,300,100,200,11011,Argyropelecus hemigymnus,Species,Sternoptychidae,,31.1,0.8264
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,327,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.2,0.3003
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,328,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.7,0.3373
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,329,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.7,0.718
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,330,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.4,0.6738
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,331,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.4,0.4871
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,332,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,25,0.3908
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,333,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,21.2,0.1989
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,334,333,500,300,200,11623,Argyropelecus hemigymnus,Species,Sternoptychidae,,14.6,0.0787
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,2,335,333,500,300,200,11623,Argyropelecus lychnus,Species,Sternoptychidae,,14.5,0.08
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,336,333,1000,500,500,33382,Cyclothone microdon,Species,Gonostomatidae,,31,0.1652
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,337,333,1000,500,500,33382,Cyclothone microdon,Species,Gonostomatidae,,37,0.2099
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,338,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,32,0.155
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,339,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,31,0.1526
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,340,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,34,0.1598
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,341,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,32,0.1437
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,342,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,30.9,0.1495
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,343,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,32,0.1615
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,344,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,33,0.2129
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,345,333,1000,500,500,33382,Cyclothone microdon,Genus,Gonostomatidae,,32.3,0.1576
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,346,333,1000,500,500,33382,Cyclothone microdon,Species,Gonostomatidae,,31.2,0.1598
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,347,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,36,0.2496
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,348,333,1000,500,500,33382,Cyclothone,Genus,Gonostomatidae,,35,0.2193
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,349,333,1000,500,500,33382,Cyclothone microdon,Species,Gonostomatidae,,29,0.1078
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,350,333,1000,500,500,33382,Cyclothone microdon,Species,Gonostomatidae,,34,0.232
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,351,333,1000,500,500,33382,Cyclothone microdon,Species,Gonostomatidae,,69,1.5694
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,352,333,1000,500,500,33382,Lampanyctus macdonaldi,Species,Myctophidae,,31,0.1739
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,353,333,1000,500,500,33382,Lampanyctus macdonaldi,Species,Myctophidae,,35.3,0.2937
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,1,354,333,1000,500,500,33382,Lampanyctus macdonaldi,Species,Myctophidae,,26.3,0.1028
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,355,333,0,1000,1000,23915,Cyclothone microdon,Species,Gonostomatidae,,45,0.3926
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,356,333,0,1000,1000,23915,Cyclothone microdon,Species,Gonostomatidae,,33,0.192
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,357,333,0,1000,1000,23915,Cyclothone microdon,Species,Gonostomatidae,,34,0.1826
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,358,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,32,0.1997
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,359,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,31,0.1448
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,360,333,0,1000,1000,23915,Cyclothone microdon,Species,Gonostomatidae,,46,0.5449
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,361,333,0,1000,1000,23915,Cyclothone microdon,Species,Gonostomatidae,,38,0.2276
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,362,333,0,1000,1000,23915,Cyclothone microdon,Species,Gonostomatidae,,32,0.1674
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,363,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,32,0.2153
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,364,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,41,0.3028
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,365,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,36,0.2448
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,366,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,31,0.1832
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,367,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,31,0.159
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,368,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,31,0.1608
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,369,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,32,0.1691
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,370,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,30,0.1458
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,371,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,33,0.2013
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,372,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,28,0.147
+Sarmiento,5/13/21,2:18:00,Night,49.117264,-14.734732,49.027761,-14.771244,4,0,373,333,0,1000,1000,23915,Cyclothone,Genus,Gonostomatidae,,35,0.1843
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,375,333,500,300,200,9588,Argyropelecus lychnus,Species,Sternoptychidae,,15.8,0.0959
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,376,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.1,0.2102
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,377,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,17,0.1147
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,378,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,23,0.3179
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,379,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,20,0.13
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,380,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,22,0.2254
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,381,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,19,0.1271
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,382,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,23,0.1943
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,383,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,19.3,0.1471
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,384,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,16.6,0.0855
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,385,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,22.1,0.2046
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,386,333,500,300,200,9588,Argyropelecus hemigymnus,Species,Sternoptychidae,,16.2,0.0956
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,2,390,333,500,300,200,9588,Protomyctophum arcticum,Species,Myctophidae,,32.1,0.4838
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,391,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,33,0.1913
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,392,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,32,0.171
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,393,333,1000,500,500,20594,Cyclothone microdon,Species,Gonostomatidae,,38.5,0.254
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,394,333,1000,500,500,20594,Cyclothone microdon,Species,Gonostomatidae,,55.8,0.8007
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,395,333,1000,500,500,20594,Cyclothone,Genus,Gonostomatidae,,27.8,0.0864
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,1,397,333,1000,500,500,20594,Lampanyctus,Genus,Myctophidae,,33.3,0.1862
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,398,333,0,1000,1000,14518,Argyropelecus hemigymnus,Species,Sternoptychidae,,18,0.1458
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,399,333,0,1000,1000,14518,Argyropelecus hemigymnus,Species,Sternoptychidae,,32.7,0.7166
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,400,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,32.6,0.1951
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,401,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,31.4,0.1748
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,402,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,33.7,0.1623
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,403,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,21.7,0.0725
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,404,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,31.3,0.1592
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,405,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,30,0.1519
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,406,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,31,0.1595
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,407,333,0,1000,1000,14518,Cyclothone,Genus,Gonostomatidae,,30.2,0.1371
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,408,333,0,1000,1000,14518,Cyclothone microdon,Species,Gonostomatidae,,56.8,0.8946
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,409,333,0,1000,1000,14518,Cyclothone microdon,Species,Gonostomatidae,,52.1,0.649
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,410,333,0,1000,1000,14518,Cyclothone microdon,Species,Gonostomatidae,,31.9,0.1552
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,411,333,0,1000,1000,14518,Benthosema glaciale,Species,Myctophidae,,26.4,0.1926
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,412,333,0,1000,1000,14518,Lampanyctus macdonaldi,Species,Myctophidae,,35.2,0.293
+Sarmiento,5/13/21,15:30:00,Day,49.111649,-14.747449,49.149111,-14.685163,5,0,413,333,0,1000,1000,14518,Lampanyctus macdonaldi,Species,Myctophidae,,31.2,0.167
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,414,333,100,0,100,8374,Myctophum punctatum,Species,Myctophidae,,68,4.9378
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,415,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,25,0.2104
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,416,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,25.3,0.2056
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,417,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,29.2,0.3411
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,418,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,24,0.1917
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,419,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,23.4,0.1808
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,420,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,24.7,0.2134
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,421,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,27.2,0.2843
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,422,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,26.6,0.284
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,423,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,33.7,0.6518
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,424,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,25.7,0.2364
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,425,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,27,0.2282
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,426,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,26.5,0.2357
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,427,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,24.8,0.2
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,428,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,21.3,0.1258
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,429,333,100,0,100,8374,Benthosema glaciale,Species,Myctophidae,,24,0.187
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,430,333,100,0,100,8374,Myctophum punctatum,Species,Myctophidae,,23.4,0.1803
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,431,333,100,0,100,8374,Myctophum punctatum,Species,Myctophidae,,21.5,0.1262
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,4,432,333,100,0,100,8374,Myctophum punctatum,Species,Myctophidae,,24,0.1723
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,2,434,333,500,300,200,10378,Valenciennellus tripunctulatus,Species,Sternoptychidae,,30.5,0.3369
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,435,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,30.5,0.1554
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,436,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,29.8,0.118
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,437,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,30.9,0.1396
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,438,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,29.6,0.1316
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,439,333,1000,500,500,25437,Cyclothone microdon,Species,Gonostomatidae,,37.3,0.2729
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,440,333,1000,500,500,25437,Cyclothone microdon,Species,Gonostomatidae,,29.2,0.1341
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,441,333,1000,500,500,25437,Cyclothone microdon,Species,Gonostomatidae,,30.7,0.1424
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,442,333,1000,500,500,25437,Cyclothone microdon,Species,Gonostomatidae,,28.4,0.1024
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,443,333,1000,500,500,25437,Cyclothone,Genus,Gonostomatidae,,32.3,0.1659
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,1,444,333,1000,500,500,25437,Cyclothone microdon,Species,Gonostomatidae,,34.7,0.1879
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,445,333,0,1000,1000,17992,Benthosema glaciale,Species,Myctophidae,,35.3,0.5531
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,446,333,0,1000,1000,17992,Benthosema glaciale,Species,Myctophidae,,25.9,0.1874
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,447,333,0,1000,1000,17992,Benthosema glaciale,Species,Myctophidae,,26.9,0.241
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,448,333,0,1000,1000,17992,Benthosema glaciale,Species,Myctophidae,,25.3,0.1902
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,450,333,0,1000,1000,17992,Lampanyctus macdonaldi,Species,Myctophidae,,31.1,0.1533
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,451,333,0,1000,1000,17992,Lampanyctus macdonaldi,Species,Myctophidae,,31.9,0.169
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,452,333,0,1000,1000,17992,Lampanyctus macdonaldi,Species,Myctophidae,,28.9,0.2994
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,453,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,41.5,0.3608
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,454,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,40.6,0.3162
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,455,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,34.4,0.228
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,456,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,35.4,0.2496
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,457,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,31.9,0.1694
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,458,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,34.3,0.213
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,459,333,0,1000,1000,17992,Cyclothone microdon,Species,Gonostomatidae,,30.5,0.1433
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,460,333,0,1000,1000,17992,Cyclothone,Genus,Gonostomatidae,,33.5,0.2038
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,461,333,0,1000,1000,17992,Cyclothone,Genus,Gonostomatidae,,45.7,0.4315
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,462,333,0,1000,1000,17992,Cyclothone,Genus,Gonostomatidae,,43.5,0.4263
+Sarmiento,5/14/21,0:18:00,Night,48.972416,-14.708406,48.91968,-14.79558,6,0,463,333,0,1000,1000,17992,Cyclothone,Genus,Gonostomatidae,,37.6,0.3187
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,464,333,1000,500,500,17737,Cyclothone microdon,Species,Gonostomatidae,,51.4,0.597
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,465,333,1000,500,500,17737,Cyclothone microdon,Species,Gonostomatidae,,34.4,0.2707
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,466,333,1000,500,500,17737,Cyclothone microdon,Species,Gonostomatidae,,39.2,0.302
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,467,333,1000,500,500,17737,Cyclothone microdon,Species,Gonostomatidae,,31.1,0.1601
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,468,333,1000,500,500,17737,Cyclothone microdon,Species,Gonostomatidae,,32.4,0.1538
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,469,333,1000,500,500,17737,Cyclothone microdon,Species,Gonostomatidae,,34.4,0.2282
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,470,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,31.8,0.1792
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,471,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,33.5,0.1823
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,472,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,31.5,0.1939
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,473,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,32,0.1936
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,474,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,33,0.2221
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,475,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,31.2,0.1773
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,476,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,32,0.1846
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,477,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,32.7,0.1786
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,478,333,1000,500,500,17737,Cyclothone,Genus,Gonostomatidae,,31.9,0.1733
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,479,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,33.4,0.1962
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,480,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,31.7,0.2086
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,481,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,32.9,0.1947
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,482,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,31.7,0.1937
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,483,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,31,0.1847
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,484,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,30.7,0.173
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,485,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,32.3,0.1976
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,486,333,0,1000,1000,19617,Cyclothone microdon,Species,Gonostomatidae,,28.5,0.1176
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,487,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,38.7,26.27
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,0,488,333,0,1000,1000,19617,Cyclothone,Genus,Gonostomatidae,,37.5,0.2736
+Sarmiento,5/17/21,11:17:00,Day,48.919083,-14.818491,48.942654,-14.950189,7,1,490,333,1000,500,500,17737,Benthosema glaciale,Species,Myctophidae,,34,0.4822
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,491,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.2,0.4614
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,492,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,26.5,0.4165
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,493,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.5,0.5956
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,494,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.4,0.4842
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,495,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.2,0.5571
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,496,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,28.9,0.5472
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,497,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.7,0.3659
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,498,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.1,0.6268
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,499,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,32.5,0.7659
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,500,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.9,0.5291
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,501,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,26.9,0.63
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,502,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,26.4,0.5046
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,503,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.7,0.497
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,504,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.4,0.2976
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,505,333,500,300,200,18058,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.6,0.8309
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,2,506,333,500,300,200,18058,Valenciennellus tripunctulatus,Species,Sternoptychidae,,25.5,0.1499
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,507,333,1000,500,500,27819,Scopelogadus beanii,Species,Melamphaidae,,40.3,1.3939
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,508,333,300,100,200,17420,Diaphus subtilis,Species,Myctophidae,,38.1,1.2052
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,509,333,300,100,200,17420,Lampanyctus macdonaldi,Species,Myctophidae,,41.1,0.5898
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,3,510,333,300,100,200,17420,Lampanyctus macdonaldi,Species,Myctophidae,,35.4,0.2822
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,511,333,0,1000,1000,29356,Argyropelecus hemigymnus,Species,Sternoptychidae,,32.6,0.8703
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,512,333,0,1000,1000,29356,Argyropelecus hemigymnus,Species,Sternoptychidae,,25,0.4447
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,513,333,0,1000,1000,29356,Argyropelecus hemigymnus,Species,Sternoptychidae,,19.3,0.1708
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,514,333,0,1000,1000,29356,Argyropelecus hemigymnus,Species,Sternoptychidae,,21.7,0.3042
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,515,333,0,1000,1000,29356,Argyropelecus hemigymnus,Species,Sternoptychidae,,30.2,1.0412
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,516,333,0,1000,1000,29356,Argyropelecus olfersii,Species,Sternoptychidae,,16.34,0.2683
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,517,333,0,1000,1000,29356,Argyropelecus olfersii,Species,Sternoptychidae,,37,0.2558
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,518,333,0,1000,1000,29356,Cyclothone microdon,Species,Gonostomatidae,,34.1,0.2281
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,519,333,0,1000,1000,29356,Cyclothone microdon,Species,Gonostomatidae,,32.5,0.1937
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,520,333,0,1000,1000,29356,Cyclothone,Genus,Gonostomatidae,,72,2.6112
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,522,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,35.3,0.2445
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,523,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,33.9,0.206
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,524,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,34.5,0.1936
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,525,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,32.1,0.1716
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,526,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,33.6,0.233
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,527,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,33,0.1976
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,528,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,33.5,0.2021
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,529,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,38,0.2971
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,530,333,1000,500,500,27819,Cyclothone microdon,Species,Gonostomatidae,,30,0.1542
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,531,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,39.8,0.3846
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,532,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,28.7,0.1551
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,533,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,31.6,0.2321
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,534,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,38.9,0.3619
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,535,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,34.9,0.2785
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,536,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,32.9,0.2016
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,537,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,30.1,0.1998
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,538,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,30,0.1995
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,539,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,28.3,0.1356
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,1,540,333,1000,500,500,27819,Cyclothone,Genus,Gonostomatidae,,28,0.1117
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,541,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,37,0.7619
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,542,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,27.6,0.2714
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,543,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,28.8,0.3076
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,544,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,27.3,0.2847
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,545,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,27.3,0.318
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,546,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,30.3,0.44
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,547,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,28.9,0.3495
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,548,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,33.6,0.6239
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,549,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,27.4,0.2941
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,550,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,30.4,0.4569
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,551,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,30.2,0.334
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,552,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,29.1,0.3574
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,553,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,29.1,0.3453
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,554,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,35.6,0.6078
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,555,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,35.9,0.695
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,556,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,28.9,0.3077
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,557,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,36.5,0.8217
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,558,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,29,0.3684
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,559,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,40.7,1.0556
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,560,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,27.5,0.2877
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,561,333,100,0,100,15285,Benthosema glaciale,Species,Myctophidae,,40.4,0.9478
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,562,333,100,0,100,15285,Symbolophorus veranyi,Species,Myctophidae,,46.4,1.2998
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,563,333,100,0,100,15285,Symbolophorus veranyi,Species,Myctophidae,,46.1,1.1899
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,564,333,100,0,100,15285,Symbolophorus veranyi,Species,Myctophidae,,43.6,1.1344
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,565,333,100,0,100,15285,Notoscopelus resplendens,Species,Myctophidae,,30.9,0.3802
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,566,333,100,0,100,15285,Symbolophorus veranyi,Species,Myctophidae,,34.1,0.6185
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,567,333,100,0,100,15285,Symbolophorus veranyi,Species,Myctophidae,,47,1.644
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,568,333,100,0,100,15285,Myctophum punctatum,Species,Myctophidae,,42.5,0.9436
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,4,569,333,100,0,100,15285,Myctophum punctatum,Species,Myctophidae,,25.5,0.2375
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,570,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,29.5,0.3183
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,571,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,34.7,0.5812
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,572,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,33.9,0.4968
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,573,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,28.7,0.3088
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,574,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,25.38,0.259
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,575,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,30.6,0.355
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,576,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,28,0.2725
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,577,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,26.1,0.2564
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,578,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,28.6,0.3331
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,579,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,26.2,0.2735
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,580,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,33,0.4815
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,581,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,33.7,0.5391
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,582,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,35.9,0.7805
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,583,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,39.4,0.8772
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,584,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,37.2,0.7883
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,585,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,27.2,0.2855
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,586,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,27.4,0.3025
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,587,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,27.3,0.3172
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,588,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,33.41,0.5634
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,589,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,23.92,0.2721
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,590,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,31.49,0.6825
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,591,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,38.49,0.6512
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,592,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,25.13,0.1975
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,593,333,0,1000,1000,29356,Benthosema glaciale,Species,Myctophidae,,25.2,0.2232
+Sarmiento,5/17/21,23:45:00,Night,49.060371,-15.063954,49.056541,-15.188733,8,0,594,333,0,1000,1000,29356,Lampanyctus macdonaldi,Species,Myctophidae,,31.8,0.3113
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,2,595,333,500,300,200,15366,Argyropelecus hemigymnus,Species,Sternoptychidae,,25.7,0.4278
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,2,596,333,500,300,200,15366,Argyropelecus hemigymnus,Species,Sternoptychidae,,29.7,0.5618
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,2,597,333,500,300,200,15366,Protomyctophum arcticum,Species,Myctophidae,,32.7,0.5618
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,2,598,333,500,300,200,15366,Protomyctophum arcticum,Species,Myctophidae,,33.9,0.6133
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,2,599,333,500,300,200,15366,Cyclothone,Genus,Gonostomatidae,,32.4,0.1684
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,2,600,333,500,300,200,15366,Cyclothone,Genus,Gonostomatidae,,30.1,0.1464
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,601,333,1000,500,500,21738,Benthosema glaciale,Species,Myctophidae,,25.6,0.2127
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,602,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,31.6,0.1778
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,603,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,28.2,0.1128
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,604,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,33.3,0.1871
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,605,333,1000,500,500,21738,Cyclothone,Genus,Gonostomatidae,,30.7,0.161
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,607,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,30.4,0.1467
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,608,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,42.1,0.3447
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,609,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,34.2,0.1879
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,610,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,32.8,0.174
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,611,333,1000,500,500,21738,Cyclothone microdon,Species,Gonostomatidae,,38.1,0.2478
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,1,612,333,1000,500,500,21738,Scopelogadus beanii,Species,Melamphaidae,,52.5,0.2994
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,613,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,25.1,0.4455
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,614,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,22.6,0.2878
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,615,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,26.5,0.4106
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,616,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,20,0.2305
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,617,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.6,0.3509
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,618,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,27.3,0.4446
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,619,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.3,0.306
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,620,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,20.6,0.2015
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,3,621,333,300,100,200,18535,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.2,0.2976
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,624,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,28.3,0.3101
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,625,333,100,0,100,11783,Myctophidae,Family,Myctophidae,,32.2,0.375
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,626,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.6,0.3222
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,627,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,30.4,0.3908
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,628,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,33.8,0.7008
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,629,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,29.4,0.3703
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,630,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,37.1,0.8524
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,631,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.6,0.2944
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,632,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,32.8,0.5529
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,633,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.6,0.3172
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,634,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27,0.2878
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,635,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,33.4,0.5733
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,636,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,36.2,0.6653
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,637,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.9,0.2805
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,638,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.3,0.2774
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,639,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,36.6,0.7689
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,640,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,29.4,0.3838
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,641,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.7,0.292
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,642,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,25.9,0.2389
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,643,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,27.3,0.3572
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,644,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,29.7,0.3818
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,645,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,38.2,0.8134
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,4,646,333,100,0,100,11783,Benthosema glaciale,Species,Myctophidae,,40.2,1.2304
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,647,333,0,1000,1000,17847,Argyropelecus hemigymnus,Species,Sternoptychidae,,28.9,0.6589
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,648,333,0,1000,1000,17847,Argyropelecus hemigymnus,Species,Sternoptychidae,,19.5,0.19
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,649,333,0,1000,1000,17847,Argyropelecus hemigymnus,Species,Sternoptychidae,,24.2,0.364
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,650,333,0,1000,1000,17847,Argyropelecus hemigymnus,Species,Sternoptychidae,,23.2,0.3486
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,651,333,0,1000,1000,17847,Argyropelecus aculeatus,Species,Sternoptychidae,,39,2.8019
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,652,333,0,1000,1000,17847,Argyropelecus lychnus,Species,Sternoptychidae,,31.1,1.1156
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,653,333,0,1000,1000,17847,Argyropelecus lychnus,Species,Sternoptychidae,,28.2,0.7555
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,654,333,0,1000,1000,17847,Argyropelecus olfersii,Species,Sternoptychidae,,18,0.2593
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,655,333,0,1000,1000,17847,Benthosema glaciale,Species,Myctophidae,,28.4,0.2656
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,656,333,0,1000,1000,17847,Benthosema glaciale,Species,Myctophidae,,25.6,0.2087
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,657,333,0,1000,1000,17847,Benthosema glaciale,Species,Myctophidae,,24.9,0.1894
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,658,333,0,1000,1000,17847,Cyclothone,Genus,Gonostomatidae,,33,0.1751
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,660,333,0,1000,1000,17847,Cyclothone,Genus,Gonostomatidae,,38.7,0.2913
+Sarmiento,5/18/21,23:29:00,Night,49.043602,-14.920976,49.079132,-15.014477,9,0,661,333,0,1000,1000,17847,Cyclothone,Genus,Gonostomatidae,,52.2,0.8972
