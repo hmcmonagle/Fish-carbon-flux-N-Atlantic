@@ -64,7 +64,7 @@
 11,10,myctophid,22.39,Cook,Night
 11,10,myctophid,26.73,Cook,Night
 11,10,myctophid,18.34,Cook,Night
-11,10,unknown,53.57,Cook,Night
+11,10,gadid,53.57,Cook,Night
 11,10,myctophid,34.43,Cook,Night
 11,10,myctophid,35.65,Cook,Night
 11,10,myctophid,26.74,Cook,Night
@@ -79,7 +79,6 @@
 11,10,myctophid,26.9,Cook,Night
 11,10,myctophid,35.09,Cook,Night
 11,10,myctophid,26.65,Cook,Night
-11,10,myctophid,27.72,Cook,Night
 11,10,myctophid,27.66,Cook,Night
 11,10,myctophid,27.36,Cook,Night
 47,2,bristlemouth,42.12,Cook,Day
@@ -96,8 +95,8 @@
 47,2,bristlemouth,33.63,Cook,Day
 47,2,bristlemouth,63.63,Cook,Day
 47,2,bristlemouth,47.86,Cook,Day
-47,3,viperfish?,34.64,Cook,Day
-47,3,viperfish?,37.44,Cook,Day
+47,3,myctophid,34.64,Cook,Day
+47,3,myctophid,37.44,Cook,Day
 47,3,myctophid,19.65,Cook,Day
 47,3,viperfish,144.23,Cook,Day
 47,3,bristlemouth,33.72,Cook,Day
@@ -114,8 +113,8 @@
 47,5,hatchetfish,19.8,Cook,Day
 47,5,myctophid,23.29,Cook,Day
 47,5,myctophid,22.89,Cook,Day
-47,5,unknown,13.99,Cook,Day
-47,5,unknown,12.41,Cook,Day
+47,5,myctophid,13.99,Cook,Day
+47,5,myctophid,12.41,Cook,Day
 48,2,bristlemouth,38.38,Cook,Night
 48,2,bristlemouth,39.78,Cook,Night
 48,2,bristlemouth,30.27,Cook,Night
@@ -172,7 +171,7 @@
 90,2,bristlemouth,45.51,Cook,Night
 90,2,bristlemouth,34.25,Cook,Night
 90,2,bristlemouth,32.06,Cook,Night
-90,2,bristlemouth,32.63,Cook,Night
+90,2,myctophid,32.63,Cook,Night
 90,2,bristlemouth,38.77,Cook,Night
 90,2,myctophid,50.74,Cook,Night
 90,2,bristlemouth,40.26,Cook,Night

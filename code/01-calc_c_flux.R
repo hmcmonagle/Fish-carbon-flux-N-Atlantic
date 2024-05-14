@@ -229,6 +229,7 @@ fishdata_for_summary <- fishdata_3_families
 fishdata_for_summary$density <- fishdata_for_summary$weight.to.use / fishdata_for_summary$VolFiltM3 * fishdata_for_summary$DepthInterval
 fish_summary <- fishdata_for_summary %>% group_by(Family) %>% summarize(sum_density = sum(density))
 
-# saved fishdata and volumedata as .csv files ** edit if any edits are needed in raw data 
-write.csv(fishdata, file = "data/fishdata.csv", row.names = FALSE)
-write.csv(volumedata, file = "data/datavolumedata.csv", row.names = FALSE)
+# saved fishdata and volumedata as .csv files
+# commented out write.csv after initially exporting the final analysis dataframe 
+# write.csv(fishdata, file = "data/fishdata.csv", row.names = FALSE)
+# write.csv(volumedata, file = "data/datavolumedata.csv", row.names = FALSE)

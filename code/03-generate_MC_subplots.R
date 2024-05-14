@@ -92,8 +92,11 @@ for (i in 1:nsims){
   C_flux_site_nsims[i] <- ind_C_flux * n_g_myct 
 }
 
+# commented out write.csv after initially creating the MC results, so that 
+# the results produced by this particular set of simulations is not overwritten
+# and is reproducible with results in paper 
 MC_results_VM <- cbind(pars_df, C_t_bar_nsims, q_nsims, cal_nsims, C_flux_site_nsims)
-write.csv(MC_results_VM, "analysis/MC_results.csv", row.names = FALSE)
+# write.csv(MC_results_VM, "analysis/MC_results.csv", row.names = FALSE)
 
 
 #### Repeat MC analysis for NM fish ####
@@ -174,8 +177,11 @@ for (i in 1:nsims){
   C_flux_site_nsims_NM[i] <- ind_C_flux * n_g_myct 
 }
 
+# commented out write.csv after initially creating the MC results, so that 
+# the results produced by this particular set of simulations is not overwritten
+# and is reproducible with results in paper 
 MC_results_NM <- cbind(pars_df, C_t_bar_nsims_NM, q_nsims, cal_nsims, C_flux_site_nsims_NM)
-write.csv(MC_results_NM, "analysis/MC_results_NM.csv", row.names = FALSE)
+# write.csv(MC_results_NM, "analysis/MC_results_NM.csv", row.names = FALSE)
 
 mean(MC_results_VM$C_flux_site_nsims) # 10.7. without taking into account calibration
 # factor variation that might result in lower biomass: 13.0
@@ -186,8 +192,11 @@ mean(MC_results_NM$C_flux_site_nsims_NM) # 2.9. without taking into account
 # Monte Carlo results so that analysis doesn't need to keep being re-run
 # (takes several minutes to run)
 
-saveRDS(MC_results_VM, "analysis/VM_MC_results.RDS")
-saveRDS(MC_results_NM, "analysis/NM_MC_results.RDS")
+# commented out saveRDS after initially creating the MC results, so that 
+# the results produced by this particular set of simulations is not overwritten
+# and is reproducible with results in paper 
+#saveRDS(MC_results_VM, "analysis/VM_MC_results.RDS")
+#saveRDS(MC_results_NM, "analysis/NM_MC_results.RDS")
 
 
 
@@ -569,8 +578,11 @@ for (i in 1:nsims){
   C_flux_site_nsims[i] <- ind_C_flux * n_g_myct 
 }
 
+# commented out write.csv after initially creating the MC results, so that 
+# the results produced by this particular set of simulations is not overwritten
+# and is reproducible with results in paper 
 MC_results_VM_500 <- cbind(pars_df_500, C_t_bar_nsims, q_nsims, cal_nsims, C_flux_site_nsims)
-write.csv(MC_results_VM_500, "analysis/MC_results_VM_500.csv", row.names = FALSE)
+# write.csv(MC_results_VM_500, "analysis/MC_results_VM_500.csv", row.names = FALSE)
 
 
 #### Repeat MC analysis for NM fish at 500 m ####
@@ -654,12 +666,18 @@ for (i in 1:nsims){
   C_flux_site_nsims_NM[i] <- ind_C_flux * n_g_myct 
 }
 
+# commented out write.csv after initially creating the MC results, so that 
+# the results produced by this particular set of simulations is not overwritten
+# and is reproducible with results in paper 
 MC_results_NM_500 <- cbind(pars_df_500, C_t_bar_nsims, q_nsims, cal_nsims, C_flux_site_nsims)
-write.csv(MC_results_NM_500, "analysis/MC_results_NM_500.csv", row.names = FALSE)
+# write.csv(MC_results_NM_500, "analysis/MC_results_NM_500.csv", row.names = FALSE)
 
+# commented out saveRDS after initially creating the MC results, so that 
+# the results produced by this particular set of simulations is not overwritten
+# and is reproducible with results in paper 
 # save to RDS files so MC doesn't need to be re-run 
-saveRDS(MC_results_VM_500, "analysis/VM_MC_results_500.RDS")
-saveRDS(MC_results_NM_500, "analysis/NM_MC_results_500.RDS")
+#saveRDS(MC_results_VM_500, "analysis/VM_MC_results_500.RDS")
+#saveRDS(MC_results_NM_500, "analysis/NM_MC_results_500.RDS")
 
 
 # check run time (given in min below)
