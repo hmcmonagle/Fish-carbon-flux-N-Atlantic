@@ -492,7 +492,9 @@ fish_flux_max_500 / min_BCP * 100 # 13.4%
 
 ####Comparison of mesopelagic fish C flux contribution compared to higher trophic levels ####
 
-# Question from Dr. Simon Thorrold: how does mesopelagic fish flux compare to that of higher trophic levels? 
+
+# Question during a meeting from Dr. Simon Thorrold: how does mesopelagic fish 
+# flux compare to that of higher trophic levels? 
 
 # Durfort et al 2022 finds that currently (post-exploitation), whales in Southern Ocean contribute 
 # about 0.6 x 10^5 t C/yr. Pre-exploitation: 4 x 10^5 t C/yr. If Southern Ocean is about 20,000,000 km^2, 
@@ -504,18 +506,17 @@ fish_flux_max_500 / min_BCP * 100 # 13.4%
 4e5 / 2e7 / 1e6 * 1e9 /365 # pre-exploitation of whales
 
 
-# based on fish flux ranging from 2.9-38 mg C m^-2 d^-1 (could update later with exact estimates from this study**) 
+# based on fish flux ranging from 1.6 to 21 (delete 2.9-38) mg C m^-2 d^-1 
 
-# pre-exploitation: 
-0.055/2.9 *100  
-0.055/38 *100  
-
-
-# post-exploitation: 
-0.0082/2.9 *100 
-0.0082/38 * 100 
-# whales in So Ocean (PRE-exploitation, now 15x less contribution according to Durfort et al 2022)
-# may have contributed roughly 0.02-0.3% of fish flux in NE Atlantic based on our estimate 
+# pre-exploitation, as a percentage: 
+0.055/1.6 *100  
+0.055/21 *100  
 
 
+# post-exploitation, as a percentage: 
+0.0082/1.6 *100 
+0.0082/21 * 100 
+# whales in Southern Ocean (PRE-exploitation, though now there is 15x less contribution according to Durfort et al 2022)
+# may have contributed roughly 0.3-3% of fish flux in NE Atlantic based on our estimate. Post-exploitation, 
+# whales in Southern Ocean may be contributing 0.04-0.5% of fish flux in NE Atlantic based on our estimate. 
 
