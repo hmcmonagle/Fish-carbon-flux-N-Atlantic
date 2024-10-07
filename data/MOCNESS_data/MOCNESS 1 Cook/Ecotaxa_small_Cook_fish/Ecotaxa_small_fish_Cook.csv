@@ -1,6 +1,6 @@
 Tow_number,Net_number,Taxon,Std_length_mm,Ship,DayNight,fraction,sub_part_correct,split_correct,DepthStart,DepthEnd,DepthInterval,Tow_Vol,gray_mode,area_mm2,major_mm,minor_mm,feret_mm,esd_mm,vol,Taxa,L_D,DW,O2_umol,CO2,Image.Name
 10,9,Gonostomatidae,10.271,Cook,Day,2000,2,0.5,100,50,50,528.7,124,6.106688,5.8926144,1.3197001,8.6441944,2.788416924,5.373498652,living>Eukaryota>Opisthokonta>Holozoa>Metazoa>Chordata>Craniata>Vertebrata>Gnathostomata>Actinopterygii,living,0.07791573,0.039739986,0.034573788,201009_2000_1_2_1_tot_1_98
-11,10,Paralepididae,13.057,Cook,Night,5000,2,0.5,50,0,50,523.9,152,5.951792,5.9349464,1.2773681,10.5025692,2.752825716,5.070462275,living>Eukaryota>Opisthokonta>Holozoa>Metazoa>Chordata>Craniata>Vertebrata>Gnathostomata>Actinopterygii,living,0.073521703,0.046827264,0.040739719,201202_5000_1_2_1_tot_1_68
+11,10,Teleostei,13.057,Cook,Night,5000,2,0.5,50,0,50,523.9,152,5.951792,5.9349464,1.2773681,10.5025692,2.752825716,5.070462275,living>Eukaryota>Opisthokonta>Holozoa>Metazoa>Chordata>Craniata>Vertebrata>Gnathostomata>Actinopterygii,living,0.073521703,0.046827264,0.040739719,201202_5000_1_2_1_tot_1_68
 11,10,Myctophidae,12.656,Cook,Night,2000,2,0.5,50,0,50,523.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,201202_2000_1_8_1_tot_1_181
 11,10,Myctophidae,10.929,Cook,Night,2000,2,0.5,50,0,50,523.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,201202_2000_1_8_4_tot_1_247
 48,8,Paralepididae,23.642,Cook,Night,5000,4,0.25,150,100,50,383.9,80,40.163312,14.7812761,3.4595827,23.2000526,7.151046525,92.63134819,living>Eukaryota>Opisthokonta>Holozoa>Metazoa>Chordata>Craniata>Vertebrata>Gnathostomata>Actinopterygii,living,1.343154549,0.074633221,0.064930902,204808_5000_1_4_1_640
@@ -14,3 +14,12 @@ Tow_number,Net_number,Taxon,Std_length_mm,Ship,DayNight,fraction,sub_part_correc
 90,2,Gonostomatidae,22.4,Cook,Night,9900,2,0.5,1000,750,250,1418.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209002_5000_1_1_2_tot_1_128
 90,6,Paralepididae,21.426,Cook,Night,5000,2,0.5,300,200,100,1227.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209006_5000_1_2_1_tot_1_126
 90,6,Paralepididae,24.059,Cook,Night,5000,2,0.5,300,200,100,1227.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209006_5000_1_2_1_tot_1_147
+48,2,Myctophidae,29.419,Cook,Night,5000,1,1,1000,750,250,757.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,204802_5000_1_4_1_63
+90,10,Gonostomatidae,37.77,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_39
+90,10,Gonostomatidae,33.262,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_47
+90,10,Myctophidae,28.865,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_51
+90,10,Myctophidae,16.339,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_52
+90,10,Myctophidae,12.681,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_60
+90,10,Myctophidae,29.419,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_63
+90,10,Myctophidae,29.074,Cook,Night,5000,1,1,50,0,50,510.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209010_5000_1_4_1_tot_1_64
+90,2,Myctophidae,34.709,Cook,Night,9900,1,1,1000,750,250,1418.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,209002_9900_1_1_1_tot_1_25

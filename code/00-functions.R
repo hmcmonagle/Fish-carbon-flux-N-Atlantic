@@ -113,9 +113,8 @@ make_nominal_pars <- function() {
   H_NM  <- 0 # ** changed to 0 for NM fish
   G_NM <- 0.007
   C_c_nm <- 0.1 
-  prop_non_detrital_NM_prey <- 0.6 # might change to range of zoop SIA values from 
-  # Connor Shea's PhD work (Brian Popp's lab), from EXPORTS North Atlantic, 
-  # ** check with Connor about using 0.1-0.7 range from zoop SIA results
+  prop_non_detrital_NM_prey <- 0.6 # might in future change to range of zoop SIA values from 
+  # Connor Shea's PhD work (Brian Popp's lab), from EXPORTS North Atlantic
   
   allpars <- list(Wref = Wref,
                   Tref = Tref,
@@ -486,8 +485,7 @@ load_data <- function() {
   # fish lengths originating from photographs taken at sea and lengths taken from Ecotaxa images (ie same fish
   # were measured and added to datasheet twice, so we'll delete the Ecotaxa rows). Green rows represent those 
   # that were added from the new Ecotaxa image upload in April 2024 
-  # ** (note: still need to finish editing "fishdata-highlighted-edits.xlsx")
-  
+
   # remove columns that aren't needed from the Ecotaxa fish data frame
   # remove Tow_vol column and use volumes from MOCNESS metadata
   # Delete DepthStart, DepthEnd and DepthInterval because these will be added
@@ -1141,8 +1139,7 @@ get_pars <- function(nsims){
   G_NM.vec <- runif(nsims, min = 0.007-0.007*0.5, max = 0.007+0.007*0.5) 
   C_c_nm.vec <- runif(nsims, min = 0.038, max = 0.248) # Ratio of carbon:wet weight of VM fish, from mean of species captured  
   prop_non_detrital_NM_prey.vec <- runif(nsims, min = 0.6-0.6*.5, max = 0.6+0.6*.5) # based on 
-  # Table B1 from previous paper (chapter 1), but check on instead using zoop SIA
-  # results from Connor Shea with his permission **  
+  # Table B1 from previous paper (chapter 1)
   
   
   # make a table with parameter values for each simulation
@@ -1575,7 +1572,7 @@ C.flux.function.NM <- function(W_w_f_NM, Wref, Tref, a0, a1, a2, a3, H_VM_or_NM,
 #   Dmin.vec <- runif(nsims, min = 10, max = 100) 
 #   
 #   B.vec <- runif(nsims, min = 199, max = 201) # set this to 200 m, but adjust when 
-#   # finding the flux at 500 m flux boundary ** 
+#   # finding the flux at 500 m flux boundary 
 #   
 #   S.vec <- runif(nsims, min = 5- (5*.3), max = 5+ (5*.3)) # see table 1 for refs for swimming speed. note that in the code we make swim speed in cm/s and then multiply by 0.01 (unit used in references), but in the equation (to remove the 0.01 unit conversion factor) we provide swim speed in m/s. 
 #   

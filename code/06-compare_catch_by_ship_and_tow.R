@@ -178,9 +178,9 @@ catch_by_tow_3families_m2_day_night_date_labels <- ggplot(
         panel.spacing = unit(1.5, 'lines'), axis.title.y = element_text(vjust=2), 
         axis.title.x = element_text(vjust=-2), plot.margin = unit(c(0.5, 0.5, 0.5, 0.5),
                                                                   "inches")) + 
-  facet_grid(~DayNight, scales = "free", space = "free") + 
-  scale_fill_manual(values = c("#7570B3", "#66A61E")) + scale_color_manual(values = c("#7570B3", "#66A61E")) +
-  scale_y_continuous(breaks = c(0, 0.5, 1, 1.5, 2, 2.5), limits = c(0, 2.5)) 
+  facet_grid(~DayNight, scales = "free", space = "free") +
+  scale_fill_manual(breaks = c("10 sq. meter MOCNESS", "1 sq. meter MOCNESS"), values = c("#7570B3", "#66A61E")) +
+  scale_y_continuous(breaks = c(0, 0.5, 1, 1.5, 2, 2.5), limits = c(0, 2.5))  
 
 catch_by_tow_3families_m2_day_night_date_labels
 
@@ -449,4 +449,10 @@ summary(aov(weight.to.use.VolFiltM3.DepthInterval ~ Ship * DayNight + Ship:DayNi
 # caught significantly more during the day than the MOC-10.
 # Catches were more comparable at night for both nets. 
 
+### Minor calculation for Introduction ####
 
+# if Proud et al. 2019 estimate that mesopelagic fish biomass is 2-16 billion metric ton globally, 
+# and if Jennings et al 2008, Wilson et al 2009, Bianchi et al 2021, and Gjosaeter and Kawaguchi 1980
+# estimate that global fish biomass in total is about 1 billion metric ton, then mesopelagic fishes
+# comprise anywhere from roughly 67% (2 Gt mesopelagic fishes / 3 Gt fish total) and 94%
+# (16 Gt mesopelagic fishes / 17 Gt fish total) of global fish biomass.
