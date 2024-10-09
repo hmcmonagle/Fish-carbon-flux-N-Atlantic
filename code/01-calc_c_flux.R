@@ -232,4 +232,4 @@ fish_summary <- fishdata_for_summary %>% group_by(Family) %>% summarize(sum_dens
 # saved fishdata and volumedata as .csv files
 # commented out write.csv after initially exporting the final analysis dataframe 
 # write.csv(fishdata, file = "data/fishdata.csv", row.names = FALSE)
-# write.csv(volumedata, file = "data/datavolumedata.csv", row.names = FALSE)
+# write.csv(volumedata, file = "data/volumedata.csv", row.names = FALSE)
