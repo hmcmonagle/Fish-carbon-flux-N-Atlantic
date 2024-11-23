@@ -791,8 +791,8 @@ calc_n_g <- function(catch, taxon, capture_efficiency, cal){
 
 #### Functions to calculate total weight of each fish where missing ####
 
-# Where total weight wasn't measured empirically, estimate total weight
-# of each individual fish using lenghts and the following length-weight model by taxon.
+# Where total weight wasn't measured empirically, estimate total weight (wet weight)
+# of each individual fish using lengths and the following length-weight model by taxon.
 # This is based on the method in Thorson et al. 2017 and is further explained in Appendix B. 
 
 # Function to estimate L - W conversion parameters via phylogenetic hierarchical model ####
