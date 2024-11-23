@@ -793,6 +793,7 @@ calc_n_g <- function(catch, taxon, capture_efficiency, cal){
 
 # Where total weight wasn't measured empirically, estimate total weight
 # of each individual fish using lenghts and the following length-weight model by taxon.
+# This is based on the method in Thorson et al. 2017 and is further explained in Appendix B. 
 
 # Function to estimate L - W conversion parameters via phylogenetic hierarchical model ####
 calc_lw <- function() {
