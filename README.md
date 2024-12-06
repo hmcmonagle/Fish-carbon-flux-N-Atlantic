@@ -1,5 +1,5 @@
 # Fish-carbon-flux-N-Atlantic
-Accompanying data and code for fish-mediated carbon flux study in North Atlantic (WHOI/EXPORTS cruises SG2105 and JC214) published open-access in ICES Journal of Marine Science: https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae149/7884982
+Accompanying data and code is available in this repository for our fish-mediated carbon flux study in North Atlantic (WHOI/EXPORTS cruises SG2105 and JC214). The publication for this work is available open-access in ICES Journal of Marine Science: https://academic.oup.com/icesjms/advance-article/doi/10.1093/icesjms/fsae149/7884982
 
 Data can also be found on NASA SeaBASS website for this cruise
 
