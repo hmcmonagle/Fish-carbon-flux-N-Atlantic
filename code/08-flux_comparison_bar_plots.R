@@ -401,6 +401,43 @@ dot_plot_200m <- ggplot(data = flux_pathways, aes(x = carbon_flux, y = pathway))
 # print plot  
 dot_plot_200m
 
+# for simplified figure in presentation, plot just fish, zoop and sediment trap data
+# and remove the min/max dots
+
+# subset to exclude Th-234 data
+flux_pathways_simple <- flux_pathways[flux_pathways$pathway %in% c("sinking particles from sediment traps, t1", 
+                                                                   "sinking particles from sediment traps, t2", 
+                                                                   "sinking particles from sediment traps, t3", 
+                                                                   "zooplankton", "fish"),]
+# rename "sinking particles from sediment traps" to just "sinking particles"
+# rename flux_pathways_simple$pathway[1] to "sinking particles, time period 1"
+# rename flux_pathways_simple$pathway[2] to "sinking particles, time period 2"
+# rename flux_pathways_simple$pathway[3] to "sinking particles, time period 3"
+flux_pathways_simple$pathway <- gsub("sinking particles from sediment traps", "sinking particles", flux_pathways_simple$pathway)
+
+# make order of pathways consistent with previous plot
+flux_pathways_simple$pathway <- factor(flux_pathways_simple$pathway, levels = c("sinking particles, t3",
+                                                                  "sinking particles, t2", 
+                                                                  "sinking particles, t1", 
+                                                                  "zooplankton", "fish"))
+
+dot_plot_200m_simple <- ggplot(data = flux_pathways_simple, aes(x = carbon_flux, y = pathway)) + 
+  geom_point(aes(color = pathway, size = 2)) + theme_bw() + 
+  theme(plot.margin = margin(10, 10, 5, 50), legend.title=element_blank(), legend.position = "none", 
+        strip.background.x = element_blank(), 
+        strip.text.x = element_text(size = 26), panel.border = element_blank(), 
+        panel.grid.major = element_blank(), panel.grid.minor = element_blank(), 
+        axis.line = element_line(colour = "black"), text = element_text(size = 24)) +
+  # make the 2 and one in superscript
+  xlab(expression("Carbon transport to 200m (mg m"^-2*" d"^-1*")")) +
+  ylab(expression("  \n  ")) + 
+  scale_color_manual(values=c(darker_colors[2],"#1b9e77", lighter_colors[2], 
+                              "#D95F02", "#7570B3")) + 
+  geom_segment(aes(x = uncertainty_min, xend = uncertainty_max, y = pathway, yend = pathway, color = pathway), size = 1.5) +
+  xlim(0, 250)
+
+dot_plot_200m_simple
+
 ##### 500 m ######
 
 # re-word pathways so they don't create returns in y axis labels
@@ -448,7 +485,7 @@ flux_comparison_panels_dot_plots <- ggarrange(dot_plot_200m, dot_plot_500m,
 flux_comparison_panels_dot_plots
 
 # save
-ggsave("graphics/submission_graphics/flux_comparison.jpg", flux_comparison_panels_dot_plots, width = 13, height = 9, units = "in", dpi = 500)
+# ggsave("graphics/submission_graphics/flux_comparison.jpg", flux_comparison_panels_dot_plots, width = 13, height = 9, units = "in", dpi = 500)
 
 
 ## Percent fish C flux compared to total BCP #### 
