@@ -187,7 +187,7 @@ sum(fishdata_sarmiento_summary_without_rare$n)
 
 # create additional summary df with rare Sarmiento fishes that groups by lowest taxon (instead of family)
 fish_Sarmiento_all_include_rare_sp <- fish_Sarmiento_all_include_rare %>% group_by(Tow_net, Lowest_taxon) %>% summarize(n = n())
-
+ 
 # write csv to share with Mei that includes rare species and both large and smaller Sarmiento fishes
 fishdata_Sarmiento_include_rare <- write.csv(fish_Sarmiento_all_include_rare, "data/MOCNESS_data/MOCNESS 10 Sarmiento/Sarmiento_fishdata_include_rare_spp.csv", row.names = FALSE)
 
